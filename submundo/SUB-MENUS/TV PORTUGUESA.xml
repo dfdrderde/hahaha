@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR red]• [/COLOR] [COLOR white]PORTUGAL TV[/COLOR] </title>
 <link>http://ignorame</link>
-<externallink>https://xprojectx.000webhostapp.com/submundo/SUB-MENUS/TV%20PORTUGUESA/TV%20PORTUGUESA.xml</externallink>
+<externallink>https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/TV%20PORTUGUESA/TV%20PORTUGUESA.xml</externallink>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
 <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
 </item>
@@ -41,7 +41,7 @@
  <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://xprojectx.000webhostapp.com/submundo/SUB-MENUS/TV%20PORTUGUESA/DIARIAS.xml</page>
+<page>https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/TV%20PORTUGUESA/DIARIAS.xml</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 
