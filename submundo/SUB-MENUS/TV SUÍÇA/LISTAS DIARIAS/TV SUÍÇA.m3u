@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,CH: CINEMA 1 DE
+http://149.202.72.15:8000/live/marisa/marisa/1933.m3u8
+#EXTINF:-1,CH: CINEMA 1 FR
+http://149.202.72.15:8000/live/marisa/marisa/1934.m3u8
+#EXTINF:-1,CH: CINEMA 1 IT
+http://149.202.72.15:8000/live/marisa/marisa/1935.m3u8
+#EXTINF:-1,CH: CINEMA 2 DE
+http://149.202.72.15:8000/live/marisa/marisa/1936.m3u8
+#EXTINF:-1,CH: CINEMA 2 FR
+http://149.202.72.15:8000/live/marisa/marisa/1937.m3u8
+#EXTINF:-1,CH: CINEMA 2 IT
+http://149.202.72.15:8000/live/marisa/marisa/1938.m3u8
+#EXTINF:-1,CH: La TELE HD
+http://149.202.72.15:8000/live/marisa/marisa/1939.m3u8
+#EXTINF:-1,CH: RSI La 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/1940.m3u8
+#EXTINF:-1,CH: RSI La 2 HD
+http://149.202.72.15:8000/live/marisa/marisa/1941.m3u8
+#EXTINF:-1,CH: Rm3u8 Deux
+http://149.202.72.15:8000/live/marisa/marisa/1942.m3u8
+#EXTINF:-1,CH: Rm3u8 Un HD
+http://149.202.72.15:8000/live/marisa/marisa/1943.m3u8
+#EXTINF:-1,CH: SFR Sport 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/1944.m3u8
+#EXTINF:-1,CH: SFR Sport 2 HD
+http://149.202.72.15:8000/live/marisa/marisa/1945.m3u8
+#EXTINF:-1,CH: SFR Sport 3 HD
+http://149.202.72.15:8000/live/marisa/marisa/1946.m3u8
+#EXTINF:-1,CH: SRF 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/1947.m3u8
+#EXTINF:-1,CH: SRF 2 HD
+http://149.202.72.15:8000/live/marisa/marisa/1948.m3u8
+#EXTINF:-1,CH: SRF Info HD
+http://149.202.72.15:8000/live/marisa/marisa/1949.m3u8
+#EXTINF:-1,CH: TELEBASEL
+http://149.202.72.15:8000/live/marisa/marisa/1950.m3u8
+#EXTINF:-1,CH: TELECLUB SPORT 1HD
+http://149.202.72.15:8000/live/marisa/marisa/1951.m3u8
+#EXTINF:-1,CH: TELECLUB SPORT 2HD
+http://149.202.72.15:8000/live/marisa/marisa/1952.m3u8
+#EXTINF:-1,CH: TELECLUB SPORT 3HD
+http://149.202.72.15:8000/live/marisa/marisa/1953.m3u8
+#EXTINF:-1,CH: Teleclub STAR HD
+http://149.202.72.15:8000/live/marisa/marisa/1954.m3u8
+#EXTINF:-1,CH: TVM3 HD
+http://149.202.72.15:8000/live/marisa/marisa/1955.m3u8

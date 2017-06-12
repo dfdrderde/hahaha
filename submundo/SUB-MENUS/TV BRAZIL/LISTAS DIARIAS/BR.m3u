@@ -1,0 +1,75 @@
+#EXTM3U
+
+
+#EXTINF:-1,TV RECORD HD PT
+http://server.iptvpro.biz:5500/live/roger/roger/63.ts
+#EXTINF:-1,TV GLOBO PORTUGAL
+http://server.iptvpro.biz:5500/live/roger/roger/62.ts
+#EXTINF:-1,TV RECORD BR HD
+http://server.iptvpro.biz:5500/live/roger/roger/708.ts
+#EXTINF:-1,GLOBO BRASIL HD
+http://server.iptvpro.biz:5500/live/roger/roger/707.ts
+#EXTINF:-1,GLOBO INTERNACIONAL BR
+http://server.iptvpro.biz:5500/live/roger/roger/1966.ts
+#EXTINF:-1,ANIMAL PLANET BR HD
+http://server.iptvpro.biz:5500/live/roger/roger/1965.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://server.iptvpro.biz:5500/live/roger/roger/61.ts
+#EXTINF:-1,SPORTV HD  BR
+http://server.iptvpro.biz:5500/live/roger/roger/992.ts
+#EXTINF:-1,SPORTV 2 HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1008.ts
+#EXTINF:-1,SPORTV 3 HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/994.ts
+#EXTINF:-1,COMBATE HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/993.ts
+#EXTINF:-1,BIG BROTHER BRASIL BBB
+http://server.iptvpro.biz:5500/live/roger/roger/1001.ts
+#EXTINF:-1,EIMAX HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/922.ts
+#EXTINF:-1,FOX SPORTS HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/924.ts
+#EXTINF:-1,FOX SPORTS 2 HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1007.ts
+#EXTINF:-1,TELE CINE PIPOCA HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/996.ts
+#EXTINF:-1,TELE CINE FUN HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/995.ts
+#EXTINF:-1,TELE CINE ACTION HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1009.ts
+#EXTINF:-1,MAX HD
+http://server.iptvpro.biz:5500/live/roger/roger/925.ts
+#EXTINF:-1,WARNER HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1012.ts
+#EXTINF:-1,VIVA HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1011.ts
+#EXTINF:-1,TLC HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/997.ts
+#EXTINF:-1,CINEMAX HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1003.ts
+#EXTINF:-1,FOX LIFE HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1006.ts
+#EXTINF:-1,FOX HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1005.ts
+#EXTINF:-1,E! HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1002.ts
+#EXTINF:-1,DISCOVERY HOME E HEALTH HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1000.ts
+#EXTINF:-1,DISCOVERY TURBO HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/921.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/923.ts
+#EXTINF:-1,EI MAXX 2 HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1010.ts
+#EXTINF:-1,A&E HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/1004.ts
+#EXTINF:-1,RECORD NEWS
+http://server.iptvpro.biz:5500/live/roger/roger/59.ts
+#EXTINF:-1,PFC HD
+http://server.iptvpro.biz:5500/live/roger/roger/46.ts
+#EXTINF:-1,SBT HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/648.ts
+#EXTINF:-1,REDE TV HD
+http://server.iptvpro.biz:5500/live/roger/roger/649.ts
+#EXTINF:-1,BAND HD BR
+http://server.iptvpro.biz:5500/live/roger/roger/653.ts

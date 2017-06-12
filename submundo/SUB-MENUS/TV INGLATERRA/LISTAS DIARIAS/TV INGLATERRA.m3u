@@ -1,0 +1,740 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1,UK:SKY_SPORT.1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/938.ts
+#EXTINF:-1,UK:SKY_SPORT.2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/939.ts
+#EXTINF:-1,UK:SKY_SPORT.3
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/940.ts
+#EXTINF:-1,UK:SKY_SPORT.4
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/941.ts
+#EXTINF:-1,UK:SKY_SPORT.5
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/942.ts
+#EXTINF:-1,BT_Sport1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1052.ts
+#EXTINF:-1,BT_Sport2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1048.ts
+#EXTINF:-1,BT_Sport3
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1049.ts
+#EXTINF:-1,BT_Sport_espn
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1058.ts
+#EXTINF:-1,Sky-Sport-F1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1043.ts
+#EXTINF:-1,Eurosport_Uk
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1051.ts
+#EXTINF:-1,SetantaSports_Ireland
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1039.ts
+#EXTINF:-1,Premier_Sports
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1338.ts
+#EXTINF:-1,Racing
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1336.ts
+#EXTINF:-1,UK:Fightbox
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1124.ts
+#EXTINF:-1,==== Sky-Uk-Movies ====
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1067.ts
+#EXTINF:-1,5STAR
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1861.ts
+#EXTINF:-1,UK:SKY_PREMIERE
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1028.ts
+#EXTINF:-1,UK:SKY_Family HD
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1104.ts
+#EXTINF:-1,UK:SKY_Action
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1105.ts
+#EXTINF:-1,UK:SKY_Drama
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1108.ts
+#EXTINF:-1,UK:SKY_THRILLER
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/993.ts
+#EXTINF:-1,UK:SKY_SciFi&Hor
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/667.ts
+#EXTINF:-1,UK:SKY_Select
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1107.ts
+#EXTINF:-1,UK:SKY_Comedy
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1106.ts
+#EXTINF:-1,UK:SKY_showcast
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1109.ts
+#EXTINF:-1,Film4
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1860.ts
+#EXTINF:-1,Sony Movie Ch
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1859.ts
+#EXTINF:-1,Movies4Men
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1343.ts
+#EXTINF:-1,RealLives
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1335.ts
+#EXTINF:-1,==== Sky-Uk-Kids ====
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1069.ts
+#EXTINF:-1,UK:Disney_Channel
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1119.ts
+#EXTINF:-1,UK:Disney_Junior
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1120.ts
+#EXTINF:-1,UK:Disney_XD
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1121.ts
+#EXTINF:-1,UK:Nickelodeon
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1122.ts
+#EXTINF:-1,UK:Nickelodeon_JR
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1123.ts
+#EXTINF:-1,Nick_Jr.2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1341.ts
+#EXTINF:-1,Nick_Jr.1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1340.ts
+#EXTINF:-1,Nicktoon_Ireland
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1339.ts
+#EXTINF:-1,==== Sky-Uk-Entertainment ====
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1070.ts
+#EXTINF:-1,SKY_ONE
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1073.ts
+#EXTINF:-1,SKY_TWO
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1072.ts
+#EXTINF:-1,BBC-World-News
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1858.ts
+#EXTINF:-1,BBC.1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1071.ts
+#EXTINF:-1,UK:ITV1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1114.ts
+#EXTINF:-1,UK:ITV2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1115.ts
+#EXTINF:-1,UK:ITV3
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1116.ts
+#EXTINF:-1,UK:ITV4
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1117.ts
+#EXTINF:-1,ID
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1345.ts
+#EXTINF:-1,FOXNews
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1351.ts
+#EXTINF:-1,FOX-UK
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1349.ts
+#EXTINF:-1,UK:ComedyCentral
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1118.ts
+#EXTINF:-1,ALJAZEERA_ENG
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/80.ts
+#EXTINF:-1,QUEST
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1337.ts
+#EXTINF:-1,==== Sky-Uk-Culture ====
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1068.ts
+#EXTINF:-1,UK:Nat_Geo
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1110.ts
+#EXTINF:-1,UK:Nat_GeoWild
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/813.ts
+#EXTINF:-1,UK:Discovery
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1111.ts
+#EXTINF:-1,UK:Travel_Channel
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1126.ts
+#EXTINF:-1,UK:ID_Xtra
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1125.ts
+#EXTINF:-1,UK:Discovery.History
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1112.ts
+#EXTINF:-1,NatGeoWild
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1342.ts
+#EXTINF:-1,History.1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1346.ts
+#EXTINF:-1,History2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1347.ts
+#EXTINF:-1,GoodFood.1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1348.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,UK: BBC1 HD
+http://149.202.196.132:8000/live/harsh/harsh/1.ts
+#EXTINF:-1,UK: BBC1
+http://149.202.196.132:8000/live/harsh/harsh/2.ts
+#EXTINF:-1,UK: BBC2 HD
+http://149.202.196.132:8000/live/harsh/harsh/3.ts
+#EXTINF:-1,UK: BBC2
+http://149.202.196.132:8000/live/harsh/harsh/4.ts
+#EXTINF:-1,UK: ITV HD
+http://149.202.196.132:8000/live/harsh/harsh/5.ts
+#EXTINF:-1,UK: ITV London
+http://149.202.196.132:8000/live/harsh/harsh/6.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://149.202.196.132:8000/live/harsh/harsh/590.ts
+#EXTINF:-1,UK: Channel 4
+http://149.202.196.132:8000/live/harsh/harsh/8.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://149.202.196.132:8000/live/harsh/harsh/589.ts
+#EXTINF:-1,UK: Channel 5
+http://149.202.196.132:8000/live/harsh/harsh/588.ts
+#EXTINF:-1,UK: Sky1 HD
+http://149.202.196.132:8000/live/harsh/harsh/603.ts
+#EXTINF:-1,UK: Sky 1
+http://149.202.196.132:8000/live/harsh/harsh/12.ts
+#EXTINF:-1,UK: Sky 2
+http://149.202.196.132:8000/live/harsh/harsh/13.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://149.202.196.132:8000/live/harsh/harsh/14.ts
+#EXTINF:-1,UK: Sky Living HD
+http://149.202.196.132:8000/live/harsh/harsh/15.ts
+#EXTINF:-1,UK: Sky Living
+http://149.202.196.132:8000/live/harsh/harsh/16.ts
+#EXTINF:-1,UK: BBC4 HD
+http://149.202.196.132:8000/live/harsh/harsh/17.ts
+#EXTINF:-1,UK: BBC4
+http://149.202.196.132:8000/live/harsh/harsh/18.ts
+#EXTINF:-1,UK: ITV2 HD
+http://149.202.196.132:8000/live/harsh/harsh/19.ts
+#EXTINF:-1,UK: ITV2
+http://149.202.196.132:8000/live/harsh/harsh/20.ts
+#EXTINF:-1,UK: ITV3 HD
+http://149.202.196.132:8000/live/harsh/harsh/21.ts
+#EXTINF:-1,UK: ITV3
+http://149.202.196.132:8000/live/harsh/harsh/22.ts
+#EXTINF:-1,UK: ITV4 HD
+http://149.202.196.132:8000/live/harsh/harsh/23.ts
+#EXTINF:-1,UK: ITV4
+http://149.202.196.132:8000/live/harsh/harsh/24.ts
+#EXTINF:-1,UK: ITVBe HD
+http://149.202.196.132:8000/live/harsh/harsh/492.ts
+#EXTINF:-1,UK: ITVBe
+http://149.202.196.132:8000/live/harsh/harsh/25.ts
+#EXTINF:-1,UK: ITV Encore HD
+http://149.202.196.132:8000/live/harsh/harsh/26.ts
+#EXTINF:-1,UK: E4
+http://149.202.196.132:8000/live/harsh/harsh/28.ts
+#EXTINF:-1,UK: E4 HD
+http://149.202.196.132:8000/live/harsh/harsh/27.ts
+#EXTINF:-1,UK: More4 HD
+http://149.202.196.132:8000/live/harsh/harsh/29.ts
+#EXTINF:-1,UK: More4
+http://149.202.196.132:8000/live/harsh/harsh/30.ts
+#EXTINF:-1,UK: 4seven
+http://149.202.196.132:8000/live/harsh/harsh/31.ts
+#EXTINF:-1,UK: 5STAR
+http://149.202.196.132:8000/live/harsh/harsh/32.ts
+#EXTINF:-1,UK: GOLD
+http://149.202.196.132:8000/live/harsh/harsh/33.ts
+#EXTINF:-1,UK: FOX HD
+http://149.202.196.132:8000/live/harsh/harsh/42.ts
+#EXTINF:-1,UK: FOX
+http://149.202.196.132:8000/live/harsh/harsh/43.ts
+#EXTINF:-1,UK: Dave HD
+http://149.202.196.132:8000/live/harsh/harsh/34.ts
+#EXTINF:-1,UK: Dave
+http://149.202.196.132:8000/live/harsh/harsh/35.ts
+#EXTINF:-1,UK: Comedy Central HD
+http://149.202.196.132:8000/live/harsh/harsh/44.ts
+#EXTINF:-1,UK: Comedy Central
+http://149.202.196.132:8000/live/harsh/harsh/45.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://149.202.196.132:8000/live/harsh/harsh/46.ts
+#EXTINF:-1,UK: Syfy HD
+http://149.202.196.132:8000/live/harsh/harsh/38.ts
+#EXTINF:-1,UK: Syfy
+http://149.202.196.132:8000/live/harsh/harsh/39.ts
+#EXTINF:-1,UK: Spike
+http://149.202.196.132:8000/live/harsh/harsh/41.ts
+#EXTINF:-1,UK: W
+http://149.202.196.132:8000/live/harsh/harsh/37.ts
+#EXTINF:-1,UK: W HD
+http://149.202.196.132:8000/live/harsh/harsh/36.ts
+#EXTINF:-1,UK: AMC
+http://149.202.196.132:8000/live/harsh/harsh/40.ts
+#EXTINF:-1,UK: Alibi HD
+http://149.202.196.132:8000/live/harsh/harsh/47.ts
+#EXTINF:-1,UK: Alibi
+http://149.202.196.132:8000/live/harsh/harsh/48.ts
+#EXTINF:-1,UK: Challenge
+http://149.202.196.132:8000/live/harsh/harsh/59.ts
+#EXTINF:-1,UK: CBS Action
+http://149.202.196.132:8000/live/harsh/harsh/64.ts
+#EXTINF:-1,UK: CBS Reality
+http://149.202.196.132:8000/live/harsh/harsh/62.ts
+#EXTINF:-1,UK: CBS Drama
+http://149.202.196.132:8000/live/harsh/harsh/63.ts
+#EXTINF:-1,UK: Universal Channel HD
+http://149.202.196.132:8000/live/harsh/harsh/483.ts
+#EXTINF:-1,UK: Universal Channel
+http://149.202.196.132:8000/live/harsh/harsh/57.ts
+#EXTINF:-1,UK: TLC
+http://149.202.196.132:8000/live/harsh/harsh/50.ts
+#EXTINF:-1,UK: TrueEntertainment
+http://149.202.196.132:8000/live/harsh/harsh/65.ts
+#EXTINF:-1,UK: TrueEntertainment +1
+http://149.202.196.132:8000/live/harsh/harsh/66.ts
+#EXTINF:-1,UK: truTV
+http://149.202.196.132:8000/live/harsh/harsh/67.ts
+#EXTINF:-1,UK: Baby TV
+http://149.202.196.132:8000/live/harsh/harsh/68.ts
+#EXTINF:-1,UK: Sky Arts HD
+http://149.202.196.132:8000/live/harsh/harsh/60.ts
+#EXTINF:-1,UK: Sky Arts
+http://149.202.196.132:8000/live/harsh/harsh/61.ts
+#EXTINF:-1,UK: Horror Channel
+http://149.202.196.132:8000/live/harsh/harsh/52.ts
+#EXTINF:-1,UK: Really
+http://149.202.196.132:8000/live/harsh/harsh/77.ts
+#EXTINF:-1,UK: Quest
+http://149.202.196.132:8000/live/harsh/harsh/56.ts
+#EXTINF:-1,UK: Pick
+http://149.202.196.132:8000/live/harsh/harsh/55.ts
+#EXTINF:-1,UK: PBS America
+http://149.202.196.132:8000/live/harsh/harsh/69.ts
+#EXTINF:-1,UK: Drama
+http://149.202.196.132:8000/live/harsh/harsh/53.ts
+#EXTINF:-1,UK: DMAX
+http://149.202.196.132:8000/live/harsh/harsh/58.ts
+#EXTINF:-1,UK: Real Lives
+http://149.202.196.132:8000/live/harsh/harsh/54.ts
+#EXTINF:-1,UK: RTE One
+http://149.202.196.132:8000/live/harsh/harsh/71.ts
+#EXTINF:-1,UK: RTE Two
+http://149.202.196.132:8000/live/harsh/harsh/72.ts
+#EXTINF:-1,UK: RTE Jr
+http://149.202.196.132:8000/live/harsh/harsh/76.ts
+#EXTINF:-1,UK: 3e
+http://149.202.196.132:8000/live/harsh/harsh/73.ts
+#EXTINF:-1,UK: TV3
+http://149.202.196.132:8000/live/harsh/harsh/74.ts
+#EXTINF:-1,UK: TG4
+http://149.202.196.132:8000/live/harsh/harsh/75.ts
+#EXTINF:-1,UK: UTV HD
+http://149.202.196.132:8000/live/harsh/harsh/70.ts
+#EXTINF:-1,UK: Eden HD
+http://149.202.196.132:8000/live/harsh/harsh/88.ts
+#EXTINF:-1,UK: Eden
+http://149.202.196.132:8000/live/harsh/harsh/89.ts
+#EXTINF:-1,UK: Lifetime HD
+http://149.202.196.132:8000/live/harsh/harsh/78.ts
+#EXTINF:-1,UK: Lifetime
+http://149.202.196.132:8000/live/harsh/harsh/79.ts
+#EXTINF:-1,UK: YESTERDAY
+http://149.202.196.132:8000/live/harsh/harsh/81.ts
+#EXTINF:-1,UK: Food Network
+http://149.202.196.132:8000/live/harsh/harsh/87.ts
+#EXTINF:-1,UK: Good Food
+http://149.202.196.132:8000/live/harsh/harsh/86.ts
+#EXTINF:-1,UK: H2 HD
+http://149.202.196.132:8000/live/harsh/harsh/84.ts
+#EXTINF:-1,UK: H2
+http://149.202.196.132:8000/live/harsh/harsh/85.ts
+#EXTINF:-1,UK: HISTORY HD
+http://149.202.196.132:8000/live/harsh/harsh/83.ts
+#EXTINF:-1,UK: Home
+http://149.202.196.132:8000/live/harsh/harsh/82.ts
+#EXTINF:-1,UK: Travel Channel
+http://149.202.196.132:8000/live/harsh/harsh/80.ts
+#EXTINF:-1,UK: Discovery HD
+http://149.202.196.132:8000/live/harsh/harsh/90.ts
+#EXTINF:-1,UK: Discovery
+http://149.202.196.132:8000/live/harsh/harsh/91.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://149.202.196.132:8000/live/harsh/harsh/92.ts
+#EXTINF:-1,UK: Discovery Shed
+http://149.202.196.132:8000/live/harsh/harsh/93.ts
+#EXTINF:-1,UK: Discovery Science
+http://149.202.196.132:8000/live/harsh/harsh/94.ts
+#EXTINF:-1,UK: Discovery Home & Health
+http://149.202.196.132:8000/live/harsh/harsh/95.ts
+#EXTINF:-1,UK: Discovery History
+http://149.202.196.132:8000/live/harsh/harsh/96.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://149.202.196.132:8000/live/harsh/harsh/98.ts
+#EXTINF:-1,UK: CI
+http://149.202.196.132:8000/live/harsh/harsh/97.ts
+#EXTINF:-1,UK: National Geographic HD
+http://149.202.196.132:8000/live/harsh/harsh/99.ts
+#EXTINF:-1,UK: National Geographic
+http://149.202.196.132:8000/live/harsh/harsh/100.ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://149.202.196.132:8000/live/harsh/harsh/101.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://149.202.196.132:8000/live/harsh/harsh/102.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://149.202.196.132:8000/live/harsh/harsh/103.ts
+#EXTINF:-1,UK: Animal Planet
+http://149.202.196.132:8000/live/harsh/harsh/104.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://149.202.196.132:8000/live/harsh/harsh/105.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://149.202.196.132:8000/live/harsh/harsh/106.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://149.202.196.132:8000/live/harsh/harsh/114.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://149.202.196.132:8000/live/harsh/harsh/115.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://149.202.196.132:8000/live/harsh/harsh/116.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://149.202.196.132:8000/live/harsh/harsh/117.ts
+#EXTINF:-1,UK: Sky Movies Christmas HD
+http://149.202.196.132:8000/live/harsh/harsh/118.ts
+#EXTINF:-1,UK: Sky Movies Christmas
+http://149.202.196.132:8000/live/harsh/harsh/119.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://149.202.196.132:8000/live/harsh/harsh/120.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://149.202.196.132:8000/live/harsh/harsh/121.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://149.202.196.132:8000/live/harsh/harsh/125.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://149.202.196.132:8000/live/harsh/harsh/124.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+http://149.202.196.132:8000/live/harsh/harsh/122.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://149.202.196.132:8000/live/harsh/harsh/123.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller HD
+http://149.202.196.132:8000/live/harsh/harsh/107.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://149.202.196.132:8000/live/harsh/harsh/108.ts
+#EXTINF:-1,UK: Sky Movies Showcase HD
+http://149.202.196.132:8000/live/harsh/harsh/109.ts
+#EXTINF:-1,UK: Sky Movies Showcase
+http://149.202.196.132:8000/live/harsh/harsh/110.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://149.202.196.132:8000/live/harsh/harsh/111.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://149.202.196.132:8000/live/harsh/harsh/112.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror HD
+http://149.202.196.132:8000/live/harsh/harsh/113.ts
+#EXTINF:-1,UK: Film4 HD
+http://149.202.196.132:8000/live/harsh/harsh/126.ts
+#EXTINF:-1,UK: Film4
+http://149.202.196.132:8000/live/harsh/harsh/127.ts
+#EXTINF:-1,UK: TCM HD
+http://149.202.196.132:8000/live/harsh/harsh/128.ts
+#EXTINF:-1,UK: TCM
+http://149.202.196.132:8000/live/harsh/harsh/129.ts
+#EXTINF:-1,UK: True Moovies
+http://149.202.196.132:8000/live/harsh/harsh/132.ts
+#EXTINF:-1,UK: True Movies 2
+http://149.202.196.132:8000/live/harsh/harsh/133.ts
+#EXTINF:-1,UK: Movies4Men
+http://149.202.196.132:8000/live/harsh/harsh/130.ts
+#EXTINF:-1,UK: Movies 24
+http://149.202.196.132:8000/live/harsh/harsh/131.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://149.202.196.132:8000/live/harsh/harsh/134.ts
+#EXTINF:-1,UK: Sky Sports News
+http://149.202.196.132:8000/live/harsh/harsh/135.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/136.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://149.202.196.132:8000/live/harsh/harsh/137.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/138.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://149.202.196.132:8000/live/harsh/harsh/139.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://149.202.196.132:8000/live/harsh/harsh/140.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://149.202.196.132:8000/live/harsh/harsh/141.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://149.202.196.132:8000/live/harsh/harsh/142.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://149.202.196.132:8000/live/harsh/harsh/143.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://149.202.196.132:8000/live/harsh/harsh/144.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://149.202.196.132:8000/live/harsh/harsh/145.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://149.202.196.132:8000/live/harsh/harsh/493.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://149.202.196.132:8000/live/harsh/harsh/146.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://149.202.196.132:8000/live/harsh/harsh/147.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/148.ts
+#EXTINF:-1,UK: BT Sport 1
+http://149.202.196.132:8000/live/harsh/harsh/149.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/150.ts
+#EXTINF:-1,UK: BT Sport 2
+http://149.202.196.132:8000/live/harsh/harsh/151.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://149.202.196.132:8000/live/harsh/harsh/264.ts
+#EXTINF:-1,UK: BT Sport 3
+http://149.202.196.132:8000/live/harsh/harsh/263.ts
+#EXTINF:-1,UK: BT Sport//ESPN HD
+http://149.202.196.132:8000/live/harsh/harsh/154.ts
+#EXTINF:-1,UK: BT Sport//ESPN
+http://149.202.196.132:8000/live/harsh/harsh/155.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/163.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/165.ts
+#EXTINF:-1,UK: Eurosport 1
+http://149.202.196.132:8000/live/harsh/harsh/164.ts
+#EXTINF:-1,UK: Eurosport 2
+http://149.202.196.132:8000/live/harsh/harsh/166.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://149.202.196.132:8000/live/harsh/harsh/159.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://149.202.196.132:8000/live/harsh/harsh/158.ts
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/490.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://149.202.196.132:8000/live/harsh/harsh/160.ts
+#EXTINF:-1,UK: Premier Sports
+http://149.202.196.132:8000/live/harsh/harsh/161.ts
+#EXTINF:-1,UK: Boxnation
+http://149.202.196.132:8000/live/harsh/harsh/162.ts
+#EXTINF:-1,UK: MUTV HD
+http://149.202.196.132:8000/live/harsh/harsh/167.ts
+#EXTINF:-1,UK: MUTV
+http://149.202.196.132:8000/live/harsh/harsh/168.ts
+#EXTINF:-1,UK: Liverpool FC TV HD
+http://149.202.196.132:8000/live/harsh/harsh/489.ts
+#EXTINF:-1,UK: Liverpool FC TV
+http://149.202.196.132:8000/live/harsh/harsh/170.ts
+#EXTINF:-1,UK: Chelsea TV
+http://149.202.196.132:8000/live/harsh/harsh/169.ts
+#EXTINF:-1,UK: CELTIC FC TV ( LIVE ON MATCHES )
+http://149.202.196.132:8000/live/harsh/harsh/261.ts
+#EXTINF:-1,UK: RANGERS FV TV ( LIVE ON MATCHES )
+http://149.202.196.132:8000/live/harsh/harsh/262.ts
+#EXTINF:-1,UK: Racing UK HD
+http://149.202.196.132:8000/live/harsh/harsh/491.ts
+#EXTINF:-1,UK: Racing UK
+http://149.202.196.132:8000/live/harsh/harsh/171.ts
+#EXTINF:-1,UK: at the races
+http://149.202.196.132:8000/live/harsh/harsh/172.ts
+#EXTINF:-1,UK: Motors TV
+http://149.202.196.132:8000/live/harsh/harsh/173.ts
+#EXTINF:-1,UK: ITV Box Office HD
+http://149.202.196.132:8000/live/harsh/harsh/6280.ts
+#EXTINF:-1,UK: Sky Box Office 3 (PPV)
+http://149.202.196.132:8000/live/harsh/harsh/176.ts
+#EXTINF:-1,UK: SKY SPORTS BOX OFFICE 2 (PPV)
+http://149.202.196.132:8000/live/harsh/harsh/533.ts
+#EXTINF:-1,UK: Sky Box Office 1 (PPV)
+http://149.202.196.132:8000/live/harsh/harsh/174.ts
+#EXTINF:-1,UK: Sky Box Office 2 (PPV)
+http://149.202.196.132:8000/live/harsh/harsh/175.ts
+#EXTINF:-1,UK: BT Sports X1
+http://149.202.196.132:8000/live/harsh/harsh/488.ts
+#EXTINF:-1,UK: BT Sports X2
+http://149.202.196.132:8000/live/harsh/harsh/487.ts
+#EXTINF:-1,UK: BT Sports X3
+http://149.202.196.132:8000/live/harsh/harsh/486.ts
+#EXTINF:-1,UK: BT Sports X4
+http://149.202.196.132:8000/live/harsh/harsh/485.ts
+#EXTINF:-1,UK: BT Sports X5
+http://149.202.196.132:8000/live/harsh/harsh/484.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 1
+http://149.202.196.132:8000/live/harsh/harsh/482.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 2
+http://149.202.196.132:8000/live/harsh/harsh/479.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 3
+http://149.202.196.132:8000/live/harsh/harsh/478.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 4
+http://149.202.196.132:8000/live/harsh/harsh/477.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 5
+http://149.202.196.132:8000/live/harsh/harsh/476.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 6
+http://149.202.196.132:8000/live/harsh/harsh/475.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 7
+http://149.202.196.132:8000/live/harsh/harsh/474.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 8
+http://149.202.196.132:8000/live/harsh/harsh/473.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 9
+http://149.202.196.132:8000/live/harsh/harsh/472.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 10
+http://149.202.196.132:8000/live/harsh/harsh/481.ts
+#EXTINF:-1,UK: SKY SPORTS ACTIVE 11
+http://149.202.196.132:8000/live/harsh/harsh/480.ts
+#EXTINF:-1,UK: MTV HD
+http://149.202.196.132:8000/live/harsh/harsh/182.ts
+#EXTINF:-1,UK: MTV Live HD
+http://149.202.196.132:8000/live/harsh/harsh/186.ts
+#EXTINF:-1,UK: MTV
+http://149.202.196.132:8000/live/harsh/harsh/183.ts
+#EXTINF:-1,UK: MTV Rocks
+http://149.202.196.132:8000/live/harsh/harsh/184.ts
+#EXTINF:-1,UK: MTV Music
+http://149.202.196.132:8000/live/harsh/harsh/185.ts
+#EXTINF:-1,UK: MTV Hits
+http://149.202.196.132:8000/live/harsh/harsh/187.ts
+#EXTINF:-1,UK: MTV Dance
+http://149.202.196.132:8000/live/harsh/harsh/188.ts
+#EXTINF:-1,UK: MTV Classic
+http://149.202.196.132:8000/live/harsh/harsh/189.ts
+#EXTINF:-1,UK: MTV Base
+http://149.202.196.132:8000/live/harsh/harsh/190.ts
+#EXTINF:-1,UK: VH1
+http://149.202.196.132:8000/live/harsh/harsh/196.ts
+#EXTINF:-1,UK: The Vault
+http://149.202.196.132:8000/live/harsh/harsh/195.ts
+#EXTINF:-1,UK: Starz TV
+http://149.202.196.132:8000/live/harsh/harsh/194.ts
+#EXTINF:-1,UK: Skuzz
+http://149.202.196.132:8000/live/harsh/harsh/197.ts
+#EXTINF:-1,UK: Magiv TV
+http://149.202.196.132:8000/live/harsh/harsh/191.ts
+#EXTINF:-1,UK: Flava
+http://149.202.196.132:8000/live/harsh/harsh/192.ts
+#EXTINF:-1,UK: Chart Show Dance
+http://149.202.196.132:8000/live/harsh/harsh/193.ts
+#EXTINF:-1,UK: Disney Channel
+http://149.202.196.132:8000/live/harsh/harsh/203.ts
+#EXTINF:-1,UK: Disney XD
+http://149.202.196.132:8000/live/harsh/harsh/204.ts
+#EXTINF:-1,UK: Disney Junior
+http://149.202.196.132:8000/live/harsh/harsh/205.ts
+#EXTINF:-1,UK: Nickelodeon
+http://149.202.196.132:8000/live/harsh/harsh/202.ts
+#EXTINF:-1,UK: Nickelodeon HD
+http://149.202.196.132:8000/live/harsh/harsh/198.ts
+#EXTINF:-1,UK: Nicktoons
+http://149.202.196.132:8000/live/harsh/harsh/199.ts
+#EXTINF:-1,UK: Nick Jr
+http://149.202.196.132:8000/live/harsh/harsh/200.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://149.202.196.132:8000/live/harsh/harsh/201.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://149.202.196.132:8000/live/harsh/harsh/206.ts
+#EXTINF:-1,UK: Cartoon Network
+http://149.202.196.132:8000/live/harsh/harsh/207.ts
+#EXTINF:-1,UK: Cartoonito
+http://149.202.196.132:8000/live/harsh/harsh/208.ts
+#EXTINF:-1,UK: Kix
+http://149.202.196.132:8000/live/harsh/harsh/210.ts
+#EXTINF:-1,UK: Boomerang
+http://149.202.196.132:8000/live/harsh/harsh/209.ts
+#EXTINF:-1,UK: Pop
+http://149.202.196.132:8000/live/harsh/harsh/211.ts
+#EXTINF:-1,UK: Tiny Pop
+http://149.202.196.132:8000/live/harsh/harsh/212.ts
+#EXTINF:-1,UK: Sky News HD
+http://149.202.196.132:8000/live/harsh/harsh/179.ts
+#EXTINF:-1,UK: Sky News
+http://149.202.196.132:8000/live/harsh/harsh/180.ts
+#EXTINF:-1,UK: BBC News HD
+http://149.202.196.132:8000/live/harsh/harsh/177.ts
+#EXTINF:-1,UK: BBC News
+http://149.202.196.132:8000/live/harsh/harsh/178.ts
+#EXTINF:-1,UK: Bloomberg
+http://149.202.196.132:8000/live/harsh/harsh/181.ts
+#EXTINF:-1,UK: ZEE TV
+http://149.202.196.132:8000/live/harsh/harsh/213.ts
+#EXTINF:-1,UK: Zee Punjabi
+http://149.202.196.132:8000/live/harsh/harsh/214.ts
+#EXTINF:-1,UK: Zee Cinema
+http://149.202.196.132:8000/live/harsh/harsh/215.ts
+#EXTINF:-1,UK: Zing
+http://149.202.196.132:8000/live/harsh/harsh/223.ts
+#EXTINF:-1,UK: Star Plus
+http://149.202.196.132:8000/live/harsh/harsh/216.ts
+#EXTINF:-1,UK: Star Like OK
+http://149.202.196.132:8000/live/harsh/harsh/217.ts
+#EXTINF:-1,UK: Star Jalsha
+http://149.202.196.132:8000/live/harsh/harsh/218.ts
+#EXTINF:-1,UK: Star Gold
+http://149.202.196.132:8000/live/harsh/harsh/219.ts
+#EXTINF:-1,UK: Sony Channel
+http://149.202.196.132:8000/live/harsh/harsh/220.ts
+#EXTINF:-1,UK: Sony Sab
+http://149.202.196.132:8000/live/harsh/harsh/221.ts
+#EXTINF:-1,UK: Sony Movie Channel
+http://149.202.196.132:8000/live/harsh/harsh/222.ts
+#EXTINF:-1,UK: ASTRO SPORTS 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/250.ts
+#EXTINF:-1,UK: ASTRO SPORTS 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/251.ts
+#EXTINF:-1,UK: ASTRO SPORTS 3 HD
+http://149.202.196.132:8000/live/harsh/harsh/252.ts
+#EXTINF:-1,UK: ASTRO SPORTS 4 HD
+http://149.202.196.132:8000/live/harsh/harsh/253.ts
+#EXTINF:-1,UK: SKYNET SPORTS HD
+http://149.202.196.132:8000/live/harsh/harsh/11834.ts
+#EXTINF:-1,UK: SKYNET SPORTS 1 SD
+http://149.202.196.132:8000/live/harsh/harsh/11833.ts
+#EXTINF:-1,UK: SKYNET SPORTS 2 SD
+http://149.202.196.132:8000/live/harsh/harsh/11832.ts
+#EXTINF:-1,UK: SKYNET SPORTS 3 SD
+http://149.202.196.132:8000/live/harsh/harsh/11831.ts
+#EXTINF:-1,UK: SKYNET SPORTS 4 SD
+http://149.202.196.132:8000/live/harsh/harsh/11830.ts
+#EXTINF:-1,UK: SKYNET SPORTS 5 SD
+http://149.202.196.132:8000/live/harsh/harsh/11829.ts
+#EXTINF:-1,UK: SKYNET SPORTS 6 SD
+http://149.202.196.132:8000/live/harsh/harsh/11828.ts
+#EXTINF:-1,UK: MIO Stadium 102 HD
+http://149.202.196.132:8000/live/harsh/harsh/231.ts
+#EXTINF:-1,UK: MIO Stadium 103 HD
+http://149.202.196.132:8000/live/harsh/harsh/232.ts
+#EXTINF:-1,UK: MIO Stadium 104 HD
+http://149.202.196.132:8000/live/harsh/harsh/233.ts
+#EXTINF:-1,UK: MIO STADIUM 105 HD
+http://149.202.196.132:8000/live/harsh/harsh/535.ts
+#EXTINF:-1,UK: MIO STADIUM 106 HD
+http://149.202.196.132:8000/live/harsh/harsh/534.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 1 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/254.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 2 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/255.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 3 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/256.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 4 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/257.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 5 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/258.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 6 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/259.ts
+#EXTINF:-1,UK: NBC EXTRA TIME HD 7 ( MATCH TIME )
+http://149.202.196.132:8000/live/harsh/harsh/260.ts
+#EXTINF:-1,UK: TSN 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/241.ts
+#EXTINF:-1,UK: TSN 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/242.ts
+#EXTINF:-1,UK: TSN 3 HD
+http://149.202.196.132:8000/live/harsh/harsh/243.ts
+#EXTINF:-1,UK: TSN 4 HD
+http://149.202.196.132:8000/live/harsh/harsh/244.ts
+#EXTINF:-1,UK: TSN 5 HD
+http://149.202.196.132:8000/live/harsh/harsh/245.ts
+#EXTINF:-1,UK: SPORTS NET WORLD HD
+http://149.202.196.132:8000/live/harsh/harsh/266.ts
+#EXTINF:-1,UK: SPORTS NET ONE HD
+http://149.202.196.132:8000/live/harsh/harsh/267.ts
+#EXTINF:-1,UK: SPORTS NET ONTARIO HD
+http://149.202.196.132:8000/live/harsh/harsh/268.ts
+#EXTINF:-1,UK: SPORTS NET 360 HD
+http://149.202.196.132:8000/live/harsh/harsh/269.ts
+#EXTINF:-1,UK: Bein sports 1 HD
+http://149.202.196.132:8000/live/harsh/harsh/599.ts
+#EXTINF:-1,UK: Bein sports 2 HD
+http://149.202.196.132:8000/live/harsh/harsh/598.ts
+#EXTINF:-1,UK: Bein sports 3 HD
+http://149.202.196.132:8000/live/harsh/harsh/597.ts
+#EXTINF:-1,UK: Bein sports 4 HD
+http://149.202.196.132:8000/live/harsh/harsh/596.ts
+#EXTINF:-1,UK: Bein sports 5 HD
+http://149.202.196.132:8000/live/harsh/harsh/595.ts
+#EXTINF:-1,UK: Bein sports 6 HD
+http://149.202.196.132:8000/live/harsh/harsh/594.ts
+#EXTINF:-1,UK: Bein sports 7 HD
+http://149.202.196.132:8000/live/harsh/harsh/593.ts
+#EXTINF:-1,UK: Bein sports 8 HD
+http://149.202.196.132:8000/live/harsh/harsh/592.ts
+#EXTINF:-1,UK: Bein sports 9 HD
+http://149.202.196.132:8000/live/harsh/harsh/591.ts
+#EXTINF:-1,UK: Bein sports 10 HD
+http://149.202.196.132:8000/live/harsh/harsh/602.ts
+#EXTINF:-1,UK: Bein sports 11 HD
+http://149.202.196.132:8000/live/harsh/harsh/601.ts
+#EXTINF:-1,UK: Bein sports 12 HD
+http://149.202.196.132:8000/live/harsh/harsh/600.ts
+#EXTINF:-1,UK: WWE HD
+http://149.202.196.132:8000/live/harsh/harsh/249.ts

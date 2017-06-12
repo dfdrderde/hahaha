@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR skyblue] [makelist.param4][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=666list+[makelist.param3]+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B]ARENAVISIONEZY AGENDA  [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda</jsonrpc>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] UK SPORTS MAMAD [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
+<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
+<fanart>http://cdn2.hubspot.net/hub/360031/file-1957232534-jpg/study-schedule-for-ACT-SAT.jpg</fanart>
+<thumbnail>[makelist.param2]</thumbnail>
+<referer>http://mamahd.com/</referer>
+ 
+]]></listrepeat>
+<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
+<page>http://mamahd.com/index.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/uk-spo11.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B] PACK TV SPORTS/MOTOGP [/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+<thumbnail>http://www.direct.tv/shared/2014/03/DIRECTV-Sports-Pack.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR white][B]EVENTOS MOTORIZADOS[/COLOR][/B]</title>
+<linkegnorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3d1%26title.tmp%3dRacing%26ticon.tmp%3dhttp%253A%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F7.gif%26url%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcomingsports%252F7%252F%26cfg%3dlivetv.ru.videos.cfg%2540CATEGORY%25407%26definedIn%3dlivesports%252Flivetv.ru.cfg%26director%3dLiveTV.ru%26id.tmp%3d7%26referer%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcoming%26genre%3dLive%2bSports%26title%3dRacing%2b%25281%2529%26icon.tmp%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png&amp;mode=1</jsonrpc>
+<thumbnail>http://images.tenplay.com.au/~/media/Sport/Motorsport/Motorsport_Logo_500x281.jpg</thumbnail>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white][B]LISTA ACESTREAM[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>http://tvsupertuga.x10.bz/submundo/SUB-MENUS/TV%20DESPORTO/ACESTREAM%20IPTV.xml</externallink>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/acestr10.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white][B]DAILY LISTS SPORTS[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]Sub Mundo IPTV[/COLOR] [COLOR red ][makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/spor1t10.jpg</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>http://tvsupertuga.x10.bz/submundo/SUB-MENUS/TV%20DESPORTO/DIARIAS.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]Sub Mundo IPTV[COLOR lred][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] Sub Mundo IPTV[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/spor1t10.jpg</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/spor1t10.jpg</thumbnail>
+ <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart26.jpg</fanart>
+</item>
+
+
+
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] VIP-TVsupertuga[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
+ <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
+ <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+</item>

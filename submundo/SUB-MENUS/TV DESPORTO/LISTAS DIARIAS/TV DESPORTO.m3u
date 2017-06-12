@@ -1,0 +1,22 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,Bein Sport 1 HD
+http://149.202.222.20:8080/AR-Bein-sport1-HD/index.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://149.202.222.20:8080/AR-Bein-sport2-HD/index.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://149.202.222.20:8080/AR-Bein-sport3-HD/index.m3u8
+#EXTINF:-1,Bein Sport 4 HD
+http://149.202.222.20:8080/AR-Bein-sport4-HD/index.m3u8
+#EXTINF:-1,Bein Sport 5 HD
+http://149.202.222.20:8080/AR-Bein-sport5-HD/index.m3u8
+#EXTINF:-1,Bein Sport 6 HD
+http://149.202.222.20:8080/AR-Bein-sport6-HD/index.m3u8
+#EXTINF:-1,Bein Sport 7 HD
+http://149.202.222.20:8080/AR-Bein-sport7-HD/index.m3u8
+#EXTINF:-1,Bein Sport 8 HD
+http://149.202.222.20:8080/AR-Bein-sport8-HD/index.m3u8
+#EXTINF:-1,Bein Sport 9 HD
+http://149.202.222.20:8080/AR-Bein-sport9-HD/index.m3u8

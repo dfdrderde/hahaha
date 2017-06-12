@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+http://download.rufty.co.uk/streams.html
+
+http://www.livefootballol.me/acestream-channel-list-2017.html
+
+
+
+
+ Sport tv 1
+acestream://2adeeb1c9c148389ac45606111a74a0ab9bf661b
+
+Sport tv 2
+acestream://03be839009b74b87429e2969b569022ce8bd1fcb
+
+Sport tv 3
+acestream://470b2611df987f6c22caceee8249f705c351a7e0
+Sport tv 4
+acestream://97cad444355dfeeb9810834c0c8225c52041f5d3
+
+
+
+
+http://127.0.0.1:6878/content/fdc60495d53cb38949ee7b09db99bbd9c7b9c10c/0.150028742738
+
+
+
+<item> 
+<title>[COLOR=gold][I] SPORT TV  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mode=1&amp;name=SPORT TV 1</link>
+<thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/sporttvmais/destaques/large_forum.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item> 
+<title>[COLOR=gold][I] SPORT TV 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=2adeeb1c9c148389ac45606111a74a0ab9bf661b&amp;mode=1&amp;name=SPORT TV 1</link>
+<link>plugin://program.plexus/?url=359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=SPORT TV 1</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] SPORT TV 2 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=03be839009b74b87429e2969b569022ce8bd1fcb&amp;mode=1&amp;name=SPORT TV 2</link>
+<link>plugin://program.plexus/?url=6053774a957d5b6066d2f04236d7d67bc9434a8e&amp;mode=1&amp;name=SPORT TV 2</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv2.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=gold][I] SPORT TV 3 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=470b2611df987f6c22caceee8249f705c351a7e0&amp;mode=1&amp;name=SPORT TV 3</link>
+<link>plugin://program.plexus/?url=4374034181abc685ef8dcbde9bf5438333667301&amp;mode=1&amp;name=SPORT TV 3</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv3.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=gold][I] SPORT TV 4 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=97cad444355dfeeb9810834c0c8225c52041f5d3&amp;mode=1&amp;name=SPORT TV 4</link>
+<link>plugin://program.plexus/?url=fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6&amp;mode=1&amp;name=SPORT TV 4</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv4.png</thumbnail>
+</item>
+
+
+<item>  
+<title>[COLOR=gold][I] SPORT TV 5 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=fdc60495d53cb38949ee7b09db99bbd9c7b9c10c&amp;mode=1&amp;name=SPORT TV 5</link>
+<link>plugin://program.plexus/?url=592445fe3244632cb50e4eb0dc66e3f61c3f3a6b&amp;mode=1&amp;name=SPORT TV 5</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] BENFICA TV 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&amp;mode=1&amp;name=BENFICA TV 1</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=gold][I] BT SPORT EUROPE [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=21aadb7f7a3c09ffd1d8f636f3154b7092045380&amp;mode=1&amp;name=BT SPORT EUROPE</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] C MORE TENNIS [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=1328e97497116ef4dc90bc0eee91d88480a81b72&amp;mode=1&amp;name=C MORE TENNIS</link>
+<thumbnail>http://mediaportal-swedish-tv-radio-logos.googlecode.com/svn/trunk/SE_logo_pack/TV/Transparent/C%20More%20Tennis.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] CANAL+ DEPORTES [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=ce497ea6f0235b7f5d20bad7b0237f96470bcdee&amp;mode=1&amp;name=CANAL+ DEPORTES</link>
+<thumbnail>http://www.adslzone.tv/app/uploads/2011/03/canalplus_deportes_hd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] CANAL+ DEPORTES 2 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=eb7263149ec1b5210c1dfe9307ca0699ceb2f139&amp;mode=1&amp;name=CANAL+ DEPORTES 2</link>
+<thumbnail>http://www.adslzone.tv/wp-content/uploads/2011/03/canalplus_deportes_hd-300x127.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] CANAL+ DEPORTES    [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=ce497ea6f0235b7f5d20bad7b0237f96470bcdee&amp;mode=1&amp;name=Arena Sport 3</link>
+<thumbnail>http://www.plus.es/estaticos/images/canales/svg/c+deportes_hd-01.svg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=gold][I] CANAL+ DEPORTES  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=f8824086dd80ee78ccc43d7756f950b8668552dc&amp;mode=1&amp;name=Arena Sport 3</link>
+<thumbnail>http://www.plus.es/estaticos/images/canales/svg/c+deportes_hd-01.svg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] MOVISTAR F1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=0d321ea1e93dc14da93c48f51b859f9d4bbf64ce&amp;mode=1&amp;name=MOVISTAR F1</link>
+<thumbnail>https://pbs.twimg.com/profile_images/692019245853626369/83lEs7Vo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] DIGI SPORT 1  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=587b978995d900afc17d4a5c3ef13797d2b3a0ec&amp;mode=1&amp;name=DIGI SPORT 2</link>
+<thumbnail>http://www.adslzone.tv/wp-content/uploads/2011/03/canalplus_deportes_hd-300x127.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] DIGI SPORT 2  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=3b0796661f783236f24756821f5efb1d15d59d7f&amp;mode=1&amp;name=DIGI SPORT 2</link>
+<thumbnail>http://www.adslzone.tv/wp-content/uploads/2011/03/canalplus_deportes_hd-300x127.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=gold][I] DIGI SPORT 3  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=d710f154d3892401cc1ef947e8a07ed0ce826d98&amp;mode=1&amp;name=DIGI SPORT 2</link>
+<thumbnail>http://www.adslzone.tv/wp-content/uploads/2011/03/canalplus_deportes_hd-300x127.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR=gold][I] PREMIER SPORTS [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=3679ef19d27763ab671159036927fe3ff077e865&amp;mode=1&amp;name=PREMIER SPORTS</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Premier-Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] REAL MADRID TV [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=3981706bfdaacc532fd3b8a070efc7fcee44c96c&amp;mode=1&amp;name=REAL MADRID TV</link>
+<thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR=gold][I] ARENAVISION 1   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=c541d8d75c5673c91ced531397d4aff00746d6e2&amp;mode=1&amp;name=Arena Sport 1</link>
+<link>plugin://program.plexus/?url=81da821717afd34dda8f43a72b11ab4c47bd95c2&amp;mode=1&amp;name=Arena Sport 1</link>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena120.jpg</thumbnail>
+</item>
+
+	
+
+
+<item>
+<title>[COLOR=gold][I] ARENAVISION 2   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=674b988b7449a9f18aff99fe2c82133915b66c53&amp;mode=1&amp;name=Arena Sport 2</link>
+<link>plugin://program.plexus/?url=db45a5fdf7dd29d15d7fdddb870db1355c41ae0e&amp;mode=1&amp;name=Arena Sport 2</link>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena220.jpg</thumbnail>
+</item>		
+			
+			
+<item>
+<title>[COLOR=gold][I] ARENAVISION 3   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=a3ed0dc66775b1b616b1574815e88ea8187f9393&amp;mode=1&amp;name=Arena Sport 3</link>
+<link>plugin://program.plexus/?url=310250124d51961eb852471a42cc835ea070d24d&amp;mode=1&amp;name=Arena Sport 3</link>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena311.jpg</thumbnail>
+</item>		
+
+			
+<item>
+<title>[COLOR=gold][I] ARENAVISION 4   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=18844c4455f39ae5853ca621831a5e706bb9cfa8&amp;mode=1&amp;name=Arena Sport 4</link>
+<link>plugin://program.plexus/?url=0d81c3e8d2596a03779a7036afc8bedf9d95e1b6&amp;mode=1&amp;name=Arena Sport 4</link>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena410.jpg</thumbnail>
+</item>	
+			
+
+	
+
+
+
+
+	
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 5   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=931f361e9e6feb9aaa2cd3d72074e58cc3e48561&amp;mode=1&amp;name=Arena Sport 5</link>
+<link>plugin://program.plexus/?url=4e51f9bb6c1487b6f42df052b7f04c05f619c0f3&amp;mode=1&amp;name=Arena Sport 5</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena510.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av5</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 6   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=05fb57238df275aa70c769ddeffa1476134a3ac1&amp;mode=1&amp;name=Arena Sport 6</link>
+
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena610.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av6</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 7   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=74b975e294428afeff3d2f5a2255c81fca77ade6&amp;mode=1&amp;name=Arena Sport 7</link>
+            <link>plugin://program.plexus/?url=b3e2ce5f977332704a40595905b227fc41261a25&amp;mode=1&amp;name=Arena Sport 7</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena710.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av7</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 8   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=5ca59816aaf3e10059b1842ee28ab856e13055a2&amp;mode=1&amp;name=Arena Sport 8</link>
+            <link>plugin://program.plexus/?url=0434cb2607081997f7c9178fc80983ba0b1cf545&amp;mode=1&amp;name=Arena Sport 8</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena810.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av8</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 9  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=2f11021778ed078d2e09d73c225ded66e372f7ba&amp;mode=1&amp;name=Arena Sport 9</link>
+            <link>plugin://program.plexus/?url=60145425bd83fbd1db58ebf826fbc9f868404dbd&amp;mode=1&amp;name=Arena Sport 9</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena910.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av9</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 10   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=49cff7553f10a9880f3cf07e4be8d50d1c2642c5&amp;mode=1&amp;name=Arena Sport 10</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena110.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av10</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 11   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=73d5188a497c7dbea9ba6e236225d21a8b59950d&amp;mode=1&amp;name=Arena Sport 11</link>
+            <link>plugin://program.plexus/?url=c0ef371a7d1d30082f2b4a0d77a0582dbd801a56&amp;mode=1&amp;name=Arena Sport 11</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena111.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av11</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>[COLOR=gold][I] ARENAVISION 12   [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+			<link>plugin://program.plexus/?url=73744b9cb504c43b7c1f97017e986de729f3c6d2&amp;mode=1&amp;name=Arena Sport 12</link>
+            <link>plugin://program.plexus/?url=a1faa5ad1c5a4f864f970fe8e80e44e1595e5f98&amp;mode=1&amp;name=Arena Sport 12</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/arena120.jpg</thumbnail>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av12</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 13</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av13</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 14</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av14</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 15</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av15</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 16</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av16</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 17</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av17</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 18</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av18</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 19</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av19</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 20</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av20</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 21</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av21</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 22</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av22</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 23</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av23</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 24</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av24</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 25</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av25</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 26</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av26</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 27</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av27</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 28</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av28</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 29</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av29</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 30</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av30</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+
+
+<item>
+<title>[COLOR=gold][I] SKY SPORTS 3 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=4dbce55abecd154ff71b3477a332bd63611309e5&amp;mode=1&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] SKY SPORTS 4 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=11e5b8dcc1ff06c7fa5071ce4718bcc5f867d668&amp;mode=1&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] SKY SPORTS F1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=2288397a21c4933d2359f19f54daa4101e297a48&amp;mode=1&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] SPORT 1 CZ  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=224647f6b35f20a68f72633d588a8f208a896bcc&amp;mode=1&amp;name=Sport 1 Cz </link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=gold][I] SUPER TENNIS HD  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=111d650225e7b7fb8f0f1e968c6aa7f8b86684bd&amp;mode=1&amp;name=Super Tennis HD</link>
+<thumbnail>http://2.bp.blogspot.com/-Pr9zZV2P_xI/Vp6YWITo6wI/AAAAAAAAA3g/yQgqPnPYqLs/s1600/051cd98a74e7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] ARENA SPORT 1  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=037943cf5049c5f534385ea9e720dbbf6df11fdd&amp;mode=1&amp;name=Arena Sport 1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/hr/f/fa/Arenasport1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] ARENA SPORT 2  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=480f33fd6e95653faef453d416685d2c4c5cc232&amp;mode=1&amp;name=Arena Sport 2</link>
+<thumbnail>http://3.bp.blogspot.com/-u2ywHCclR-I/Vgdzadj22EI/AAAAAAAAAng/7O3Fqu__6dg/s1600/Arena%2BSport%2B2%2BHD%2B-%2BAwesome%2BFoot.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=gold][I] ARENA SPORT 3  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=8f5d68e9b8746bba681fe37ac68398f87dbf30f3&amp;mode=1&amp;name=Arena Sport 3</link>
+<thumbnail>https://lh3.googleusercontent.com/-0yXZt_Ah8Fs/Vp_049b3ImI/AAAAAAAACLE/wNQvAkRM6Ss/w1200-h630-p-nu/Arenasport%2B3.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Acefootball 1 AceStream	acestream://77f890b8dbc45e57bc145d0ee2c9eb381ff8e1ee	Russian	1500
+ 	Al Jazeera Sport +1 AceStream	acestream://ccba28e0ec6b5e09584dfcf80bcafa070bfe27b1	English	800
+ 	Al Jazeera Sport +2 AceStream	acestream://ad0de24741ba397708f6d4b0bc87a9e54a2c3331	English	800
+ 	Al Jazeera Sport +3 AceStream	acestream://679b815c666b89345ae5ef64a69203dec269f09f	English	800
+ 	Al Jazeera Sport +4 AceStream	acestream://bec284c6636fd196bea5fc4186de96dfa94f79a1	English	800
+ 	Al Jazeera Sport +5 AceStream	acestream://d72ebe51dd14bad45ff011364ff06cd219795fc5	English	800
+ 	Al Jazeera Sport +6 AceStream	acestream://8c0b73b9ba6cc1b25195d5880f7c4796f007c7da	English	800
+ 	Arena Sport 1 AceStream	acestream://2dfe474e6520f6015b8d2268476059756eb02d6e	Hungarian	2000
+ 	Arena Sport 2 AceStream	acestream://67ffc1f4f16b6b0b1f4113f76e37b6637249452c	Hungarian	2000
+ 	Arena Sport 3 AceStream	acestream://6a504414677c038aa5a75c573da0bc4b928f671c	Hungarian	2000
+ 	Arena Sport 4 AceStream	acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d	Hungarian	2000
+ 	Arena Sport 5 AceStream	acestream://5f90220cfbbf558ffdf9a5e4187a34efa93f8f05	Hungarian	2000
+ 	Arenavision 1 AceStream	acestream://6a8c04c85057f3cac2c80bc2a031e1adc72defaf	Spanish	2000
+ 	Arenavision 2 AceStream	acestream://900bdf947c3cb30b3c04c8b021dcc04ff7e139f5	Spanish	2000
+ 	Arenavision 3 AceStream	acestream://1a023a961ebba480afd3918fda6efd36ffcde8da	Spanish	2000
+ 	Arenavision 4 AceStream	acestream://6d1fe1e42550d33d59fd23e0fdef1b120a857b69	Spanish	2000
+ 	Arenavision 5 AceStream	acestream://d05b18a1fbd7620505918115b9ec46c31a1f38d0	Spanish	2000
+ 	Arenavision 6 AceStream	acestream://57443702956011dd3025a4b755b489e497c11674	Spanish	2000
+ 	Arenavision 7 AceStream	acestream://230340fd667c6c63dd85a944ef930f553f9c3b43	Spanish	2000
+ 	Arenavision 8 AceStream	acestream://8e03793f7d618c1a5696645b727dbd0ce41d0c8f	Spanish	2000
+ 	Arenavision 9 AceStream	acestream://6cd5885ad564a2ec748ef8fe0db060fc1f9c005f	Spanish	2000
+ 	Arenavision 10 AceStream	acestream://734769b47d214f62e0becb0722380a0744f4b1d5	Spanish	2000
+ 	Arenavision 11 AceStream	acestream://65657ca5e75cc1680bf87630e5fdd54a0602993b	Spanish	2000
+ 	Arenavision 12 AceStream	acestream://a7f01d0cdce3aee3a7118da32979a14fac66624f	Spanish	2000
+ 	Arenavision 13 AceStream	acestream://feb84abca428b17189a0b8034018192d89d8cebd	Spanish	2000
+ 	Arenavision 14 AceStream	acestream://cac4426a3b31c7a40d536b6a03da43f83e768ef2	Spanish	2000
+ 	Arenavision 15 AceStream	acestream://0e98ce2d110409d31b5f057685692f6785bd4085	Spanish	2000
+ 	Arenavision 16 AceStream	acestream://1336b12c5564da5c23de50c33d03e7119f480731	Spanish	2000
+ 	Arenavision 17 AceStream	acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162	Spanish	2000
+ 	Arenavision 18 AceStream	acestream://014a0825b7fd57280581f12d17dc4fb5ea992451	Spanish	2000
+ 	Arenavision 19 AceStream	acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162	Spanish	2000
+ 	Arenavision 20 AceStream	acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162	Spanish	2000
+ 	AzTV AceStream	acestream://46122abe35375bd57825cd0d599bfe94df79ef69	Azeri	600
+B	BBC AceStream	acestream://485a771d1389af6fcb5fa50e7534c46b9553b6e5	English	2000
+ 	BBC2 AceStream	acestream://99c436f9882b07c92ed7a5bfffdb47e639976b04	English	2000
+ 	BeIN Sport Arabia 1 AceStream	acestream://56f3572e596b231838a66c8d6db3fdb65a50ad6e	English	1500
+ 	BeIN Sport Arabia 3 AceStream	acestream://31cb17e9dc869198a2e3e02fa2a7bc7543daae7c	English	1500
+ 	BeIN Sport Arabia 9 AceStream	acestream://9fc32001643893449d482a8c5779a0eb5eb3ebba	English	1500
+ 	BeIN Sport Arabia 10 AceStream	acestream://39ae9ed4497dae90eaa833c1a486af759da15b9d	English	1500
+ 	BeIN Sport Arabia 11 AceStream	acestream://7630c122e495c9d3c8801914cc098c77f0950ea3	English	1500
+ 	BeIN Sport Arabia 12 AceStream	acestream://0e0f45960ff2be2346f7e304ccd9dae0f86f3f23	English	1500
+ 	beIN Sport Spain AceStream	acestream://ab2e8de3849088cf2c662339ec0b4a8e062db736	Spanish	2000
+ 	Belarus 5 AceStream	acestream://ccce682c9f6deca50fca77949dc426ba1192e865	Byelorussian	1800
+ 	Benfica TV Portugal AceStream	acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721	Portuguese	1500
+ 	Benfica TV 2 Portugal AceStream	acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262	Portuguese	1500
+ 	Bloodzeed AceStream	acestream://42fe51591598d905ab011a9c8339150f8391dfa7	English	2000
+ 	Eurosport 1 AceStream	acestream://c79efcd68a71b8ee48b7a89c3c3b54e5310ee674	English	2000
+ 	BT Sport 1 AceStream	acestream://1cfbc10635f0388a8e92ea8154a6602a2869d84d	English	1500
+ 	BT Sport 2 AceStream	acestream://849981660225c0821bf311759fa0cb3523e4ae62	English	1500
+ 	BT Sport ESPN AceStream	acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8	English	1500
+ 	BT Sport Europe AceStream	acestream://21aadb7f7a3c09ffd1d8f636f3154b7092045380	English	1500
+ 	bTV Action AceStream	acestream://82cb5b600b89bd7c1f8d681b1443a9c8943df23e	Bulgarian	1050
+C	C More Football AceStream	acestream://8b01563409bc1edff4879daa93cf64f463203048	Norwegian	1050
+ 	C More Tennis AceStream	acestream://1328e97497116ef4dc90bc0eee91d88480a81b72	Norwegian	2000
+ 	C+ Liga Campeones Spain AceStream	acestream://7d8cd8a8f5feac300db5917db833790c34af99e0	Spanish	2000
+ 	C+ Liga Spain AceStream	acestream://fc0d5de7de664a65349d7679b2ecbe01c5ea1209	Spanish	2000
+ 	Canal Sport France AceStream	acestream://c62d29a99a3de0b3f506540a00589b1f8f01f573	French	1000
+ 	Canal+ Deportes AceStream	acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd	Spanish	1000
+ 	Canal+ Family Poland AceStream	acestream://7bbede6ded53f98e3417c51efe5da9a9f9ca70d4	Polish	3000
+ 	Canal+ Family Poland 2 AceStream	acestream://0aba4407456cf7bc420e930ae7ba0697e53d35fe	Polish	2500
+ 	Canal+ France AceStream	acestream://6686b602ad3581ebcf07c93cd2b8831d6683f2b4	French	1000
+ 	Canal+ Fútbol AceStream	acestream://ce497ea6f0235b7f5d20bad7b0237f96470bcdee	Spanish	1000
+ 	Canal+ Sport Poland AceStream	acestream://07fb7d0131663a5daef420fd75acb5731b1c6585	Polish	2000
+ 	Cricfree ESPN UK AceStream	acestream://5581bbb6b2ee6f20cda7e618da0f850e6625e6e1	English	1250
+ 	CT Sport AceStream	acestream://17f68c4c05ce6f9c71201aa2bb26858b7229315f	Czech	1500
+D	Delvey AceStream	acestream://b3b3048acd53c5881894065fdda3785db1ff37d3	English	1100
+ 	Delvey 2 AceStream	acestream://9986fb0613b2d7422c583db15ca1de433653e487	English	1100
+ 	Diema Sport Bulgaria AceStream	acestream://794fc495388278eaa8a49ca0152231e43aa9da01	Bulgarian	1100
+ 	Diema Sport 2 Bulgaria AceStream	acestream://9c09ca93668937ff878a0922f2873bcada5aadec	Bulgarian	1100
+ 	Diema TV Bulgaria AceStream	acestream://c0d019e3872d5b0c136e1a23023c3ed794c4160a	Bulgarian	1100
+ 	Digi Sport 1 AceStream	acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec	Hungarian	1500
+ 	Digi Sport 2 AceStream	acestream://3b0796661f783236f24756821f5efb1d15d59d7f	Hungarian	1500
+ 	Digi Sport 3 AceStream	acestream://d710f154d3892401cc1ef947e8a07ed0ce826d98	Hungarian	1500
+ 	Dolce Sport 1 AceStream	acestream://a72f7e9ec9fbf21395b95ee8545a93978b5adc97	Romanian	1500
+ 	Dolce Sport 2 AceStream	acestream://15770bf6d7b0e0503ec2068261e4be683916ccaa	Romanian	1500
+ 	Dolce Sport 3 AceStream	acestream://f7afb2a3b593f4d190312d7a1fba0dea9670b54a	Romanian	1500
+ 	Dolce Sport 4 AceStream	acestream://3f9f7989808cd22569ff5fa2cbe75b482d765bca	Romanian	1500
+E	Elgoles AceStream	acestream://9a00c5340c8e47a0c61932ac027ffd1f5c1f39ae	Spanish	2350
+ 	ESPN UK AceStream	acestream://95c43951ff1aab57b59110c7b4b4494a4c3f80e5	English	1250
+ 	Eurosport International AceStream	acestream://dec57d7e0552cb9791c2f859aaa0c1b159ca0b64	English	1200
+ 	Eurosport 2 International AceStream	acestream://c258e6e669546a42bb030649e8034c83962de7ef	English	1250
+ 	Eurosport RU AceStream	acestream://8c414e0bd660336f4491b61bb0772fe9f5e77dbd	Russian	1500
+ 	Eurosport 2 RU AceStream	acestream://7cfb4c12ae96eabc79c350d53d88e71d8797b6d9	Russian	1500
+F	F+ Bulgaria AceStream	acestream://d21564e94c502f74cbf341266d2453397f59b764	Bulgarian	1500
+ 	Football 1 UA AceStream	acestream://dc2a9c24b172dcc20a6d5e1172ea84d0e8552992	Ukrainian	1250
+ 	Football 2 UA AceStream	acestream://3c215d5e37435fdd956efb234262c7c35980571a	Ukrainian	1250
+ 	Fox Sports 2 AceStream	acestream://fe5e8788b682a0393411fdb07a5f50878a27d8af	Dutch	2500
+G	Gol T AceStream	acestream://3599e74e016d3e406f71644f9a58a809d2bedba5	Spanish	2000
+k	Kazsport TV AceStream	acestream://35244955509bf5811b63caff12860da2c9b68fb3	kazakh	1500
+L	LigTV AceStream	acestream://19ae679629593556f4b4e60a7a701627b39eb2e6	Turkish	1450
+M	Match Boec AceStream	acestream://6b8093028009d0a9c46c12b824cfb1bd9a6e13ba	Russian	2000
+ 	Match Football 1 AceStream	acestream://cd66e81d00e984a9e41efb9cbc8b2da96668bc0b	Russian	1500
+ 	Match Football 2 AceStream	acestream://62314393a9f101bb660f97fbb86cff0e3c2fe579	Russian	1500
+ 	Match Football 3 AceStream	acestream://91b90f16713d365d04097f0c247931010068cc16	Russian	1500
+ 	Match Game HD AceStream	acestream://3b8d82f83282dea53b130a628b4656c3009e02da	Russian	2000
+ 	Match HD AceStream	acestream://6890dafae473cc35b35de1e87e1e5087def28927	Russian	2000
+ 	Match Nash Sport AceStream	acestream://12138a7aa130c7a3bebc8ff84f88b330bed9a0cf	Russian	1500
+ 	MTV Sport1 AceStream	acestream://9d419645a4e5d6f91e9364db13ac89477e416ae9	Finnish	1200
+ 	MTV Sport2 AceStream	acestream://58219f647305b8a4872d9ba9766ec33ec6042ab0	Finnish	1200
+N	NBC Sports Network HD AceStream	acestream://5144119f056c82f44849d063dad2234e3046ae40	English	2000
+ 	Nova Sport BG AceStream	acestream://af863cf043df2cb8f63f2026d971e95d0a5c94e6	Bulgarian	3500
+ 	Nova Sport CZ AceStream	acestream://6ad08ea0a5c025f00be8ba1ad106821f27d17296	Czech	2000
+ 	nSport+ AceStream	acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9	Polish	600
+ 	NTV Plus Basketball AceStream	acestream://5f143a66be8e383684f6b6f22e180cedc605b7b2	Russian	1500
+ 	NTV Plus Nash Football AceStream	acestream://12138a7aa130c7a3bebc8ff84f88b330bed9a0cf	Russian	1250
+ 	NTV Plus Sport AceStream	acestream://4d30b90f4541dd6d7e1d9045434e4d5b8b70b40b	Russian	1000
+ 	NTV Plus Sport Hit AceStream	acestream://4972249c383430a728698f6516a4794118e7cd33	Russian	1250
+ 	NTV Plus Sport Online AceStream	acestream://df7a4b47bf017752b5b9ecfcc482605950199ec7	Russian	1500
+ 	NTV Plus Sport Union AceStream	acestream://d0e9dc444b3f846936095c9ec81307ca1f8cc26e	Russian	1500
+ 	NTV Plus Tennis AceStream	acestream://3ff9cc609482d1b88e6f817df4231f7a70b81f88	Russian	1500
+O	OTE Sport 1 HD AceStream	acestream://1bf854b67e052abe65415624e7c1a7bb892d4b22	Greek	2000
+ 	OTE Sport 2 HD AceStream	acestream://1a4aa2f28816707765fc99f077948f1360b55432	Greek	2000
+P	Polsat Sport AceStream	acestream://bbe286ff2b75a0ff37f595269c40033408779815	Polish	2000
+ 	Polsat Sport Extra AceStream	acestream://c37598639602b6834b7218a0b5cd3579722f707d	Polish	2000
+ 	Polsat Sport News AceStream	acestream://97fa7f7b25775b0daa085c8d6d5a52a357aca6b3	Polish	2000
+ 	Premier Sports AceStream	acestream://3679ef19d27763ab671159036927fe3ff077e865	English	1250
+R	RSI AceStream	acestream://14b0bceeadb58c77c41f83c590d56fc78d80b7fc	English	1000
+ 	Russia 2 Sport 2 AceStream	acestream://bfb08f18c954bb9eb72616774b8600afd1ee3580	Russian	1500
+ 	Russian 2 TV AceStream	acestream://49790fc7d10ecacaf1ce5939535cf895f63a0f75	Russian	1500
+ 	Russian Uefa AceStream	acestream://aefb39a57785523958aca72c2014acf5174fa289	Russian	1800
+ 	Russian+ Football AceStream	acestream://79bb19151941947d3462d1a002e7f878e6c3e602	Russian	1700
+ 	Russian+ Football 2 AceStream	acestream://ceb7d37c732a6e95f3fd8f8118cee566cbcbc268	Russian	1500
+S	Setanta Sports AceStream	acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb	Russian	5000
+ 	Setanta Sports Eurasia AceStream	acestream://fda7b070947a5177fce8141757551d194d6e7d1c	Russian	2000
+ 	Setanta Sports Eurasia+ AceStream	acestream://a3d6475c17fc2c7789cc45f802a9018764f0352c	Russian	2000
+ 	Setanta Sports Ireland AceStream	acestream://9ba1fc315918f63b576c5268ce3f9558693d1968	English	2500
+ 	Sky Bundesliga 1 AceStream	acestream://21dbffa1d5eb374b578e58f7a4def98e48cbc6fa	German	3500
+ 	Sky Sport 1 Germany AceStream	acestream://ba74250de12fe7d4f6422f63b11122db0d74e3bc	German	3500
+ 	Sky Sport 2 Germany AceStream	acestream://0d9671c9b7f7a1af43fbefd4e81c0afad4b7590e	German	3500
+ 	Sky Sports 1 AceStream	acestream://a76398619fa37a69928f8d8ca8abd50502f1bb2d	English	1250
+ 	Sky Sports 2 AceStream	acestream://fecd83c98d6b7aeac0b0f0aec09a82c4745a74f2	English	1250
+ 	Sky Sports 3 AceStream	acestream://4dbce55abecd154ff71b3477a332bd63611309e5	English	1250
+ 	Sky Sports 4 AceStream	acestream://11e5b8dcc1ff06c7fa5071ce4718bcc5f867d668	English	1250
+ 	Sky Sports 5 AceStream	acestream://67290791331d2497a60a7cab0c3c25241d227729	English	1250
+ 	Sky Sports 1 Italia AceStream	acestream://7662849bdf29f4225dffe7c49bffde4af9c02922	Italian	2500
+ 	Sky Sports F1 AceStream	acestream://2288397a21c4933d2359f19f54daa4101e297a48	English	1050
+ 	Sky Sports News AceStream	acestream://82d9268889e0d67c991b421577e810faff3e5ba0	English	950
+ 	Sport Klub 1 Serbia AceStream	acestream://da137d168d693f28841972c59062b37ed0773c3d	Serbian	2500
+ 	Sport Klub 2 Serbia AceStream	acestream://8ceba9805d3cdf5baa7a41167a943e41493fbe1e	Serbian	2500
+ 	Sport Klub 3 Serbia AceStream	acestream://7f1ec4c1307f983b91aef915a896253e78d62df2	Serbian	2500
+ 	Sport TV1 AceStream	acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be	Portuguese	1500
+ 	Sport TV2 AceStream	acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e	Portuguese	1500
+ 	Sport TV3 AceStream	acestream://4374034181abc685ef8dcbde9bf5438333667301	Portuguese	1500
+ 	Sport TV4 AceStream	acestream://fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6	Portuguese	1500
+ 	Sport TV5 AceStream	acestream://592445fe3244632cb50e4eb0dc66e3f61c3f3a6b	Portuguese	1500
+ 	Sport1 AceStream	acestream://17c64d54fa6df3bce228c2d01b97207d04940e86	Russian	1500
+ 	Sport1 2 AceStream	acestream://2c0965cc1618076de77ef51fa2d9bfdf8c5774a9	Russian	1500
+ 	Sport1 Czech AceStream	acestream://224647f6b35f20a68f72633d588a8f208a896bcc	Czech	2000
+ 	Sport2 Czech AceStream	acestream://2cf97774d9d6fdfcc4584569b7dd48c041484eba	Czech	2000
+ 	Sport1 Hungary AceStream	acestream://72b63e1a9e4166a2461341d8692cb3db6f5d6f88	Hungarian	2000
+ 	Sport2 Hungary AceStream	acestream://16f9c5116a3b07dfc3928f12791fc67aa12eadb3	Hungarian	2000
+ 	Sport1 Select AceStream	acestream://a770493d86f72ac642fbd07633de46ebb026a8c1	Dutch	5000
+ 	Sport1 Voetbal AceStream	acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471	Dutch	5000
+ 	Sport1 UA AceStream	acestream://9942e88fbfd3c2eedb4b5198319f0d0836ee262c	Ukrainian	1200
+ 	Sport2 UA AceStream	acestream://ef063d96699ce222cb9ada19e2b1a79770859559	Ukrainian	1200
+ 	Sport1+ Germany AceStream	acestream://3a619efa4e9efb342affe2042a80647497ef5dbd	German	2000
+ 	Sportmania AceStream	acestream://27873cf82c5860aca601e316c10dcfccc4085406	Spanish	2000
+ 	Sportsnet AceStream	acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc	English	2500
+ 	Sportsnet World AceStream	acestream://6e5016bc0258b062c0610e658615369feb8000a5	English	2500
+T	Telekanal Football AceStream	acestream://d2c6b396f868dafc533c6a2fe98a22b226ae1794	Russian	1500
+ 	TSN 1 AceStream	acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb	English	1500
+ 	TSN 2 AceStream	acestream://1f66b63a33bd9010511d35f263482330d4e23d88	English	1500
+ 	TSN 3 AceStream	acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13	English	1500
+ 	TSN 4 AceStream	acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc	English	1500
+ 	TSN 5 AceStream	acestream://7335cfa242c52fd166b310a23e42df7d3672b75a	English	1500
+ 	TV2 Sport HD Denmark AceStream	acestream://7aeb6ae47583a751939edd88baba9b631a7bda1d	Danish	1250
+ 	TV3 Sport1 AceStream	acestream://f7b5faa515b1ff88635857649a3ca1a96cd6a93d	Danish	1250
+ 	TV3 Sport2 AceStream	acestream://747791c28682e20b4fd1b7242e0401f98ea724a1	Danish	1250
+ 	TV4 Sport Sweden AceStream	acestream://abbcd13d162fb8b46c88f45be37934eb0b7cafdc	Swedish	1250
+V	Viasat Fotboll Sweden AceStream	acestream://2c0693698d19033713d730107c5f0a5dcdbb2671	Swedish	1250
+ 	Viasat Hockey AceStream	acestream://c3dbf1fc829e76e5f18e37354f454c2546558673	Swedish	1250
+ 	Viasat Motor AceStream	acestream://44682f2cef0d96026851082b69bed5bf6dedcbf7	Swedish	1250
+ 	Viasat Sport 3 HD EPL AceStream	acestream://f891873c7b27b55bd02c747b0bbc82e5bafba266	Swedish	1250
+ 	Viasat Sport Baltic AceStream	acestream://cc39d4d1789fb46654c5fbcfcef326d7b8030696	Swedish	1250
+ 	Viasat Sport Norway AceStream	acestream://9cb68f3be11793f34fe2e6932ce9d4efc3c6d808	Norwegian	1250
+ 	Viasat Sport Russia HD AceStream	acestream://5df1b806113324ea09c73099daa75981592bb273	Russian	3000
+ 	Viasat Sport Sweden AceStream	acestream://d2a87cccb12043603fa3c05ea0cfc1e560bbd266	Swedish	1250
+Y	YES AceStream	acestream://8f9ea6a3e2c20cf2c8173b3e9d0795de70a26893	English	1050
+Z	Zapsport AceStream	acestream://e9b78040422347e82ca13192da8b9df80f559fd2	Dutch	1050
+ 	ZDF HD AceStream	acestream://2b75abd2543e6d1795a5440627400d4e5550d4c4	German	2000
+
+
+
+
+

@@ -1,0 +1,568 @@
+#EXTM3U
+
+
+
+
+#EXTM3U
+#EXTINF:-1,3sat
+http://91.55.64.175:9981/stream/channelid/2058528344
+#EXTINF:-1,arte
+http://91.55.64.175:9981/stream/channelid/687325023
+#EXTINF:-1,Bayerisches FS
+http://91.55.64.175:9981/stream/channelid/1091568950
+#EXTINF:-1,Bibel TV
+http://91.55.64.175:9981/stream/channelid/1789151657
+#EXTINF:-1,Channel 21/Euronews
+http://91.55.64.175:9981/stream/channelid/1417577502
+#EXTINF:-1,Das Erste
+http://91.55.64.175:9981/stream/channelid/401434101
+#EXTINF:-1,Disney Channel
+http://91.55.64.175:9981/stream/channelid/144069724
+#EXTINF:-1,Eurosport
+http://91.55.64.175:9981/stream/channelid/718462553
+#EXTINF:-1,hr-fernsehen
+http://91.55.64.175:9981/stream/channelid/1310017849
+#EXTINF:-1,kabel eins
+http://91.55.64.175:9981/stream/channelid/780990835
+#EXTINF:-1,MDR Sachsen
+http://91.55.64.175:9981/stream/channelid/589238047
+#EXTINF:-1,n-tv
+http://91.55.64.175:9981/stream/channelid/193893648
+#EXTINF:-1,N24
+http://91.55.64.175:9981/stream/channelid/279558714
+#EXTINF:-1,NDR FERNSEHEN
+http://91.55.64.175:9981/stream/channelid/1461445568
+#EXTINF:-1,neo/KiKA
+http://91.55.64.175:9981/stream/channelid/1725549093
+#EXTINF:-1,nice
+http://91.55.64.175:9981/stream/channelid/338139695
+#EXTINF:-1,PHOENIX
+http://91.55.64.175:9981/stream/channelid/1409800873
+#EXTINF:-1,Pro7 MAXX
+http://91.55.64.175:9981/stream/channelid/1716856570
+#EXTINF:-1,ProSieben
+http://91.55.64.175:9981/stream/channelid/808421406
+#EXTINF:-1,rbb Berlin
+http://91.55.64.175:9981/stream/channelid/2025514578
+#EXTINF:-1,rbb Brandenburg
+http://91.55.64.175:9981/stream/channelid/815028990
+#EXTINF:-1,RTL Television
+http://91.55.64.175:9981/stream/channelid/141280484
+#EXTINF:-1,RTL2
+http://91.55.64.175:9981/stream/channelid/97768221
+#EXTINF:-1,RTLNITRO
+http://91.55.64.175:9981/stream/channelid/505467771
+#EXTINF:-1,SAT.1
+http://91.55.64.175:9981/stream/channelid/858421606
+#EXTINF:-1,SIXX
+http://91.55.64.175:9981/stream/channelid/585137244
+#EXTINF:-1,Super RTL
+http://91.55.64.175:9981/stream/channelid/1213796256
+#EXTINF:-1,Südwest BW/RP
+http://91.55.64.175:9981/stream/channelid/1169470392
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,DE Sky Sport 1 HD DE
+http://s01.ottv.pro:2000/0800?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Sport 2 HD DE
+http://s01.ottv.pro:2000/0801?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE RTL HD
+http://s01.ottv.pro:2000/0802?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE n-tv HD
+http://s01.ottv.pro:2000/0803?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Super RTL HD
+http://s01.ottv.pro:2000/0804?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE RTL Nitro HD
+http://s01.ottv.pro:2000/0805?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE RTL 2 HD
+http://s01.ottv.pro:2000/0806?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sat.1 HD
+http://s01.ottv.pro:2000/0807?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE ProSieben HD
+http://s01.ottv.pro:2000/0808?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Kabel Eins HD
+http://s01.ottv.pro:2000/0809?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE N24 HD
+http://s01.ottv.pro:2000/0810?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE SIXX HD
+http://s01.ottv.pro:2000/0811?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE ZDF HD
+http://s01.ottv.pro:2000/0812?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE arte HD
+http://s01.ottv.pro:2000/0813?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE VOX HD
+http://s01.ottv.pro:2000/0814?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Das Erste HD
+http://s01.ottv.pro:2000/0815?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE 3sat HD
+http://s01.ottv.pro:2000/0816?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE ProSieben Maxx HD
+http://s01.ottv.pro:2000/0817?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Disney HD
+http://s01.ottv.pro:2000/0818?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE VIVA/Comedy
+http://s01.ottv.pro:2000/0819?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE KIKA HD
+http://s01.ottv.pro:2000/0820?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE NatGeo HD
+http://s01.ottv.pro:2000/0821?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE RTL Crime
+http://s01.ottv.pro:2000/0822?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Anixe HD
+http://s01.ottv.pro:2000/0823?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Eurosport HD
+http://s01.ottv.pro:2000/0824?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sport1+ HD
+http://s01.ottv.pro:2000/0825?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Sport News
+http://s01.ottv.pro:2000/0826?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Bundesliga 1 HD
+http://s01.ottv.pro:2000/0827?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE RTL Passion
+http://s01.ottv.pro:2000/0828?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE TNT Film
+http://s01.ottv.pro:2000/0829?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE TNT Serie HD
+http://s01.ottv.pro:2000/0830?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Action HD
+http://s01.ottv.pro:2000/0831?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Comedy
+http://s01.ottv.pro:2000/0832?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Emotion
+http://s01.ottv.pro:2000/0833?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Cinema HD
+http://s01.ottv.pro:2000/0834?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Disney Cinemagic HD
+http://s01.ottv.pro:2000/0835?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Hits HD
+http://s01.ottv.pro:2000/0836?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE MGM HD
+http://s01.ottv.pro:2000/0837?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Syfy HD
+http://s01.ottv.pro:2000/0838?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE Sky Atlantic HD
+http://s01.ottv.pro:2000/0839?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE 13th Street HD
+http://s01.ottv.pro:2000/0840?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE DMAX HD
+http://s01.ottv.pro:2000/0841?token=8d596b389f8943a0419fc1a170c9
+#EXTINF:-1,DE FOX HD
+http://s01.ottv.pro:2000/0842?token=8d596b389f8943a0419fc1a170c9
+
+#EXTINF:-1,Viasat Fotboll
+http://cdn.ecoloriptv.xyz:8000/play/a0a1?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,National Geographic
+http://cdn.ecoloriptv.xyz:8000/play/a07j?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,MTV Dance
+http://cdn.ecoloriptv.xyz:8000/play/a09p?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,VH1 European International
+http://cdn.ecoloriptv.xyz:8000/play/a0ax?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,К1
+http://cdn.ecoloriptv.xyz:8000/play/a0av?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Discovery Science
+http://cdn.ecoloriptv.xyz:8000/play/a07e?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Nick Jr.
+http://cdn.ecoloriptv.xyz:8000/play/a06w?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Nat Geo Wild HD
+http://cdn.ecoloriptv.xyz:8000/play/a08q?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,AMC
+http://cdn.ecoloriptv.xyz:8000/play/a05y?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,MTV Hits
+http://cdn.ecoloriptv.xyz:8000/play/a09o?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Discovery HD
+http://cdn.ecoloriptv.xyz:8000/play/a08p?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,MTV ROCKS
+http://cdn.ecoloriptv.xyz:8000/play/a070?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Animal Planet
+http://cdn.ecoloriptv.xyz:8000/play/a07a?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Investigation Discovery
+http://cdn.ecoloriptv.xyz:8000/play/a07h?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1 Eurosport 1 HD
+http://cdn.ecoloriptv.xyz:8000/play/a09h?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Nat Geo Wild
+http://cdn.ecoloriptv.xyz:8000/play/a07i?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,Eurosport 2 HD
+http://cdn.ecoloriptv.xyz:8000/play/a09i?token=e768024e6ecd59fe96b3eeb98c82dbb4
+#EXTINF:-1,CandyMan (18+)
+http://cdn.ecoloriptv.xyz:8000/play/a0b1?token=e768024e6ecd59fe96b3eeb98c82dbb4
+
+#EXTINF:-1,HBO HD
+http://217.75.209.74:8083/rel/pc/504/1000/0.k.m3u8
+#EXTINF:-1,HBO 2 HD
+http://217.75.209.74:8083/rel/pc/504/1100/0.k.m3u8
+#EXTINF:-1,HBO 3 HD
+http://217.75.209.74:8083/rel/pc/504/1120/0.k.m3u8
+
+#EXTINF:-1,Erox HD
+http://217.75.209.74:8083/rel/pc/504/1990/0.k.m3u8
+#EXTINF:-1,Eroxxx HD
+http://217.75.209.74:8083/rel/pc/504/1994/0.k.m3u8
+
+#EXTINF:-1,HBO1 HD
+http://91.222.53.57/master_180.m3u8
+#EXTINF:-1,HBO2 HD
+http://91.222.53.57/master_68.m3u8
+#EXTINF:-1,HBO3 HD
+http://91.222.53.57/master_67.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="0002.png",[COLOR orangered]ARD HD[/COLOR]
+racacax:ard_hd
+#EXTINF:-1 tvg-logo="0001.png",[COLOR orange]ARD[/COLOR]
+racacax:ard_sd
+#EXTINF:-1 tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+racacax:zdf_hd
+#EXTINF:-1 tvg-logo="0003.png",[COLOR orange]ZDF[/COLOR]
+racacax:zdf_sd
+#EXTINF:-1 tvg-logo="0031.png",[COLOR orange]ARD Alpha[/COLOR]
+racacax:ard_alpha
+#EXTINF:-1 tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+racacax:3_sat_hd
+#EXTINF:-1 tvg-logo="0080.png",[COLOR orangered]3+ HD[/COLOR]
+racacax:3_plus_hd
+#EXTINF:-1 tvg-logo="0136.png",[COLOR orangered]4+ HD[/COLOR]
+racacax:4_plus_hd
+#EXTINF:-1 tvg-logo="0052.png",[COLOR orange]DMAX[/COLOR]
+racacax:dmax
+#EXTINF:-1 tvg-logo="0005.png",[COLOR orangered]RTL CH HD[/COLOR]
+racacax:rtl_ch_hd
+#EXTINF:-1 tvg-logo="0009.png",[COLOR orangered]RTL 2 HD[/COLOR]
+racacax:rtl_2_hd
+#EXTINF:-1 tvg-logo="0040.png",[COLOR orangered]RTL Nitro HD[/COLOR]
+racacax:rtl_nitro_hd
+#EXTINF:-1 tvg-logo="0045.png",[COLOR orangered]Super RTL HD[/COLOR]
+racacax:super_rtl_hd
+#EXTINF:-1 tvg-logo="0012.png",[COLOR orangered]Arte HD[/COLOR]
+racacax:arte_de_hd
+#EXTINF:-1 tvg-logo="0011.png",[COLOR orange]Arte[/COLOR]
+racacax:arte_de_sd
+#EXTINF:-1 tvg-logo="0008.png",[COLOR orangered]Kabel 1 HD[/COLOR]
+racacax:kabel_1_hd
+#EXTINF:-1 tvg-logo="0008.png",[COLOR orange]Kabel 1[/COLOR]
+racacax:kabel_1_sd
+#EXTINF:-1 tvg-logo="0037.png",[COLOR orangered]Sixx HD[/COLOR]
+racacax:sixx_hd
+#EXTINF:-1 tvg-logo="0037.png",[COLOR orange]Sixx[/COLOR]
+racacax:sixx_sd
+#EXTINF:-1 tvg-logo="0081.png",[COLOR orangered]S1 HD[/COLOR]
+racacax:s1tv_hd
+#EXTINF:-1 tvg-logo="0006.png",[COLOR orangered]Sat.1 HD[/COLOR]
+racacax:sat_1_hd
+#EXTINF:-1 tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
+racacax:sat_1_sd
+#EXTINF:-1 tvg-logo="0050.png",[COLOR orange]Sport1[/COLOR]
+racacax:sport_1
+#EXTINF:-1 tvg-logo="0049.png",[COLOR orange]EuroSport[/COLOR]
+racacax:eurosport
+#EXTINF:-1 tvg-logo="TLC.png", [COLOR orange]TLC Germany[/COLOR]
+racacax:tlc_de
+#EXTINF:-1 tvg-logo="0047.png",[COLOR orangered]KiKa HD[/COLOR]
+racacax:kika_hd
+#EXTINF:-1 tvg-logo="0046.png",[COLOR orange]KiKa[/COLOR]
+racacax:kika_sd
+#EXTINF:-1 tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
+racacax:disney_channel_de
+#EXTINF:-1 tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
+racacax:phoenix_hd
+#EXTINF:-1 tvg-logo="0029.png",[COLOR orange]Phoenix[/COLOR]
+racacax:phoenix_sd
+#EXTINF:-1 tvg-logo="0007.png",[COLOR orangered]Pro7 HD[/COLOR]
+racacax:pro7_ch_hd
+#EXTINF:-1 tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
+racacax:pro7_maxx_sd
+#EXTINF:-1 tvg-logo="oacht_plus.png",[COLOR orangered]Puls 8 HD[/COLOR]
+racacax:puls_8_hd
+#EXTINF:-1 tvg-logo="0066.png",[COLOR orangered]Anixe HD[/COLOR]
+racacax:anixe_hd
+#EXTINF:-1 tvg-logo="0066.png",[COLOR orange]Anixe[/COLOR]
+racacax:anixe_sd
+#EXTINF:-1 tvg-logo="0071.png",[COLOR orangered]ORF1 HD[/COLOR]
+racacax:orf_1_hd
+#EXTINF:-1 tvg-logo="0070.png",[COLOR orange]ORF1[/COLOR]
+racacax:orf_1_sd
+#EXTINF:-1 tvg-logo="0073.png",[COLOR orangered]ORF2 HD[/COLOR]
+racacax:orf_2_hd
+#EXTINF:-1 tvg-logo="0072.png",[COLOR orange]ORF2[/COLOR]
+racacax:orf_2_sd
+#EXTINF:-1 tvg-logo="austria_24.png",[COLOR orange]Austria 24[/COLOR]
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1 tvg-logo="0123.png",[COLOR orangered]Servus TV HD[/COLOR]
+racacax:servus_tv_hd
+#EXTINF:-1 tvg-logo="0122.png",[COLOR orange]Servus TV[/COLOR]
+racacax:servus_tv_sd
+#EXTINF:-1 tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
+racacax:sf_1_hd
+#EXTINF:-1 tvg-logo="0075.png",[COLOR orange]SRF 1[/COLOR]
+racacax:sf_1_sd
+#EXTINF:-1 tvg-logo="0078.png",[COLOR orangered]SRF 2 HD[/COLOR]
+racacax:sf_2_hd
+#EXTINF:-1 tvg-logo="0077.png",[COLOR orange]SRF 2[/COLOR]
+racacax:sf_2_sd
+#EXTINF:-1 tvg-logo="0079.png",[COLOR orangered]SRF info HD[/COLOR]
+racacax:sf_info_hd
+#EXTINF:-1 tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+racacax:sf_info_sd
+#EXTINF:-1 tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
+racacax:zdf_neo_hd
+#EXTINF:-1 tvg-logo="0053.png",[COLOR orange]ZDFneo[/COLOR]
+racacax:zdf_neo_sd
+#EXTINF:-1 tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
+racacax:zdf_info_hd
+#EXTINF:-1 tvg-logo="0057.png",[COLOR orange]ZDFinfo[/COLOR]
+racacax:zdf_info_sd
+#EXTINF:-1 tvg-logo="0068.png",[COLOR orange]Deutsche Welle[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="0041.png",[COLOR orange]Tele 5[/COLOR]
+racacax:tele_5
+#EXTINF:-1 tvg-logo="0083.png",[COLOR orangered]Tele Züri HD[/COLOR]
+racacax:tele_zuri_hd
+#EXTINF:-1 tvg-logo="0083.png",[COLOR orange]Tele Züri[/COLOR]
+racacax:tele_zuri_sd
+#EXTINF:-1 tvg-logo="0010.png",[COLOR orangered]VOX HD[/COLOR]
+racacax:vox_hd
+#EXTINF:-1 tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
+racacax:vox_sd
+#EXTINF:-1 tvg-logo="0034.png",[COLOR orangered]n-tv HD[/COLOR]
+racacax:n_tv_hd
+#EXTINF:-1 tvg-logo="0034.png",[COLOR orange]n-tv[/COLOR]
+racacax:n_tv_sd
+#EXTINF:-1 tvg-logo="0107.png",[COLOR orangered]NDR HD[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-logo="0106.png",[COLOR orange]NDR[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8
+#EXTINF:-1 tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-logo="0017.png",[COLOR orange]WDR[/COLOR]
+racacax:wdr_sd
+#EXTINF:-1 tvg-logo="0026.png",[COLOR orangered]hr HD[/COLOR]
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-p.m3u8
+#EXTINF:-1 tvg-logo="0025.png",[COLOR orange]hr[/COLOR]
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_1628_av-p.m3u8
+#EXTINF:-1 tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
+racacax:tv24_hd
+#EXTINF:-1 tvg-logo="tv25.png",[COLOR orangered]TV25 HD[/COLOR]
+racacax:tv_25_hd
+#EXTINF:-1 tvg-logo="0032.png",[COLOR orange]N24[/COLOR]
+http://bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/01.m3u8
+#EXTINF:-1 tvg-logo="0063.png",[COLOR orangered]Tagesschau24[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo="0100.png",[COLOR orangered]blizz TV HD[/COLOR]
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5726-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="aktuelle.png",[COLOR orangered]TV Aktuell[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="elbe_kanal.png",[COLOR orange]Elbe Kanal[/COLOR]
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1 tvg-logo="augsburg_Tv.png",[COLOR orangered]Augsburg TV[/COLOR]
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]München TV[/COLOR]
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Dresden TV[/COLOR]
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Halle TV[/COLOR]
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Leipzig TV[/COLOR]
+rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Dessau[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Magdeburg[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Salzwedel[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Stendal[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Wernigerode[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]RTL Tele Letzebourg[/COLOR]
+rtmp://wowza01.newmedia.lu/channel1/live
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Tele Bärn[/COLOR]
+http://rtmp.infomaniak.ch/livecast/barntele/playlist.m3u8
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR FFFF00FF]ARD HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=ard_hd
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0031.png",[COLOR FFFF00FF]ARD Alpha[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=ard_alpha
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR FFFF00FF]ZDF HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_hd
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0054.png",[COLOR FFFF00FF]ZDFneo HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_neo_hd
+#EXTINF:-1 tvg-id="ZDFkultur.de" group-title="Deutsch" tvg-logo="0056.png",[COLOR FFFF00FF]ZDFkultur HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_kultur_hd
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0058.png",[COLOR FFFF00FF]ZDFinfo HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=zdf_info_hd
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR FFFF00FF]3sat HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=3_sat_hd
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0080.png",[COLOR FFDC54D3]3+[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=3_plus_hd
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR FFFF00FF]Arte HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=arte_de_hd
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR FFDC54D3]Disney Channel[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=disney_channel_de
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR FFFF00FF]KiKa HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=kika_hd
+#EXTINF:-1 tvg-id="SRF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR FFFF00FF]SRF 1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sf_1_hd
+#EXTINF:-1 tvg-id="SRF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR FFFF00FF]SRF zwei HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sf_2_hd
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR FFFF00FF]SRF info HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sf_info_hd
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR FFFF00FF]ORF1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=orf_1_hd
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR FFFF00FF]ORF2 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=orf_2_hd
+#EXTINF:-1 tvg-id="RTL.ch" group-title="Deutsch" tvg-logo="0005.png",[COLOR FFFF00FF]RTL CH HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0009.png",[COLOR FFFF00FF]RTL 2 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR FFFF00FF]RTL Nitro HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_nitro_hd
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0045.png",[COLOR FFFF00FF]Super RTL HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR FFFF00FF]PHOENIX HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=phoenix_hd
+#EXTINF:-1 tvg-id="Vox.ch" group-title="Deutsch" tvg-logo="0010.png",[COLOR FFFF00FF]VOX HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=vox_hd
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0008.png",[COLOR FFFF00FF]Kabel 1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=kabel_1_hd
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR FFDC54D3]DMAX[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=dmax
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0037.png",[COLOR FFFF00FF]Sixx HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sixx_hd
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR FFDC54D3]EuroSport[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=eurosport
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR FFFF00FF]WDR HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=wdr_hd
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR FFFF00FF]Sat.1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_hd
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR FFFF00FF]n-tv HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=n_tv_hd
+#EXTINF:-1 tvg-id="Telezueri.ch" group-title="Deutsch" tvg-logo="0083.png",[COLOR FFFF00FF]Tele Züri HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_zuri_hd
+#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR FFDC54D3]Tele 5[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_5
+#EXTINF:-1 tvg-id="Tv24.ch" group-title="Deutsch" tvg-logo="0082.png",[COLOR FFFF00FF]TV24 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tv24_hd
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR FFFF00FF]Anixe HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=anixe_hd
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0007.png",[COLOR FFFF00FF]Pro7 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_ch_hd
+#EXTINF:-1 tvg-logo="0051.png",[COLOR FFFF00FF]Pro7Maxx HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=pro7_maxx_hd
+#EXTINF:-1 tvg-logo="oacht_plus.png",[COLOR FFFF00FF]Puls 8 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=puls_8
+#EXTINF:-1 tvg-logo="0050.png",[COLOR FFDC54D3]Sport1[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sport_1
+#EXTINF:-1 tvg-logo="0035.png",[COLOR FFDC54D3]EuroNews Deutsch[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=euronews_de
+#EXTINF:-1 tvg-logo="0081.png",[COLOR FFFF00FF]S1 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=s1tv_hd
+#EXTINF:-1 tvg-logo="0091.png",[COLOR FFDC54D3]Tele Top[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_top_zh
+#EXTINF:-1 tvg-logo="tv.png",[COLOR FFDC54D3]Tele Bärn[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=telebaern
+EXTINF:-1 tvg-logo="0086.png",[COLOR FFDC54D3]Tele Basel[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=telebasel
+#EXTINF:-1 tvg-logo="0123.png",[COLOR FFFF00FF]Servus TV HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=servus_tv_hd
+#EXTINF:-1 tvg-logo="0032.png",[COLOR FFFF00FF]N24 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=n24_hd
+#EXTINF:-1 tvg-logo="0024.png",[COLOR FFFF00FF]SWR HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=swr_hd
+#EXTINF:-1 tvg-logo="0022.png",[COLOR FFFF00FF]BR HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=br_hd
+#EXTINF:-1 tvg-logo="0087.png",[COLOR FFDC54D3]Tele Bielingue[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_biel
+#EXTINF:-1 tvg-logo="0107.png",[COLOR FFFF00FF]NDR HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=ndr_hd
+#EXTINF:-1 tvg-logo="TLC.png", [COLOR FFFF00FF]TLC Germany[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tlc_de
+#EXTINF:-1 tvg-logo="star_tv.png",[COLOR FFDC54D3]Star TV[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=star_tv
+#EXTINF:-1 tvg-logo="sat1gold.png",[COLOR FFDC54D3]Sat.1 Gold[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=sat_1_gold
+#EXTINF:-1 tvg-logo="0242.png",[COLOR FFDC54D3]Kanal 9[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=kanal_9
+#EXTINF:-1 tvg-logo="0136.png",[COLOR FFFF00FF]4+ HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=4_plus_hd
+#EXTINF:-1 tvg-logo="0137.png",[COLOR FFFF00FF]5+ HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=5_plus_hd
+#EXTINF:-1 tvg-logo="tv25.png",[COLOR FFFF00FF]TV25 HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tv_25_hd
+#EXTINF:-1 tvg-logo="0090.png",[COLOR FFDC54D3]Tele 1[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_1_hd
+#EXTINF:-1 tvg-logo="0094.png",[COLOR FFDC54D3]Tele M1[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_m1_hd
+#EXTINF:-1 tvg-logo="0020.png",[COLOR FFDC54D3]MDR[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=mdr
+#EXTINF:-1 tvg-logo="0146.png",[COLOR FFFF00FF]CH TV HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=chtv_hd
+#EXTINF:-1 tvg-logo="0043.png",[COLOR FFFF00FF]Nickelodeon HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=nick_cc_hd
+#EXTINF:-1 tvg-logo="0089.png",[COLOR FFFF00FF]Tele Ostschweiz HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tele_ostschweiz_hd
+#EXTINF:-1 tvg-logo="0088.png",[COLOR FFFF00FF]Tele Südostschweiz HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=tso_hd
+#EXTINF:-1 tvg-logo="0044.png",[COLOR FFFF00FF]Viva HD[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=viva_hd
+#EXTINF:-1 tvg-logo="0048.png",[COLOR FFDC54D3]Ric[/COLOR]
+https://streams.wilmaa.com/m3u8/get?channelId=ric
