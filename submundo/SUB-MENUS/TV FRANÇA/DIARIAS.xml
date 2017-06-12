@@ -1,8 +1,6 @@
-Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="http://tvsupertuga.x10.bz/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"FR"
+Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"FR"
 
-Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="http://tvsupertuga.x10.bz/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"FR"
-
-
+Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"FR"
 
 
 
@@ -15,5 +13,7 @@ Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]04-02-2017 [
 
 
 
-Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]03-02-2017 [/B] " URL="http://tvsupertuga.x10.bz/submundo/SUB-MENUS/TV%20FRAN%C3%87A/LISTAS%20DIARIAS/FR.m3u"; regex""
+
+
+Server:"[COLOR=yellow] [B]LISTE QUOTIDIEN FR [/B]   [COLOR=lime] [B]03-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/TV%20FRAN%C3%87A/LISTAS%20DIARIAS/FR.m3u"; regex""
 
