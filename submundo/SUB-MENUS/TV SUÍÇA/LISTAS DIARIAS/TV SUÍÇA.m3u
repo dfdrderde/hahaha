@@ -1,47 +1,91 @@
 #EXTM3U
-#EXTINF:-1,CH: CINEMA 1 DE
-http://149.202.72.15:8000/live/marisa/marisa/1933.m3u8
-#EXTINF:-1,CH: CINEMA 1 FR
-http://149.202.72.15:8000/live/marisa/marisa/1934.m3u8
-#EXTINF:-1,CH: CINEMA 1 IT
-http://149.202.72.15:8000/live/marisa/marisa/1935.m3u8
-#EXTINF:-1,CH: CINEMA 2 DE
-http://149.202.72.15:8000/live/marisa/marisa/1936.m3u8
-#EXTINF:-1,CH: CINEMA 2 FR
-http://149.202.72.15:8000/live/marisa/marisa/1937.m3u8
-#EXTINF:-1,CH: CINEMA 2 IT
-http://149.202.72.15:8000/live/marisa/marisa/1938.m3u8
-#EXTINF:-1,CH: La TELE HD
-http://149.202.72.15:8000/live/marisa/marisa/1939.m3u8
-#EXTINF:-1,CH: RSI La 1 HD
-http://149.202.72.15:8000/live/marisa/marisa/1940.m3u8
-#EXTINF:-1,CH: RSI La 2 HD
-http://149.202.72.15:8000/live/marisa/marisa/1941.m3u8
-#EXTINF:-1,CH: Rm3u8 Deux
-http://149.202.72.15:8000/live/marisa/marisa/1942.m3u8
-#EXTINF:-1,CH: Rm3u8 Un HD
-http://149.202.72.15:8000/live/marisa/marisa/1943.m3u8
-#EXTINF:-1,CH: SFR Sport 1 HD
-http://149.202.72.15:8000/live/marisa/marisa/1944.m3u8
-#EXTINF:-1,CH: SFR Sport 2 HD
-http://149.202.72.15:8000/live/marisa/marisa/1945.m3u8
-#EXTINF:-1,CH: SFR Sport 3 HD
-http://149.202.72.15:8000/live/marisa/marisa/1946.m3u8
-#EXTINF:-1,CH: SRF 1 HD
-http://149.202.72.15:8000/live/marisa/marisa/1947.m3u8
-#EXTINF:-1,CH: SRF 2 HD
-http://149.202.72.15:8000/live/marisa/marisa/1948.m3u8
-#EXTINF:-1,CH: SRF Info HD
-http://149.202.72.15:8000/live/marisa/marisa/1949.m3u8
-#EXTINF:-1,CH: TELEBASEL
-http://149.202.72.15:8000/live/marisa/marisa/1950.m3u8
-#EXTINF:-1,CH: TELECLUB SPORT 1HD
-http://149.202.72.15:8000/live/marisa/marisa/1951.m3u8
-#EXTINF:-1,CH: TELECLUB SPORT 2HD
-http://149.202.72.15:8000/live/marisa/marisa/1952.m3u8
-#EXTINF:-1,CH: TELECLUB SPORT 3HD
-http://149.202.72.15:8000/live/marisa/marisa/1953.m3u8
-#EXTINF:-1,CH: Teleclub STAR HD
-http://149.202.72.15:8000/live/marisa/marisa/1954.m3u8
-#EXTINF:-1,CH: TVM3 HD
-http://149.202.72.15:8000/live/marisa/marisa/1955.m3u8
+#EXTINF:-1,TV8
+http://82.137.27.223:2002/play/a004
+#EXTINF:-1,DR2
+http://82.137.27.223:2002/play/a003
+#EXTINF:-1,TV3 Puls
+http://82.137.27.223:2002/play/a006
+#EXTINF:-1,MTV DK
+http://82.137.27.223:2002/play/a007
+#EXTINF:-1,DR1
+http://82.137.27.223:2002/play/a002
+#EXTINF:-1,CANAL9
+http://82.137.27.223:2002/play/a009
+#EXTINF:-1,Viasat Explore
+http://82.137.27.223:2002/play/a005
+#EXTINF:-1,Cartoon Network —
+http://82.137.27.223:2001/play/a002
+#EXTINF:-1,Viasat History —
+http://82.137.27.223:2001/play/a007
+#EXTINF:-1,TV4 Film —
+http://82.137.27.223:2001/play/a00a
+#EXTINF:-1,Sjuan —
+http://82.137.27.223:2001/play/a009
+#EXTINF:-1,Kanal 9 —
+http://82.137.27.223:2001/play/a003
+#EXTINF:-1,Kanal 11 —
+http://82.137.27.223:2001/play/a006
+#EXTINF:-1,Kunskapskanalen
+http://82.137.27.223:2003/play/a004
+#EXTINF:-1,SVTB/SVT24
+http://82.137.27.223:2003/play/a005
+#EXTINF:-1,Nat Geo Wild
+http://82.137.27.223:2003/play/a00a
+#EXTINF:-1,Eurosport 2 (D)
+http://82.137.27.223:2003/play/a00c
+#EXTINF:-1,TVNorge
+http://82.137.27.223:2003/play/a006
+#EXTINF:-1,Nickelodeon DK / MTV Hits
+http://82.137.27.223:2003/play/a009
+#EXTINF:-1,TV4 Guld
+http://82.137.27.223:2003/play/a008
+#EXTINF:-1,Kanal 5 DK
+http://82.137.27.223:2003/play/a00b
+#EXTINF:-1,TV 12
+http://82.137.27.223:2004/play/a003
+#EXTINF:-1,TV 2 Norge
+http://82.137.27.223:2004/play/a005
+#EXTINF:-1,Kanal 5
+http://82.137.27.223:2004/play/a006
+#EXTINF:-1,TV4
+http://82.137.27.223:2004/play/a008
+#EXTINF:-1,National Geographic S
+http://82.137.27.223:2004/play/a00b
+#EXTINF:-1,Comedy Central
+http://82.137.27.223:2004/play/a007
+#EXTINF:-1,TV6
+http://82.137.27.223:2005/play/a008
+#EXTINF:-1,TV3 Denmark
+http://82.137.27.223:2005/play/a004
+#EXTINF:-1,Disney Junior
+http://82.137.27.223:2005/play/a005
+#EXTINF:-1,TV10
+http://82.137.27.223:2005/play/a009
+#EXTINF:-1,VFilm Action
+http://82.137.27.223:2005/play/a007
+#EXTINF:-1,Boomerang
+http://82.137.27.223:2005/play/a00b
+#EXTINF:-1,TV3 Norge
+http://82.137.27.223:2005/play/a003
+#EXTINF:-1,TV3 Sverige
+http://82.137.27.223:2005/play/a002
+#EXTINF:-1,Viasat Film Premiere
+http://82.137.27.223:2005/play/a006
+#EXTINF:-1,SVT2
+http://82.137.27.223:2006/play/a007
+#EXTINF:-1,SVT1
+http://82.137.27.223:2006/play/a008
+#EXTINF:-1,Viasat Fotboll
+http://82.137.27.223:2007/play/a004
+#EXTINF:-1,NRK 3 SD
+http://82.137.27.223:2007/play/a009
+#EXTINF:-1,Viasat Motor
+http://82.137.27.223:2007/play/a005
+#EXTINF:-1,TV4 Fakta XL
+http://82.137.27.223:2007/play/a002
+#EXTINF:-1,NRK 2 SD
+http://82.137.27.223:2007/play/a008
+#EXTINF:-1,Kanal 4
+http://82.137.27.223:2007/play/a006
+#EXTINF:-1,NRK 1 SD
+http://82.137.27.223:2007/play/a007

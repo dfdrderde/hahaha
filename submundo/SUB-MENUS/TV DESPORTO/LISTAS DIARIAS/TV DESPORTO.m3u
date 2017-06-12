@@ -2,6 +2,122 @@
 
 
 
+
+
+
+#EXTINF:0,Eurosport 2
+http://195.228.11.88:4080/udp/225.255.255.25:10000
+#EXTINF:0,Eurosport HD
+http://178.192.242.14:9000/play/a00p
+#EXTINF:0,EURO SPORTS
+http://183.88.212.205:8010/play/a00d
+#EXTINF:0, SuperSport 1
+http://37.26.84.98:9999/play/a00m
+#EXTINF:0, SuperSport 2
+http://37.26.84.98:9999/play/a00n
+#EXTINF:0, SuperSport 3
+http://37.26.84.98:9999/play/a00o
+#EXTINF:0, SuperSport 4
+http://37.26.84.98:9999/play/a00p
+#EXTINF:0, SuperSport 5
+http://37.26.84.98:9999/play/a00q
+#EXTINF:0,Sport TV 2 HD
+http://178.192.242.14:9000/play/a08o
+#EXTINF:0,Sport TV 3 HD
+http://178.192.242.14:9000/play/a08b
+#EXTINF:0,SPORT TV 5
+http://178.192.242.14:9000/play/a082
+#EXTINF:0,FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m
+#EXTINF:0,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:0,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
+#EXTINF:0,SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r
+#EXTINF:0,SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k
+#EXTINF:0,SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l
+#EXTINF:0,SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a
+#EXTINF:0,SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b
+#EXTINF:0,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g
+#EXTINF:0,FOX SPORTS NEWS
+http://183.88.212.205:8010/play/a022
+#EXTINF:5640,Eurosport
+http://91.224.178.9:5000/11
+
+#EXTM3U
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+#EXTM3U
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+
+#EXTM3U
+#EXTINF:-1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Superport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,beIN SPORTS 1  
 http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/196.ts
 #EXTINF:-1,BEIN Sport_2
