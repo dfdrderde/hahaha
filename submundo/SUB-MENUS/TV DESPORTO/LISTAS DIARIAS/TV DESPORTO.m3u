@@ -2,21 +2,328 @@
 
 
 
-#EXTINF:-1,Bein Sport 1 HD
-http://149.202.222.20:8080/AR-Bein-sport1-HD/index.m3u8
-#EXTINF:-1,Bein Sport 2 HD
-http://149.202.222.20:8080/AR-Bein-sport2-HD/index.m3u8
-#EXTINF:-1,Bein Sport 3 HD
-http://149.202.222.20:8080/AR-Bein-sport3-HD/index.m3u8
-#EXTINF:-1,Bein Sport 4 HD
-http://149.202.222.20:8080/AR-Bein-sport4-HD/index.m3u8
-#EXTINF:-1,Bein Sport 5 HD
-http://149.202.222.20:8080/AR-Bein-sport5-HD/index.m3u8
-#EXTINF:-1,Bein Sport 6 HD
-http://149.202.222.20:8080/AR-Bein-sport6-HD/index.m3u8
-#EXTINF:-1,Bein Sport 7 HD
-http://149.202.222.20:8080/AR-Bein-sport7-HD/index.m3u8
-#EXTINF:-1,Bein Sport 8 HD
-http://149.202.222.20:8080/AR-Bein-sport8-HD/index.m3u8
-#EXTINF:-1,Bein Sport 9 HD
-http://149.202.222.20:8080/AR-Bein-sport9-HD/index.m3u8
+#EXTINF:-1,beIN SPORTS 1  
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/196.ts
+#EXTINF:-1,BEIN Sport_2
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/4.ts
+#EXTINF:-1,beIN SPORTS 2-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/202.ts
+#EXTINF:-1,BEIN Sport_3
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/2.ts
+#EXTINF:-1,BEIN Sport_4
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/14.ts
+#EXTINF:-1,beIN SPORTS 4  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/199.ts
+#EXTINF:-1,beIN SPORTS 4-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/204.ts
+#EXTINF:-1,BEIN Sport_5
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/5.ts
+#EXTINF:-1,BEIN Sport_6
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/12.ts
+#EXTINF:-1,beIN SPORTS 6-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/206.ts
+#EXTINF:-1,BEIN Sport_7
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/9.ts
+#EXTINF:-1,BEIN Sport_8
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/1.ts
+#EXTINF:-1,BEIN Sport_9
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/88.ts
+#EXTINF:-1,BEIN Sport_10
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/89.ts
+#EXTINF:-1,BEIN Sport_11
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/90.ts
+#EXTINF:-1,BEIN Sport_12
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/91.ts
+#EXTINF:-1,BEIN Sport_13
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/137.ts
+#EXTINF:-1,BEIN Sport_14
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/138.ts
+#EXTINF:-1,BEIN Sport_15
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/139.ts
+#EXTINF:-1,BEIN Sport_16
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/140.ts
+#EXTINF:-1,BEIN Sport_17
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/141.ts
+#EXTINF:-1,SPAIN | BeIN Sports
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/165.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2865.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2864.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2866.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2863.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2864.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2862.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2867.ts
+http://globiptv.com:8000/live/45/1d7g3GXm5H/2861.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,beIN SPORTS 1HD
+http://topiptv.net:5890/live/bmw/1234/1.ts
+#EXTINF:-1,beIN SPORTS 2HD
+http://topiptv.net:5890/live/bmw/1234/3.ts
+#EXTINF:-1,beIN SPORTS 3HD
+http://topiptv.net:5890/live/bmw/1234/5.ts
+#EXTINF:-1,beIN SPORTS 4HD
+http://topiptv.net:5890/live/bmw/1234/7.ts
+#EXTINF:-1,beIN SPORTS 5HD
+http://topiptv.net:5890/live/bmw/1234/9.ts
+#EXTINF:-1,beIN SPORTS 6HD
+http://topiptv.net:5890/live/bmw/1234/11.ts
+#EXTINF:-1,beIN SPORTS 7HD
+http://topiptv.net:5890/live/bmw/1234/13.ts
+#EXTINF:-1,beIN SPORTS 8HD
+http://topiptv.net:5890/live/bmw/1234/15.ts
+#EXTINF:-1,beIN SPORTS 9HD
+http://topiptv.net:5890/live/bmw/1234/17.ts
+#EXTINF:-1,beIN SPORTS 10HD
+http://topiptv.net:5890/live/bmw/1234/19.ts
+#EXTINF:-1,beIN SPORTS 11HD
+http://topiptv.net:5890/live/bmw/1234/2654.ts
+#EXTINF:-1,beIN SPORTS 12HD
+http://topiptv.net:5890/live/bmw/1234/2655.ts
+#EXTINF:-1,beIN SPORTS 13HD
+http://topiptv.net:5890/live/bmw/1234/1156.ts
+#EXTINF:-1,beIN SPORTS 14HD
+http://topiptv.net:5890/live/bmw/1234/1157.ts
+#EXTINF:-1,beIN SPORTS 15HD
+http://topiptv.net:5890/live/bmw/1234/1158.ts
+#EXTINF:-1,beIN SPORTS 16HD
+http://topiptv.net:5890/live/bmw/1234/1159.ts
+#EXTINF:-1,beIN SPORTS 17HD
+http://topiptv.net:5890/live/bmw/1234/2589.ts
+#EXTINF:-1,beIN|SPORTS 1HD
+http://topiptv.net:5890/live/bmw/1234/1400.ts
+#EXTINF:-1,beIN|SPORTS 2HD
+http://topiptv.net:5890/live/bmw/1234/1401.ts
+#EXTINF:-1,beIN|SPORTS 3HD
+http://topiptv.net:5890/live/bmw/1234/1402.ts
+#EXTINF:-1,beIN|SPORTS 4HD
+http://topiptv.net:5890/live/bmw/1234/1403.ts
+#EXTINF:-1,beIN|SPORTS 5HD
+http://topiptv.net:5890/live/bmw/1234/1404.ts
+#EXTINF:-1,beIN|SPORTS 6HD
+http://topiptv.net:5890/live/bmw/1234/1405.ts
+#EXTINF:-1,beIN|SPORTS 7HD
+http://topiptv.net:5890/live/bmw/1234/1406.ts
+#EXTINF:-1,beIN|SPORTS 8HD
+http://topiptv.net:5890/live/bmw/1234/1407.ts
+#EXTINF:-1,beIN|SPORTS 9HD
+http://topiptv.net:5890/live/bmw/1234/1408.ts
+#EXTINF:-1,beIN|SPORTS 10HD
+http://topiptv.net:5890/live/bmw/1234/1409.ts
+#EXTINF:-1,beIN|SPORTS 11HD
+http://topiptv.net:5890/live/bmw/1234/864.ts
+#EXTINF:-1,beIN|SPORTS 12HD
+http://topiptv.net:5890/live/bmw/1234/865.ts
+#EXTINF:-1,beIN SPORTS NBA
+http://topiptv.net:5890/live/bmw/1234/3123.ts
+#EXTINF:-1,beIN SERIES HD
+http://topiptv.net:5890/live/bmw/1234/2705.ts
+#EXTINF:-1,beIN MOVIES HD1
+http://topiptv.net:5890/live/bmw/1234/3119.ts
+#EXTINF:-1,beIN MOVIES HD2
+http://topiptv.net:5890/live/bmw/1234/3120.ts
+#EXTINF:-1,beIN MOVIES HD3
+http://topiptv.net:5890/live/bmw/1234/3121.ts
+#EXTINF:-1,beIN MOVIES HD4
+http://topiptv.net:5890/live/bmw/1234/3122.ts
+#EXTINF:-1,beIN DMAX HD
+http://topiptv.net:5890/live/bmw/1234/2646.ts
+#EXTINF:-1,beIN TRAVEL HD
+http://topiptv.net:5890/live/bmw/1234/2647.ts
+#EXTINF:-1,beIN FOX HD
+http://topiptv.net:5890/live/bmw/1234/3348.ts
+#EXTINF:-1,beIN FOX MOVIES HD
+http://topiptv.net:5890/live/bmw/1234/2645.ts
+#EXTINF:-1,beIN GOURMET HD
+http://topiptv.net:5890/live/bmw/1234/3692.ts
+#EXTINF:-1,beIN SKY MOVIES
+http://topiptv.net:5890/live/bmw/1234/3693.ts
+#EXTINF:-1,beIN BABY HD
+http://topiptv.net:5890/live/bmw/1234/2653.ts
+#EXTINF:-1,beIN JEEM KIDS
+http://topiptv.net:5890/live/bmw/1234/2649.ts
+#EXTINF:-1,beIN JUNIOR KIDS
+http://topiptv.net:5890/live/bmw/1234/2648.ts
+#EXTINF:-1,beIN BARAEM KIDS
+http://topiptv.net:5890/live/bmw/1234/2650.ts
+#EXTINF:-1,beIN DREAM WORK
+http://topiptv.net:5890/live/bmw/1234/2651.ts
+#EXTINF:-1,beIN BOOMERANG HD
+http://topiptv.net:5890/live/bmw/1234/2652.ts
+
+
+#EXTINF:-1,BEIN Sport 1
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/13.ts
+#EXTINF:-1,beIN SPORTS 1  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/196.ts
+#EXTINF:-1,beIN SPORTS 1-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/201.ts
+#EXTINF:-1,BEIN Sport_2
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/4.ts
+#EXTINF:-1,beIN SPORTS 2  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/197.ts
+#EXTINF:-1,beIN SPORTS 2-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/202.ts
+#EXTINF:-1,BEIN Sport_3
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/2.ts
+#EXTINF:-1,beIN SPORTS 3  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/198.ts
+#EXTINF:-1,beIN SPORTS 3-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/203.ts
+#EXTINF:-1,BEIN Sport_4
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/14.ts
+#EXTINF:-1,beIN SPORTS 4  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/199.ts
+#EXTINF:-1,beIN SPORTS 4-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/204.ts
+#EXTINF:-1,BEIN Sport_5
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/5.ts
+#EXTINF:-1,beIN SPORTS 5  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/200.ts
+#EXTINF:-1,beIN SPORTS 5-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/205.ts
+#EXTINF:-1,BEIN Sport_6
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/12.ts
+#EXTINF:-1,beIN SPORTS 6-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/206.ts
+#EXTINF:-1,BEIN Sport_7
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/9.ts
+#EXTINF:-1,BEIN Sport_8
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/1.ts
+#EXTINF:-1,BEIN Sport_9
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/88.ts
+#EXTINF:-1,BEIN Sport_10
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/89.ts
+#EXTINF:-1,BEIN Sport_11
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/90.ts
+#EXTINF:-1,BEIN Sport_12
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/91.ts
+#EXTINF:-1,BEIN Sport_13
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/137.ts
+#EXTINF:-1,BEIN Sport_14
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/138.ts
+#EXTINF:-1,BEIN Sport_15
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/139.ts
+#EXTINF:-1,BEIN Sport_16
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/140.ts
+#EXTINF:-1,BEIN Sport_17
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/141.ts
+#EXTINF:-1,SPAIN | BeIN Sports
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/165.ts
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,BEIN Sport 1
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/13.ts
+#EXTINF:-1,beIN SPORTS 1  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/196.ts
+#EXTINF:-1,beIN SPORTS 1-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/201.ts
+#EXTINF:-1,BEIN Sport_2
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/4.ts
+#EXTINF:-1,beIN SPORTS 2  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/197.ts
+#EXTINF:-1,beIN SPORTS 2-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/202.ts
+#EXTINF:-1,BEIN Sport_3
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/2.ts
+#EXTINF:-1,beIN SPORTS 3  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/198.ts
+#EXTINF:-1,beIN SPORTS 3-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/203.ts
+#EXTINF:-1,BEIN Sport_4
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/14.ts
+#EXTINF:-1,beIN SPORTS 4  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/199.ts
+#EXTINF:-1,beIN SPORTS 4-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/204.ts
+#EXTINF:-1,BEIN Sport_5
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/5.ts
+#EXTINF:-1,beIN SPORTS 5  |
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/200.ts
+#EXTINF:-1,beIN SPORTS 5-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/205.ts
+#EXTINF:-1,BEIN Sport_6
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/12.ts
+#EXTINF:-1,beIN SPORTS 6-4K
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/206.ts
+#EXTINF:-1,BEIN Sport_7
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/9.ts
+#EXTINF:-1,BEIN Sport_8
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/1.ts
+#EXTINF:-1,BEIN Sport_9
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/88.ts
+#EXTINF:-1,BEIN Sport_10
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/89.ts
+#EXTINF:-1,BEIN Sport_11
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/90.ts
+#EXTINF:-1,BEIN Sport_12
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/91.ts
+#EXTINF:-1,BEIN Sport_13
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/137.ts
+#EXTINF:-1,BEIN Sport_14
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/138.ts
+#EXTINF:-1,BEIN Sport_15
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/139.ts
+#EXTINF:-1,BEIN Sport_16
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/140.ts
+#EXTINF:-1,BEIN Sport_17
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/141.ts
+#EXTINF:-1,SPAIN | BeIN Sports
+http://62.210.115.33:8000/live/QD1WE9VqnJnG1pN/JT6I2Sw3iJquoeB/165.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
