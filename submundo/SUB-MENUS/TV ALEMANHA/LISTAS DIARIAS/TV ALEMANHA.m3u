@@ -9,334 +9,297 @@
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1,DE-TV: Das Erste HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2043.ts
-#EXTINF:-1,DE-TV: ZDF HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2042.ts
-#EXTINF:-1,DE-TV: ZDF NEO
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2041.ts
-#EXTINF:-1,DE-TV: WDR HD DE
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2040.ts
-#EXTINF:-1,DE-TV: 3sat HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2023.ts
-#EXTINF:-1,DE-TV: Arte
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2024.ts
-#EXTINF:-1,DE-TV: VOX HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2039.ts
-#EXTINF:-1,DE-TV: Sat.1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2038.ts
-#EXTINF:-1,DE-TV: RTL HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2029.ts
-#EXTINF:-1,DE-TV: RTL2
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2028.ts
-#EXTINF:-1,DE-TV: ProSieben HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2032.ts
-#EXTINF:-1,DE-TV: ProSieben Maxx HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2030.ts
-#EXTINF:-1,DE-TV: ProSieben Fun HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2031.ts
-#EXTINF:-1,DE-TV: DMAX HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2025.ts
-#EXTINF:-1,DE-TV: Servus TV HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2035.ts
-#EXTINF:-1,DE-TV: SUPER RTL HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2022.ts
-#EXTINF:-1,DE-TV: Kabel Eins
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2033.ts
-#EXTINF:-1,DE-TV: N24
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2021.ts
-#EXTINF:-1,DE-TV: RTL Crime
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2027.ts
-#EXTINF:-1,DE-TV: RTL Living HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5721.ts
-#EXTINF:-1,DE-TV: RTL Passion
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2026.ts
-#EXTINF:-1,DE-TV: Sat.1 emotions
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2037.ts
-#EXTINF:-1,DE-TV: Sat.1 Gold
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2036.ts
-#EXTINF:-1,DE-TV: Phoenix
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2034.ts
-#EXTINF:-1,DE-TV: ORF 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2020.ts
-#EXTINF:-1,DE-TV: ORF 2 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2019.ts
-#EXTINF:-1,====== DE-KIDS ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1665.ts
-#EXTINF:-1,DE-Kids: Sky Boomerang
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2044.ts
-#EXTINF:-1,DE-Kids: Kika
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2048.ts
-#EXTINF:-1,DE-Kids: Sky Disney Channel HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2045.ts
-#EXTINF:-1,DE-Kids: Sky Disney Cinemagic HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2047.ts
-#EXTINF:-1,DE-Kids: Sky Disney XD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2046.ts
-#EXTINF:-1,====== DE-SKY ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1664.ts
-#EXTINF:-1,DE-Sky: Sky 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5707.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 1
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5716.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 2
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5715.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 3
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5714.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 4
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5713.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 5
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5712.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 6
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5711.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 7
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5710.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 8
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5709.ts
-#EXTINF:-1,DE-Sky: SKY SELECT 9
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5708.ts
-#EXTINF:-1,DE-Sky: Motorvision
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2273.ts
-#EXTINF:-1,DE-Sky: Spiegel TV Wissen HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5583.ts
-#EXTINF:-1,DE-Sky: Spiegel Geschichte HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5717.ts
-#EXTINF:-1,DE-Sky: 13th Street
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2070.ts
-#EXTINF:-1,DE-Sky: E! Entertain HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2049.ts
-#EXTINF:-1,DE-Sky: Sky Universal HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2066.ts
-#EXTINF:-1,DE-Sky: Sky Action HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2068.ts
-#EXTINF:-1,DE-Sky: Sky Atlantic HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2069.ts
-#EXTINF:-1,DE-Sky: Sky AXN HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2059.ts
-#EXTINF:-1,DE-Sky: Sky Cinema HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2052.ts
-#EXTINF:-1,DE-Sky: Sky Cinema 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2051.ts
-#EXTINF:-1,DE-Sky: Sky Cinema 24 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2050.ts
-#EXTINF:-1,DE-Sky: Sky Comedy HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2061.ts
-#EXTINF:-1,DE-Sky: Sky Discovery Channel HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2056.ts
-#EXTINF:-1,DE-Sky: Sky Emotion
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2060.ts
-#EXTINF:-1,DE-Sky: Sky Fox HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2067.ts
-#EXTINF:-1,DE-Sky: Sky Hits HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2058.ts
-#EXTINF:-1,DE-Sky: Sky Krimi
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2057.ts
-#EXTINF:-1,DE-Sky: Sky NatGeo Wild HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2055.ts
-#EXTINF:-1,DE-Sky: Sky National Geographic HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2054.ts
-#EXTINF:-1,DE-Sky: Sky Nostalgie
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2053.ts
-#EXTINF:-1,DE-Sky: Sky Syfy HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2062.ts
-#EXTINF:-1,DE-Sky: Sky TNT Comedy HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2063.ts
-#EXTINF:-1,DE-Sky: Sky TNT Film
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2064.ts
-#EXTINF:-1,DE-Sky: Sky TNT Serie HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2065.ts
-#EXTINF:-1,====== SD-HD SPORT ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1672.ts
-#EXTINF:-1,DE Sport: Sport 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2269.ts
-#EXTINF:-1,DE Sport: Sport 1+ HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2094.ts
-#EXTINF:-1,DE Sport: Sport 1 US
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2095.ts
-#EXTINF:-1,DE Sport: Sport Digital HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2093.ts
-#EXTINF:-1,DE Sport: Eurosport 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2096.ts
-#EXTINF:-1,DE Sport: Eurosport 2 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5732.ts
-#EXTINF:-1,DE Sport: Sky Sport News HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2092.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport News FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2143.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2091.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2142.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 2 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2090.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 2 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2141.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 3 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2089.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 3 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2140.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 4 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2088.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 4 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2139.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 5 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2087.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 5 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2138.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 6 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2086.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 6 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2137.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 7 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2085.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 7 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2136.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 8 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2084.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 8 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2135.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 9 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2083.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 9 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2134.ts
-#EXTINF:-1,DE Sport: Sky Bundesliga 10 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2082.ts
-#EXTINF:-1,DE Sport FHD: Sky Bundesliga 10 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2133.ts
-#EXTINF:-1,DE Sport: Sky Sport 1 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2081.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2132.ts
-#EXTINF:-1,DE Sport: Sky Sport 2 HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2080.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 2 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2131.ts
-#EXTINF:-1,DE Sport: Sky Sport 3 HD  (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2079.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 3 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2130.ts
-#EXTINF:-1,DE Sport: Sky Sport 4 HD  (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2078.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 4 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2129.ts
-#EXTINF:-1,DE Sport: Sky Sport 5 HD  (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2077.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 5 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2128.ts
-#EXTINF:-1,DE Sport: Sky Sport 6 HD  (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2076.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 6 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2127.ts
-#EXTINF:-1,DE Sport: Sky Sport 7 HD  (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2075.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 7 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2126.ts
-#EXTINF:-1,DE Sport: Sky Sport 8 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2074.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 8 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2125.ts
-#EXTINF:-1,DE Sport: Sky Sport 9 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2073.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 9 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2124.ts
-#EXTINF:-1,DE Sport: Sky Sport 10 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2072.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 10 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2123.ts
-#EXTINF:-1,DE Sport: Sky Sport 11 HD (Nur bei Live Spiele)
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2071.ts
-#EXTINF:-1,DE Sport FHD: Sky Sport 11 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2122.ts
-#EXTINF:-1,====== FHD SPORT 1080 ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1666.ts
-#EXTINF:-1,====== FHD-DE 1080 ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1667.ts
-#EXTINF:-1,DE FHD: VOX FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2112.ts
-#EXTINF:-1,DE FHD: SAT.1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2115.ts
-#EXTINF:-1,DE FHD: RTL FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2118.ts
-#EXTINF:-1,DE FHD: RTL 2 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2117.ts
-#EXTINF:-1,DE FHD: ProSieben FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2120.ts
-#EXTINF:-1,DE FHD: ProSieben MAXX FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2119.ts
-#EXTINF:-1,DE FHD: SUPER RTL FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2113.ts
-#EXTINF:-1,DE FHD: N-TV FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2121.ts
-#EXTINF:-1,DE FHD: RTL NITRO FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2116.ts
-#EXTINF:-1,DE FHD: sixx FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2114.ts
-#EXTINF:-1,====== FHD-SKY 1080 ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/1668.ts
-#EXTINF:-1,DE FHD: Sky 3D FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2270.ts
-#EXTINF:-1,DE SKY FHD: Sky Arts FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5744.ts
-#EXTINF:-1,DE FHD: 13th Street FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2098.ts
-#EXTINF:-1,DE FHD: Discovery FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2101.ts
-#EXTINF:-1,DE FHD: Nat Geo Wild FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2105.ts
-#EXTINF:-1,DE FHD: National Geographic FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2104.ts
-#EXTINF:-1,DE FHD: FOX FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2103.ts
-#EXTINF:-1,DE FHD: History FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2102.ts
-#EXTINF:-1,DE FHD: Sky Action FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2111.ts
-#EXTINF:-1,DE FHD: Sky Atlantic FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2110.ts
-#EXTINF:-1,DE FHD: Sky Cinema FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2109.ts
-#EXTINF:-1,DE FHD: Sky Cinema 1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5727.ts
-#EXTINF:-1,DE FHD: Sky Cinema 24 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5728.ts
-#EXTINF:-1,DE FHD: Sky Cinema Family FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5729.ts
-#EXTINF:-1,DE FHD: SyFy FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2107.ts
-#EXTINF:-1,DE FHD: TNT Comedy FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2276.ts
-#EXTINF:-1,DE FHD: TNT Serie FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2106.ts
-#EXTINF:-1,DE FHD: TLC FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2271.ts
-#EXTINF:-1,DE FHD: ANIXE FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2275.ts
-#EXTINF:-1,====== MUSIK ======
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2144.ts
-#EXTINF:-1,DE-Musik: MTV HD DEUTSCH FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5584.ts
-#EXTINF:-1,DE-MUSIK: MTV LIVE HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2152.ts
-#EXTINF:-1,DE-MUSIK: Deluxe Music HD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2151.ts
-#EXTINF:-1,DE-MUSIK: MTV Hits
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2148.ts
-#EXTINF:-1,DE-MUSIK: MTV Music
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2149.ts
-#EXTINF:-1,DE-MUSIK: MTV Classic
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2146.ts
-#EXTINF:-1,DE-MUSIK: MTV BASE
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2145.ts
-#EXTINF:-1,DE-MUSIK: MTV Dance
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2147.ts
-#EXTINF:-1,DE-MUSIK: MTV Rocks
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2150.ts
-#EXTINF:-1,Musik: VH1
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/5858.ts
+#EXTINF:-1,DE: SPORT1+ HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1848.ts
+#EXTINF:-1,DE: Euronews DE
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1776.ts
+#EXTINF:-1,DE: Disney XD HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1779.ts
+#EXTINF:-1,DE: 3Sat HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1849.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1850.ts
+#EXTINF:-1,DE: ORF 3 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1852.ts
+#EXTINF:-1,DE: History Channel HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1844.ts
+#EXTINF:-1,DE: Arte HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1857.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1506.ts
+#EXTINF:-1,DE: ZDF HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1504.ts
+#EXTINF:-1,DE: VOX HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1193.ts
+#EXTINF:-1,DE: Nick JR HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1528.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1515.ts
+#EXTINF:-1,DE: TNT Film HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1584.ts
+#EXTINF:-1,DE: Super RTL HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1514.ts
+#EXTINF:-1,DE: SRF 2
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1538.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1583.ts
+#EXTINF:-1,DE: Eurosport 2
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1582.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1493.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1496.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1495.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1106.ts
+#EXTINF:-1,DE: Sky Select Live (Die Insel der besonderen Kinder)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1562.ts
+#EXTINF:-1,DE: Sky Select Live (War Dogs)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1105.ts
+#EXTINF:-1,DE: Sky Select Live (Ouija:Ursprung des Bösen HD)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1104.ts
+#EXTINF:-1,DE: Sky Select Live (Findet Dorie)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1103.ts
+#EXTINF:-1,DE: Sky Select Live (Collide)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1558.ts
+#EXTINF:-1,DE: Sky Select Live (Inferno)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1101.ts
+#EXTINF:-1,DE: Romance TV HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1763.ts
+#EXTINF:-1,DE: National Geographic HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1089.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1088.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1087.ts
+#EXTINF:-1,DE: Sky Krimi
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1086.ts
+#EXTINF:-1,DE: Kinowelt TV HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1094.ts
+#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1084.ts
+#EXTINF:-1,DE: ORF Sport + HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1091.ts
+#EXTINF:-1,DE: Boomerang HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2588.ts
+#EXTINF:-1,DE: Junior HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2589.ts
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2586.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2587.ts
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1554.ts
+#EXTINF:-1,DE: Sky DMAX
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1579.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1082.ts
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1081.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1517.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1722.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1917.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1062.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1522.ts
+#EXTINF:-1,DE: Heimat Kanal HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2585.ts
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2590.ts
+#EXTINF:-1,DE: Sixx
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1581.ts
+#EXTINF:-1,DE: Sat 1
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1056.ts
+#EXTINF:-1,DE: RTL HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1048.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1047.ts
+#EXTINF:-1,DE: Pro7 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1540.ts
+#EXTINF:-1,DE: RTL 2 SD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2142.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1531.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1002.ts
+#EXTINF:-1,DE: NDR HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1532.ts
+#EXTINF:-1,DE: KIKA HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1765.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1731.ts
+#EXTINF:-1,DE: Kabel 1
+http://ksportiptv.com:1557/live/Musli/Krasniqi/959.ts
+#EXTINF:-1,DE: FOX HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2539.ts
+#EXTINF:-1,DE: Eurosport 1
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1498.ts
+#EXTINF:-1,DE: Das Erste HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/917.ts
+#EXTINF:-1,De: Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1758.ts
+#EXTINF:-1,DE: AXN HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1535.ts
+#EXTINF:-1,DE: Austria 24
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1468.ts
+#EXTINF:-1,DE: 13th Street
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1550.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2584.ts
+#EXTINF:-1,EX-YU: Sport Klub 3 HR
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1134.ts
+#EXTINF:-1,DE: Sky Select Live (Money Monster)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4098.ts
+#EXTINF:-1,DE: Sky Select Live (Point Break)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4107.ts
+#EXTINF:-1,DE: Sky Select Live (Das Jerico Projekt-Im Kopf des Killers)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4099.ts
+#EXTINF:-1,DE: Sky Select Live (Captain America:Civil War)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4100.ts
+#EXTINF:-1,DE: Sky Select Live (Warcraft-The Beginning)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4101.ts
+#EXTINF:-1,DE: Sky Select Live (X-Men:Apocalypse)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4102.ts
+#EXTINF:-1,DE: Sky Select Live (The Witch)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4103.ts
+#EXTINF:-1,DE: Sky Select Live (Extraction-Operation Condor)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4104.ts
+#EXTINF:-1,DE: Sky Select Live (10Cloverfield Lane)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4105.ts
+#EXTINF:-1,DE: Sky Select Live (Angry Birds–Der Film)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4106.ts
+#EXTINF:-1,DE: Sony HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3374.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3397.ts
+#EXTINF:-1,DE: SYFY HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3385.ts
+#EXTINF:-1,DE: Tele 5 tv HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3379.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3386.ts
+#EXTINF:-1,DE: VIP: Sport 1 US HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6087.ts
+#EXTINF:-1,DE: Zee one HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3380.ts
+#EXTINF:-1,DE: Disney Junior
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2621.ts
+#EXTINF:-1,DE: RTL You HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/1846.ts
+#EXTINF:-1,DE:Sky Sport 2 BackUp
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6454.ts
+#EXTINF:-1,DE: E! HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3389.ts
+#EXTINF:-1,DE: Film Club 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6570.ts
+#EXTINF:-1,DE: Film Club 2 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6571.ts
+#EXTINF:-1,DE: Film Club 3 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6572.ts
+#EXTINF:-1,DE: Film Club 4 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6573.ts
+#EXTINF:-1,DE: Film Club 5 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6574.ts
+#EXTINF:-1,DE: Film Club 6 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6575.ts
+#EXTINF:-1,DE: Kabel Classic HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3383.ts
+#EXTINF:-1,DE: Kabel1 Doku
+http://ksportiptv.com:1557/live/Musli/Krasniqi/5831.ts
+#EXTINF:-1,DE: KinoFilme (Die Schöne und das Biest 2017)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8417.ts
+#EXTINF:-1,DE: KinoFilme (Logan The Wolverine 2017)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8127.ts
+#EXTINF:-1,DE: Motorvision HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3391.ts
+#EXTINF:-1,DE: MTV Germany
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6288.ts
+#EXTINF:-1,DE: Munchen TV
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4079.ts
+#EXTINF:-1,DE: N24 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4925.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3388.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3387.ts
+#EXTINF:-1,DE: PLANET HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3381.ts
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3378.ts
+#EXTINF:-1,DE: Programmübersicht Sky Select (Videoclub Movie VOD Section)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6151.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3377.ts
+#EXTINF:-1,DE: RTL Crime
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3393.ts
+#EXTINF:-1,DE: RTL Living HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3375.ts
+#EXTINF:-1,DE: RTL Passion
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3392.ts
+#EXTINF:-1,DE: RTL SD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3382.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3376.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7331.ts
+#EXTINF:-1,DE: Sky Cartoon Network HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/3395.ts
+#EXTINF:-1,DE: Sky Select Live (100 Straßen)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8291.ts
+#EXTINF:-1,DE: Sky Select Live (American Honey)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2676.ts
+#EXTINF:-1,DE: Sky Select Live (BFG Sophie&der Riese)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7743.ts
+#EXTINF:-1,DE: Sky Select Live (Blair Witch)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4087.ts
+#EXTINF:-1,DE: Sky Select Live (Conni & Co.)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4085.ts
+#EXTINF:-1,DE: Sky Select Live (Deepwater Horizon)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8293.ts
+#EXTINF:-1,DE: Sky Select Live (Die glorreichen Sieben)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4090.ts
+#EXTINF:-1,DE: Sky Select Live (Doctor Strange)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4096.ts
+#EXTINF:-1,DE: Sky Select Live (Dog Eat Dog)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4086.ts
+#EXTINF:-1,DE: Sky Select Live (Fack ju Göhte 2)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7747.ts
+#EXTINF:-1,DE: Sky Select Live (Independence Day Wiederkehr)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7745.ts
+#EXTINF:-1,DE: Sky Select Live (Jack Reacher Kein Weg zurück)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8287.ts
+#EXTINF:-1,DE: Sky Select Live (Mother's Day Liebe ist kein Kinderspiel)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8289.ts
+#EXTINF:-1,DE: Sky Select Live (Männertag)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4094.ts
+#EXTINF:-1,DE: Sky Select Live (Phantastische Tierwesen und wo sie zu finden sind)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7742.ts
+#EXTINF:-1,DE: Sky Select Live (Sausage Party Es geht um die Wurst)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4084.ts
+#EXTINF:-1,DE: Sky Select Live (Störche Abenteuer im Anflug)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8286.ts
+#EXTINF:-1,DE: Sky Select Live (The Infiltrator)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/4091.ts
+#EXTINF:-1,DE: Sky Select Live (Trolls)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/8130.ts
+#EXTINF:-1,DE: Sky Select Live (Vaiana Das Paradies Hat Einen Haken)
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7744.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6449.ts
+#EXTINF:-1,DE: Sky Sport 1 BackUp
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6450.ts
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/7309.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://ksportiptv.com:1557/live/Musli/Krasniqi/6451.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2734.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2735.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://ksportiptv.com:1557/live/Musli/Krasniqi/2736.ts
