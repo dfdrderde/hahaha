@@ -1,65 +1,143 @@
 
 #EXTM3U
 
-#EXTINF:-1,PT-TV: RTP 1
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2168.ts
-#EXTINF:-1,PT-TV: RTP 2
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2169.ts
-#EXTINF:-1,PT-TV: RTP 3
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2170.ts
-#EXTINF:-1,PT-TV: SIC
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2165.ts
-#EXTINF:-1,PT-TV: TVI
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2153.ts
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,PT-TV: Sporting TV FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2158.ts
-#EXTINF:-1,PT-TV: SPORT TV FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2164.ts
-#EXTINF:-1,PT-TV: SPORT TV 1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2163.ts
-#EXTINF:-1,PT-TV: SPORT TV 2 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2162.ts
-#EXTINF:-1,PT-TV: SPORT TV 3 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2161.ts
-#EXTINF:-1,PT-TV: SPORT TV 4 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2160.ts
-#EXTINF:-1,PT-TV: SPORT TV 5 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2159.ts
-#EXTINF:-1,PT-TV: TV CINE 1 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2157.ts
-#EXTINF:-1,PT-TV: TV CINE 2 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2156.ts
-#EXTINF:-1,PT-TV: TV CINE 3 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2155.ts
-#EXTINF:-1,PT-TV: TV CINE 4 FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2154.ts
-#EXTINF:-1,PT-TV: SIC NOTICIAS FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2167.ts
-#EXTINF:-1,PT-TV: SIC RADICAL FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2166.ts
-#EXTINF:-1,PT-TV: TVC SERIES FHD
-http://best-fullhdiptv.ddns.net:2008/live/nTXE2l3LJV/j9ohLkOXPB/2171.ts
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,PT RTP 1 
+http://p.tone.kim/live/LUCAS/LUCAS/1399.ts
+#EXTINF:-1,PT RTP 2 
+http://p.tone.kim/live/LUCAS/LUCAS/1400.ts
+#EXTINF:-1,PT SIC 
+http://p.tone.kim/live/LUCAS/LUCAS/1401.ts
+#EXTINF:-1,PT TVI 
+http://p.tone.kim/live/LUCAS/LUCAS/1402.ts
+#EXTINF:-1,PT RTP 3 
+http://p.tone.kim/live/LUCAS/LUCAS/1403.ts
+#EXTINF:-1,PT SIC NOTICIAS 
+http://p.tone.kim/live/LUCAS/LUCAS/1404.ts
+#EXTINF:-1,PT TVI 24 
+http://p.tone.kim/live/LUCAS/LUCAS/1405.ts
+#EXTINF:-1,PT CMTV 
+http://p.tone.kim/live/LUCAS/LUCAS/1406.ts
+#EXTINF:-1,PT PORTO CANAL 
+http://p.tone.kim/live/LUCAS/LUCAS/1407.ts
+#EXTINF:-1,PT RTP MADEIRA 
+http://p.tone.kim/live/LUCAS/LUCAS/1413.ts
+#EXTINF:-1,PT RTP AÇORES 
+http://p.tone.kim/live/LUCAS/LUCAS/1414.ts
+#EXTINF:-1,PT SIC MULHER 
+http://p.tone.kim/live/LUCAS/LUCAS/1411.ts
+#EXTINF:-1,PT SIC CARAS 
+http://p.tone.kim/live/LUCAS/LUCAS/1461.ts
+#EXTINF:-1,PT SIC RADICAL 
+http://p.tone.kim/live/LUCAS/LUCAS/1410.ts
+#EXTINF:-1,PT CANAL Q 
+http://p.tone.kim/live/LUCAS/LUCAS/1412.ts
+#EXTINF:-1,PT TVI FICCAO 
+http://p.tone.kim/live/LUCAS/LUCAS/1408.ts
+#EXTINF:-1,PT TVI REALTY 
+http://p.tone.kim/live/LUCAS/LUCAS/1409.ts
+#EXTINF:-1,PT TV RECORD 
+http://p.tone.kim/live/LUCAS/LUCAS/1415.ts
+#EXTINF:-1,PT GLOBO 
+http://p.tone.kim/live/LUCAS/LUCAS/1416.ts
+#EXTINF:-1,PT GLOBO PREMIUM 
+http://p.tone.kim/live/LUCAS/LUCAS/1417.ts
+#EXTINF:-1,PT ABOLA TV 
+http://p.tone.kim/live/LUCAS/LUCAS/1418.ts
+#EXTINF:-1,PT SPORTV + 
+http://p.tone.kim/live/LUCAS/LUCAS/1419.ts
+#EXTINF:-1,PT SPORTV 1 
+http://p.tone.kim/live/LUCAS/LUCAS/1420.ts
+#EXTINF:-1,PT SPORTV 2 
+http://p.tone.kim/live/LUCAS/LUCAS/1421.ts
+#EXTINF:-1,PT SPORTV 3 
+http://p.tone.kim/live/LUCAS/LUCAS/1422.ts
+#EXTINF:-1,PT SPORTV 4 
+http://p.tone.kim/live/LUCAS/LUCAS/1423.ts
+#EXTINF:-1,PT SPORTV 5 
+http://p.tone.kim/live/LUCAS/LUCAS/1424.ts
+#EXTINF:-1,PT BENFICA TV 1 
+http://p.tone.kim/live/LUCAS/LUCAS/1425.ts
+#EXTINF:-1,PT EUROSPORT 
+http://p.tone.kim/live/LUCAS/LUCAS/1428.ts
+#EXTINF:-1,PT EUROSPORT 2 
+http://p.tone.kim/live/LUCAS/LUCAS/1429.ts
+#EXTINF:-1,PT SPORTING TV 
+http://p.tone.kim/live/LUCAS/LUCAS/1426.ts
+#EXTINF:-1,PT PFC 
+http://p.tone.kim/live/LUCAS/LUCAS/1427.ts
+#EXTINF:-1,PT CAÇA E PESCA 
+http://p.tone.kim/live/LUCAS/LUCAS/1434.ts
+#EXTINF:-1,PT MOTORS TV 
+http://p.tone.kim/live/LUCAS/LUCAS/1432.ts
+#EXTINF:-1,PT MOTORVISION 
+http://p.tone.kim/live/LUCAS/LUCAS/1431.ts
+#EXTINF:-1,PT KOMBAT SPORT 
+http://p.tone.kim/live/LUCAS/LUCAS/1433.ts
+#EXTINF:-1,PT TVCINE 1 
+http://p.tone.kim/live/LUCAS/LUCAS/1435.ts
+#EXTINF:-1,PT TVCINE 2 
+http://p.tone.kim/live/LUCAS/LUCAS/1436.ts
+#EXTINF:-1,PT TVCINE 3 
+http://p.tone.kim/live/LUCAS/LUCAS/1437.ts
+#EXTINF:-1,PT TVCINE 4 
+http://p.tone.kim/live/LUCAS/LUCAS/1438.ts
+#EXTINF:-1,PT TVSERIES 
+http://p.tone.kim/live/LUCAS/LUCAS/1439.ts
+#EXTINF:-1,PT CINEMUNDO 
+http://p.tone.kim/live/LUCAS/LUCAS/1442.ts
+#EXTINF:-1,PT FOX 
+http://p.tone.kim/live/LUCAS/LUCAS/1446.ts
+#EXTINF:-1,PT FOX MOVIE 
+http://p.tone.kim/live/LUCAS/LUCAS/1447.ts
+#EXTINF:-1,PT FOX LIFE 
+http://p.tone.kim/live/LUCAS/LUCAS/1448.ts
+#EXTINF:-1,PT FOX CRIME 
+http://p.tone.kim/live/LUCAS/LUCAS/1449.ts
+#EXTINF:-1,PT FOX COMEDY 
+http://p.tone.kim/live/LUCAS/LUCAS/1450.ts
+#EXTINF:-1,PT AXN 
+http://p.tone.kim/live/LUCAS/LUCAS/1443.ts
+#EXTINF:-1,PT AXN WHITE 
+http://p.tone.kim/live/LUCAS/LUCAS/1444.ts
+#EXTINF:-1,PT AXN BLACK 
+http://p.tone.kim/live/LUCAS/LUCAS/1445.ts
+#EXTINF:-1,PT HOLLYWOOD 
+http://p.tone.kim/live/LUCAS/LUCAS/1441.ts
+#EXTINF:-1,PT BABY TV 
+http://p.tone.kim/live/LUCAS/LUCAS/1455.ts
+#EXTINF:-1,PT CANAL PANDA 
+http://p.tone.kim/live/LUCAS/LUCAS/1467.ts
+#EXTINF:-1,PT DISNEY CHANNEL 
+http://p.tone.kim/live/LUCAS/LUCAS/1460.ts
+#EXTINF:-1,PT DISNEY JUNIOR 
+http://p.tone.kim/live/LUCAS/LUCAS/1459.ts
+#EXTINF:-1,PT CARTOON NETWORK 
+http://p.tone.kim/live/LUCAS/LUCAS/1464.ts
+#EXTINF:-1,PT SIC K 
+http://p.tone.kim/live/LUCAS/LUCAS/1465.ts
+#EXTINF:-1,PT JIM JAM 
+http://p.tone.kim/live/LUCAS/LUCAS/1463.ts
+#EXTINF:-1,PT PANDA BIGGS 
+http://p.tone.kim/live/LUCAS/LUCAS/1462.ts
+#EXTINF:-1,PT NICKELODEON 
+http://p.tone.kim/live/LUCAS/LUCAS/1466.ts
+#EXTINF:-1,PT NAT GEOGRAFIC 
+http://p.tone.kim/live/LUCAS/LUCAS/1451.ts
+#EXTINF:-1,PT DISCOVERY 
+http://p.tone.kim/live/LUCAS/LUCAS/1452.ts
+#EXTINF:-1,PT DISCOVERY SHOWCASE 
+http://p.tone.kim/live/LUCAS/LUCAS/1453.ts
+#EXTINF:-1,PT A & E 
+http://p.tone.kim/live/LUCAS/LUCAS/1456.ts
+#EXTINF:-1,PT TLC 
+http://p.tone.kim/live/LUCAS/LUCAS/1457.ts
+#EXTINF:-1,PT CANAL HISTORIA 
+http://p.tone.kim/live/LUCAS/LUCAS/1454.ts
+#EXTINF:-1,PT ODISSEIA 
+http://p.tone.kim/live/LUCAS/LUCAS/1458.ts
+#EXTINF:-1,PT XXX VENUS 
+http://p.tone.kim/live/LUCAS/LUCAS/1468.ts
+#EXTINF:-1,PT XXX PLAYBOY 
+http://p.tone.kim/live/LUCAS/LUCAS/1469.ts
+#EXTINF:-1,PT XXX HOT 
+http://p.tone.kim/live/LUCAS/LUCAS/1470.ts
