@@ -1,87 +1,101 @@
 #EXTM3U
-
-
-#EXTINF:-1, RTP 1 HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a028/index.m3u8
-#EXTINF:-1, RTP 2
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a029/index.m3u8
-#EXTINF:-1, TVI
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02c/index.m3u8
-#EXTINF:-1, RTP 3
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04g/index.m3u8
-#EXTINF:-1, Canal Panda
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02u/index.m3u8
-#EXTINF:-1, Más Chic
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04t/index.m3u8
-#EXTINF:-1, Disney Júnior
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02s/index.m3u8
-#EXTINF:-1, RTP Madeira
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02o/index.m3u8
-#EXTINF:-1, TPA
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04x/index.m3u8
-#EXTINF:-1, A Bola TV
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a059/index.m3u8
-#EXTINF:-1, CMTV HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04l/index.m3u8
-#EXTINF:-1, SIC HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02a/index.m3u8
-#EXTINF:-1, SIC Notícias HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02b/index.m3u8
-#EXTINF:-1, Jim Jam
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02t/index.m3u8
-#EXTINF:-1, TVE 24h
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04u/index.m3u8
-#EXTINF:-1, Biggs
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05j/index.m3u8
-#EXTINF:-1, NBA TV HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04n/index.m3u8
-#EXTINF:-1, FOX HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a058/index.m3u8
-#EXTINF:-1, AXN HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05b/index.m3u8
-#EXTINF:-1, Eurosport 1 HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04j/index.m3u8
-#EXTINF:-1, SIC K HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05f/index.m3u8
-#EXTINF:-1, Kombat Sport
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04w/index.m3u8
-#EXTINF:-1, RTP Açores
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02n/index.m3u8
-#EXTINF:-1, Disney Channel
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05i/index.m3u8
-#EXTINF:-1, MCS Extreme
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04v/index.m3u8
-#EXTINF:-1, Canção Nova
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a052/index.m3u8
-#EXTINF:-1, SIC Radical HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a02p/index.m3u8
-#EXTINF:-1, MCM Pop
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04y/index.m3u8
-#EXTINF:-1, Eurosport News
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05h/index.m3u8
-#EXTINF:-1, Baby TV
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04k/index.m3u8
-#EXTINF:-1, SIC Mulher HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05g/index.m3u8
-#EXTINF:-1, France 24 (F)
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05d/index.m3u8
-#EXTINF:-1, C-Music
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a051/index.m3u8
-#EXTINF:-1, TPA
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04d/index.m3u8
-#EXTINF:-1, Canal Q
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05a/index.m3u8
-#EXTINF:-1, TVI 24
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a057/index.m3u8
-#EXTINF:-1, RTP Memória
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a056/index.m3u8
-#EXTINF:-1, Sporting TV HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a055/index.m3u8
-#EXTINF:-1, Baby TV
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04s/index.m3u8
-#EXTINF:-1, TV Galicia
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a054/index.m3u8
-#EXTINF:-1, SyFy HD
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a05c/index.m3u8
-#EXTINF:-1, Record News
-plugin://plugin.video.f4mTester/?name=TEAMJ2MF4&streamtype=HLSRETRY&amp;url=http://188.250.214.28:8889/play/a04z/index.m3u8
+#EXTINF:-1,Record News
+http://91.139.196.72:8030/play/a018
+#EXTINF:-1,SIC Caras
+http://91.139.196.72:8030/play/a02w
+#EXTINF:-1,PFC
+http://91.139.196.72:8030/play/a034
+#EXTINF:-1,E! Entertainment
+http://91.139.196.72:8030/play/a02x
+#EXTINF:-1,Histðria
+http://91.139.196.72:8030/play/a00c
+#EXTINF:-1,SIC
+http://91.139.196.72:8030/play/a00t
+#EXTINF:-1,TV Galicia
+http://91.139.196.72:8030/play/a033
+#EXTINF:-1,RTP 2
+http://91.139.196.72:8030/play/a005
+#EXTINF:-1,TVCine 3
+http://91.139.196.72:8030/play/a045
+#EXTINF:-1,RTP 3
+http://91.139.196.72:8030/play/a007
+#EXTINF:-1,Cinemundo
+http://91.139.196.72:8030/play/a00b
+#EXTINF:-1,MCS Extreme
+http://91.139.196.72:8030/play/a00w
+#EXTINF:-1,motorsport.tv
+http://91.139.196.72:8030/play/a00x
+#EXTINF:-1,TV Record
+http://91.139.196.72:8030/play/a006
+#EXTINF:-1,Globo Premium
+http://91.139.196.72:8030/play/a035
+#EXTINF:-1,RTP AĿores
+http://91.139.196.72:8030/play/a00i
+#EXTINF:-1,Cartoon Network
+http://91.139.196.72:8030/play/a02t
+#EXTINF:-1,TVI
+http://91.139.196.72:8030/play/a02n
+#EXTINF:-1,Syfy
+http://91.139.196.72:8030/play/a00v
+#EXTINF:-1,Eurosport 2
+http://91.139.196.72:8030/play/a036
+#EXTINF:-1,Nat Geo Wild
+http://91.139.196.72:8030/play/a02q
+#EXTINF:-1,Discovery Channel
+http://91.139.196.72:8030/play/a00y
+#EXTINF:-1,CBS Reality
+http://91.139.196.72:8030/play/a013
+#EXTINF:-1,SIC NotŦcias
+http://91.139.196.72:8030/play/a00u
+#EXTINF:-1,Canal Q
+http://91.139.196.72:8030/play/a032
+#EXTINF:-1,C-Music
+http://91.139.196.72:8030/play/a00r
+#EXTINF:-1,FOX Comedy
+http://91.139.196.72:8030/play/a02v
+#EXTINF:-1,Odisseia
+http://91.139.196.72:8030/play/a00z
+#EXTINF:-1,Venus
+http://91.139.196.72:8030/play/a011
+#EXTINF:-1,CanĿªo Nova
+http://91.139.196.72:8030/play/a038
+#EXTINF:-1,Afro Music
+http://91.139.196.72:8030/play/a047
+#EXTINF:-1,Eurosport 1
+http://91.139.196.72:8030/play/a00a
+#EXTINF:-1,TVI FicĿªo
+http://91.139.196.72:8030/play/a016
+#EXTINF:-1,Canal Panda
+http://91.139.196.72:8030/play/a02p
+#EXTINF:-1,MCM POP
+http://91.139.196.72:8030/play/a037
+#EXTINF:-1,SPORT TV 4
+http://91.139.196.72:8030/play/a00m
+#EXTINF:-1,RTP Madeira
+http://91.139.196.72:8030/play/a00h
+#EXTINF:-1,SIC K
+http://91.139.196.72:8030/play/a00k
+#EXTINF:-1,NBA TV
+http://91.139.196.72:8030/play/a02o
+#EXTINF:-1,Disney Channel
+http://91.139.196.72:8030/play/a015
+#EXTINF:-1,Jim Jam
+http://91.139.196.72:8030/play/a00n
+#EXTINF:-1,RTP Memðria
+http://91.139.196.72:8030/play/a02u
+#EXTINF:-1,SIC Radical
+http://91.139.196.72:8030/play/a02r
+#EXTINF:-1,RTP 1
+http://91.139.196.72:8030/play/a004
+#EXTINF:-1,Porto Canal
+http://91.139.196.72:8030/play/a02s
+#EXTINF:-1,A Bola TV
+http://91.139.196.72:8030/play/a017
+#EXTINF:-1,Eurosport 2 Xtra
+http://91.139.196.72:8030/play/a00d
+#EXTINF:-1,TVSØries
+http://91.139.196.72:8030/play/a012
+#EXTINF:-1,TVI 24
+http://91.139.196.72:8030/play/a00p
+#EXTINF:-1,TVCine 4
+http://91.139.196.72:8030/play/a044
