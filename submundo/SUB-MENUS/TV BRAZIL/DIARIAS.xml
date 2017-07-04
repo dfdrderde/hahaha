@@ -1,11 +1,14 @@
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]   [COLOR=lime] [B]05-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"BR"
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"BR"
 
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]   [COLOR=lime] [B]05-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"BR"
-
-
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]  " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"BR"
 
 
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]   [COLOR=lime] [B]29-01-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/TV%20BRAZIL/LISTAS%20DIARIAS/BR.m3u"; regex""
+
+
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]  " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%201.m3u"; regex""
+
+
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS BR [/B]  " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%20SERVIDOR%202.m3u"; regex""
 
 
 

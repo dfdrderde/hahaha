@@ -1,11 +1,14 @@
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"ES"
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"ES"
 
 
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"ES"
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B]  " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"ES"
 
 
 
 
 
-Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B]   [COLOR=lime] [B]29-01-2017 [/B] " URL="http://193.70.44.113:2500/get.php?username=vedat&password=vedat&type=m3u"; regex""
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B] " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/ESPANHA/ESPANHA%20CHANNELS.xml"; regex""
+
+
+Server:"[COLOR=yellow] [B]LISTAS DIARIAS ES [/B] " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/ESPANHA/ESPANHA%20CHANNELS2.m3u"; regex""
 
