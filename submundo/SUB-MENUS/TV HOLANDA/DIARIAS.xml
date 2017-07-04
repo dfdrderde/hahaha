@@ -1,14 +1,16 @@
-Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"NL"
+Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV.m3u"; regex"NL"
 
 
-Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B]   [COLOR=lime] [B]04-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"NL"
-
-
-
+Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B]  " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/LISTA%20IPTV%202.m3u"; regex"NL"
 
 
 
 
-Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B]   [COLOR=lime] [B]03-02-2017 [/B] " URL="https://raw.githubusercontent.com/dfdrderde/hahaha/master/submundo/SUB-MENUS/TV%20HOLANDA/LISTAS%20DIARIAS/TV%20HOLANDA.m3u"; regex""
 
+
+
+Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B] " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/NETHERLANDS%20TV/NETHERLANDS%20TV%20SERVIDOR%201.m3u"; regex""
+
+
+Server:"[COLOR=yellow] [B]LIJST DAGELIJKS NL [/B] " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/NETHERLANDS%20TV/NETHERLANDS%20TV%20SERVIDOR%202.m3u"; regex""
 
