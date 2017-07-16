@@ -13,10 +13,28 @@
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=yellow] [B] RTP 1 [/B] [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp1.stream/KodiPortugal.pt.m3u8</link>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8</link>
+<referer>http://www.rtp.pt/</referer>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=yellow] [B] RTP 2 [/B] [/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=yellow] [B] RTP 2 [/B] [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp2.stream/KodiPortugal.pt.m3u8</link>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8</link>
 <referer>http://www.rtp.pt/</referer>
 <fanart></fanart>
 <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
@@ -39,13 +57,29 @@
 </item>
 
 <item>
+<title>[COLOR=yellow] [B] SIC [/B] [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8</link>
+<link>http://live.impresa.pt/live/sic/sic.m3u8?iptvvictorpt</link>
+<referer>http://ucaster.eu/</referer>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR yellow] [B] TVI HD [/B] [/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
 <fanart></fanart>
 <thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR yellow] [B] TVI SD [/B] [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8</link>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=yellow] [B] TVI [/B] [/COLOR]</title>
@@ -62,6 +96,12 @@
 </item>
 
 <item>
+<title>[COLOR yellow] [B] RTP ACORES [/B] [/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8</link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow] [B] RTP AFRICA [/B] [/COLOR]</title>
 <link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15&amp;name=PluribusUnum</link>
 <fanart></fanart>
@@ -69,8 +109,22 @@
 </item>
 
 <item>
+<title>[COLOR yellow] [B] RTP AFRICA [/B] [/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8</link>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR yellow] [B] RTP MADEIRA [/B] [/COLOR]</title>
 <link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15&amp;name=PluribusUnum</link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow] [B] RTP MADEIRA [/B] [/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8</link>
 <thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
 </item>
 
@@ -82,18 +136,37 @@
 </item>
 
 <item>
+<title>[COLOR yellow] [B] RTP MEMORIA [/B] [/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8</link>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow] [B] RTP INTERNACIONAL [/B] [/COLOR]</title>
-<linkrtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15&amp;name=PluribusUnum</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15&amp;name=PluribusUnum</link>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow] [B] RTP INTERNACIONAL [/B] [/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8</link>
 <fanart></fanart>
 <thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
 </item>
 
 
+<item>
+<title>[COLOR yellow] [B] SIC NOTICIAS HD [/B] [/COLOR] </title>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<fanart></fanart>
+</item>
 
 
 <item>
 <title>[COLOR yellow] [B] SIC NOTICIAS HD [/B] [/COLOR] </title>
-<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<link>http://live.impresa.pt/live/sicnot/sicnot.m3u8</link>
 <fanart></fanart>
 </item>
 
@@ -123,6 +196,15 @@
 <thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR yellow] [B] PORTO CANAL [/B] [/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8</link>
+<referer>http://www.sportvdireto.online/</referer>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR yellow] [B] ABOLA TV [/B] [/COLOR]</title>
 <sportsdevil>http://www.sporttvonlinehd.net/index.php?canal=abolatv</sportsdevil>
@@ -135,6 +217,13 @@
 <item>
 <title>[COLOR yellow] [B] EURONEWS [/B] [/COLOR]</title>
 <link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<fanart></fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow] [B] EURONEWS [/B] [/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8</link>
 <fanart></fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
 </item>
@@ -195,21 +284,27 @@
 
 <item> 
 <title>[COLOR yellow][B] GLOBO SP [/COLOR][/B]</title>
-<sportsdevilhttp://onlinenatv.com/canal/globo02.html</sportsdevil>
+<sportsdevil>http://onlinenatv.com/canal/globo02.html</sportsdevil>
 <referer>http://onlinenatv.com/</referer>
 <fanart></fanart>
 <thumbnail>http://iptv.codigolivre.net/logos/Globo%20HD.png</thumbnail>
 </item>
 
 
-
+<item> 
+<title>[COLOR yellow][B] GLOBO  [/COLOR][/B]</title>
+<link>http://4.31.30.145:9202</link>
+<referer>http://onlinenatv.com/</referer>
+<fanart></fanart>
+<thumbnail>http://iptv.codigolivre.net/logos/Globo%20HD.png</thumbnail>
+</item>
 
 
  
 
 <item>
 <title>[COLOR yellow] [B] GLOBO [/B] [/COLOR]</title>
-<link$doregex[m3u8]</link>
+<link$>doregex[m3u8]</link>
 <regex>
 <name>m3u8</name>
 <expres>file: '([^']*)</expres>
@@ -229,7 +324,7 @@
  
 <item>                        
 <title>[COLOR yellow] [B] BAND [/B] [/COLOR]</title>  
-<link$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
 <name>m3u8</name>
 <expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=18&amp;width=640&amp;height=360&amp;jwplayer=flash</page>
@@ -299,12 +394,18 @@
 </item>
 
 
+<item>
+<title>[COLOR yellow] [B] TVI REALITY [/COLOR] [/B]</title>
+<link>http://4.31.30.145:9040</link>
+<fanart></fanart>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tvi_reality_pt.png</thumbnail>
+</item>
 
 
 
 <item>
 <title>[COLOR yellow] [B] TVI REALITY [/B] [/COLOR]</title>
-<linkrtmp://$doregex[ip]/live playpath=ssa35fss?id=89096$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
+<link>rtmp://$doregex[ip]/live playpath=ssa35fss?id=89096$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><regex><name>ip</name><expres>redirect=(.*)<expres>
 <page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>pk</name><expres>ea=(.*)'</expres>
 <page>http://www.embeducaster.com/embedplayer/ssa35fss/1/545/380</page>
@@ -324,6 +425,14 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 <thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
 </item>
 
+
+
+<item>
+<title>[COLOR yellow] [B] TVI FICCAO [/B] [/COLOR]</title>
+<link>http://4.31.30.145:9004</link>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
+</item>
 
 
 
@@ -348,7 +457,7 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 
 <item>
 <title>[COLOR yellow] [B] SIC RADICAL [/B] [/COLOR]</title>
-<link</link>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
 <fanart></fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
 </item>
@@ -695,6 +804,15 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 </item>
 
 
+<item> 
+<title>[COLOR cyan][B] SPORT TV 1 [/COLOR][/B]</title>
+<link>rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream</link>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
+
+
 
 <item>
 <title>[COLOR cyan][B] SPORT TV 2 [/COLOR][/B]</title>
@@ -712,6 +830,16 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 <title>[COLOR cyan][B] SPORT TV 3 [/COLOR][/B]</title>
 <sportsdevil>http://desportogratis.net/canal-sporttv3.html</sportsdevil>
 <sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan][B] SPORT TV 3 [/COLOR][/B]</title>
+<link>rtmp://213.152.180.151:17247/sstream/0a6vDa0OYU.stream</link>
 <referer>http://hdfree.tv/</referer>
 <fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
@@ -1104,12 +1232,20 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 
 <item>
 <title>[COLOR cyan][B] CHELSEA TV [/COLOR][/B]</title>
-<sportsdevilhttp://www.shadow-net.org/channels/Chelsea-TV.html</sportsdevil>
+<sportsdevil>http://www.shadow-net.org/channels/Chelsea-TV.html</sportsdevil>
 <referer>http://www.shadow-net.org/</referer>
 <fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
 <thumbnail></thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR cyan][B] CHELSEA TV [/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8</link>
+<referer>http://www.shadow-net.org/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail></thumbnail>
+</item>
 
 
  
