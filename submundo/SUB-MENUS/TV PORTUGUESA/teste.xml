@@ -1,14 +1,5 @@
 
 
-
-
-<item>
-<title>[COLOR white][B]WEB STREAM[/COLOR][/B]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://script.module.webstreams/</jsonrpc>
-<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
-<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
-</item>
 RTP 1 - FREE,http://liveitkodi.com/Logos/rtp1.png,https://goo.gl/uP152E,Portugal,RTP1,1,
 RTP 2 - FREE,http://liveitkodi.com/Logos/rtp2new.png,https://goo.gl/5ktWmw,Portugal,RTP2,2,
 SIC - FREE,http://liveitkodi.com/Logos/sic.png,http://live.impresa.pt/live/sic/sic540p.m3u8?mag,Portugal,SIC,18,
