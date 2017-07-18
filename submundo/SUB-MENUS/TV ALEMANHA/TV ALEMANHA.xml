@@ -3,6 +3,178 @@
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyCinemagic" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Disney Cinemagic DE" tvg-logo="http://nextgen-iptv.com/logo/disney%20cinemagic.png" group-title="Children",Disney Cinemagic DE
+http://cms.bossna-caffe.com:80/live?channelId=1129&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Disney DE(Test)" tvg-link="" tvg-name="Disney DE(Test)" tvg-logo="" group-title="Children",Disney DE(Test) - Disney DE(Test)
+http://cms.bossna-caffe.com:80/live?channelId=1172&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="TOGGO Plus DE(Test)" tvg-link="" tvg-name="TOGGO Plus DE(Test)" tvg-logo="" group-title="Children",TOGGO Plus DE(Test)
+http://cms.bossna-caffe.com:80/live?channelId=1173&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="DE | Nickelodeon" tvg-link="" tvg-name="DE | Nickelodeon" tvg-logo="" group-title="Children",DE | Nickelodeon
+http://cms.bossna-caffe.com:80/live?channelId=1174&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="ARTE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Arte DE" tvg-logo="http://nextgen-iptv.com/logo/Arte_DE.png" group-title="Germany",Arte DE
+http://cms.bossna-caffe.com:80/live?channelId=430&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="RTLDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL DE" tvg-logo="http://nextgen-iptv.com/logo/RTL_DE.png" group-title="Germany",RTL DE
+http://cms.bossna-caffe.com:80/live?channelId=18&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="RTLII" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL 2 DE" tvg-logo="http://nextgen-iptv.com/logo/RTL2_DE.png" group-title="Germany",RTL 2 DE
+http://cms.bossna-caffe.com:80/live?channelId=259&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="RTL Passion DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL Passion DE" tvg-logo="http://nextgen-iptv.com/logo/RTLPassion_HR.png" group-title="Germany",RTL Passion DE
+http://cms.bossna-caffe.com:80/live?channelId=1007&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="KiKa" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Kika DE" tvg-logo="http://nextgen-iptv.com/logo/Kika_DE.png" group-title="Germany",Kika DE
+http://cms.bossna-caffe.com:80/live?channelId=339&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="FOXDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="FOX DE" tvg-logo="http://nextgen-iptv.com/logo/fox.png" group-title="Germany",FOX DE
+http://cms.bossna-caffe.com:80/live?channelId=283&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="VOX" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="VOX DE" tvg-logo="http://nextgen-iptv.com/logo/VOX_DE.png" group-title="Germany",VOX DE
+http://cms.bossna-caffe.com:80/live?channelId=181&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="NatGeoDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="National Geographic DE" tvg-logo="http://nextgen-iptv.com/logo/NationalGeographic_DE.png" group-title="Germany",National Geographic DE
+http://cms.bossna-caffe.com:80/live?channelId=16&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="ORF1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ORF 1" tvg-logo="http://nextgen-iptv.com/logo/400px-ORFeins.svg.png" group-title="Germany",ORF 1
+http://cms.bossna-caffe.com:80/live?channelId=260&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="ORF2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ORF 2" tvg-logo="http://nextgen-iptv.com/logo/ORF2.png" group-title="Germany",ORF 2
+http://cms.bossna-caffe.com:80/live?channelId=134&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="DE: ORF 3" tvg-link="" tvg-name="DE: ORF 3" tvg-logo="http://www.artphalanx.at/site/assets/files/3989/logo_orf-iii_0.jpg" group-title="Germany",DE: ORF 3
+http://cms.bossna-caffe.com:80/live?channelId=1243&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyKrimiDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Krimi DE" tvg-logo="http://nextgen-iptv.com/logo/Sky_de_krimi.png" group-title="Germany",Sky Krimi DE
+http://cms.bossna-caffe.com:80/live?channelId=204&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyActionDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Action DE" tvg-logo="http://nextgen-iptv.com/logo/SkyAction_DE.png" group-title="Germany",Sky Action DE
+http://cms.bossna-caffe.com:80/live?channelId=19&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyCinema24" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Cinema +24 DE" tvg-logo="http://nextgen-iptv.com/logo/cinema%20+24.png" group-title="Germany",Sky Cinema +24 DE
+http://cms.bossna-caffe.com:80/live?channelId=198&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyCinemaDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Cinema DE" tvg-logo="http://nextgen-iptv.com/logo/sky%20cinema.png" group-title="Germany",Sky Cinema DE
+http://cms.bossna-caffe.com:80/live?channelId=22&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="TNTFilm" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TNT Film DE" tvg-logo="http://nextgen-iptv.com/logo/tnt%20film.png" group-title="Germany",TNT Film DE
+http://cms.bossna-caffe.com:80/live?channelId=196&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="TNTSerie" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TNT Serie DE" tvg-logo="http://nextgen-iptv.com/logo/tnt%20serie.png" group-title="Germany",TNT Serie DE
+http://cms.bossna-caffe.com:80/live?channelId=1021&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyComedyDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Comedy DE" tvg-logo="http://nextgen-iptv.com/logo/sky%20comedy.png" group-title="Germany",Sky Comedy DE
+http://cms.bossna-caffe.com:80/live?channelId=23&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 1
+http://cms.bossna-caffe.com:80/live?channelId=206&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 2
+http://cms.bossna-caffe.com:80/live?channelId=9&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 3
+http://cms.bossna-caffe.com:80/live?channelId=142&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 4" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 4
+http://cms.bossna-caffe.com:80/live?channelId=331&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect5" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 5" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 5
+http://cms.bossna-caffe.com:80/live?channelId=332&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect6" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 6" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Germany",Sky Select 6
+http://cms.bossna-caffe.com:80/live?channelId=333&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect7" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 7" tvg-logo="" group-title="Germany",Sky Select 7
+http://cms.bossna-caffe.com:80/live?channelId=335&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySelect8" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Select 8" tvg-logo="" group-title="Germany",Sky Select 8
+http://cms.bossna-caffe.com:80/live?channelId=1023&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyHitsDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Hits DE" tvg-logo="http://nextgen-iptv.com/logo/SkyHits_DE.png" group-title="Germany",Sky Hits DE
+http://cms.bossna-caffe.com:80/live?channelId=261&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="ProSieben" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ProSieben DE" tvg-logo="http://nextgen-iptv.com/logo/prosieben%20austria.png" group-title="Germany",ProSieben DE
+http://cms.bossna-caffe.com:80/live?channelId=270&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyFussballBundesliga" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Fussball Bundesliga DE" tvg-logo="http://nextgen-iptv.com/logo/Sky%20Bundesliga%201%20DE.png" group-title="Sport",Sky Fussball Bundesliga DE
+http://cms.bossna-caffe.com:80/live?channelId=21&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Bundesliga 2 DE (TEST-MatchOnly)" tvg-link="" tvg-name="Sky Bundesliga 2 DE (TEST-MatchOnly)" tvg-logo="" group-title="Sport",Sky Bundesliga 2 DE (TEST-MatchOnly)
+http://cms.bossna-caffe.com:80/live?channelId=1238&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Bundesliga 3 DE (TEST-MatchOnly)" tvg-link="" tvg-name="Sky Bundesliga 3 DE (TEST-MatchOnly)" tvg-logo="" group-title="Sport",Sky Bundesliga 3 DE (TEST-MatchOnly)
+http://cms.bossna-caffe.com:80/live?channelId=1239&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Bundesliga 4 DE (TEST-MatchOnly)" tvg-link="" tvg-name="Sky Bundesliga 4 DE (TEST-MatchOnly)" tvg-logo="" group-title="Sport",Sky Bundesliga 4 DE (TEST-MatchOnly)
+http://cms.bossna-caffe.com:80/live?channelId=1240&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Bundesliga 5 DE (TEST-MatchOnly)" tvg-link="" tvg-name="Sky Bundesliga 5 DE (TEST-MatchOnly)" tvg-logo="" group-title="Sport",Sky Bundesliga 5 DE (TEST-MatchOnly)
+http://cms.bossna-caffe.com:80/live?channelId=1241&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Bundesliga 6 DE (TEST-MatchOnly)" tvg-link="" tvg-name="Sky Bundesliga 6 DE (TEST-MatchOnly)" tvg-logo="" group-title="Sport",Sky Bundesliga 6 DE (TEST-MatchOnly)
+http://cms.bossna-caffe.com:80/live?channelId=1242&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-link="" tvg-name="Sky Sport News DE" tvg-logo="" group-title="Sport",Sky Sport News DE
+http://cms.bossna-caffe.com:80/live?channelId=1008&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySport1DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Sport 1 DE" tvg-logo="http://nextgen-iptv.com/logo/sky%20sports%201.png" group-title="Sport",Sky Sport 1 DE
+http://cms.bossna-caffe.com:80/live?channelId=7&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkySport2DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Sport 2 DE" tvg-logo="http://nextgen-iptv.com/logo/sky%20sports%202.png" group-title="Sport",Sky Sport 2 DE
+http://cms.bossna-caffe.com:80/live?channelId=149&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="DMAX" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="DMAX DE" tvg-logo="http://nextgen-iptv.com/logo/DMAX_DE.png" group-title="Germany",DMAX DE
+http://cms.bossna-caffe.com:80/live?channelId=588&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="AXNDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="AXN DE" tvg-logo="http://nextgen-iptv.com/logo/axn.png" group-title="Germany",AXN DE
+http://cms.bossna-caffe.com:80/live?channelId=589&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="MGM.de" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="DE: Kinowelt TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/f/fd/20130619114028!MGM_HD-Channel.png" group-title="Germany",DE: Kinowelt TV
+http://cms.bossna-caffe.com:80/live?channelId=590&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SUPERRTL" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Super RTL DE" tvg-logo="http://nextgen-iptv.com/logo/SuperRTL_DE.png" group-title="Germany",Super RTL DE
+http://cms.bossna-caffe.com:80/live?channelId=587&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="NATGEOWILDDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Nat Geo Wild DE" tvg-logo="http://nextgen-iptv.com/logo/NatGeoWild_DE.png" group-title="Germany",Nat Geo Wild DE
+http://cms.bossna-caffe.com:80/live?channelId=583&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SAT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sat.1 DE" tvg-logo="http://nextgen-iptv.com/logo/sat.1.png" group-title="Germany",Sat.1 DE
+http://cms.bossna-caffe.com:80/live?channelId=582&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="kabeleins" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Kabel Eins DE" tvg-logo="http://nextgen-iptv.com/logo/kabel%20eins%20austria.png" group-title="Germany",Kabel Eins DE
+http://cms.bossna-caffe.com:80/live?channelId=561&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="RTLNITRO" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL Nitro DE" tvg-logo="http://nextgen-iptv.com/logo/RTLNitro_DE.png" group-title="Germany",RTL Nitro DE
+http://cms.bossna-caffe.com:80/live?channelId=586&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="HISTORYDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="History Channel DE" tvg-logo="http://nextgen-iptv.com/logo/history.png" group-title="Germany",History Channel DE
+http://cms.bossna-caffe.com:80/live?channelId=584&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="UNIVERSAL HD DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="UNIVERSAL HD DE" tvg-logo="" group-title="Germany",UNIVERSAL HD DE
+http://cms.bossna-caffe.com:80/live?channelId=1006&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="3sat" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="3sat DE" tvg-logo="http://nextgen-iptv.com/logo/3sat_DE.png" group-title="Germany",3sat DE
+http://cms.bossna-caffe.com:80/live?channelId=1014&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="DasErste" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Das Erste DE" tvg-logo="http://nextgen-iptv.com/logo/DasErste_DE.png" group-title="Germany",Das Erste DE
+http://cms.bossna-caffe.com:80/live?channelId=1015&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="ZDF" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ZDF DE" tvg-logo="http://nextgen-iptv.com/logo/zdf.png" group-title="Germany",ZDF DE
+http://cms.bossna-caffe.com:80/live?channelId=1016&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="sixx" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sixx DE" tvg-logo="http://nextgen-iptv.com/logo/Sixx_DE.png" group-title="Germany",Sixx DE
+http://cms.bossna-caffe.com:80/live?channelId=1017&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="PHOENIX" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Phoenix DE" tvg-logo="http://nextgen-iptv.com/logo/phoenix.png" group-title="Germany",Phoenix DE
+http://cms.bossna-caffe.com:80/live?channelId=1018&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyEmotionDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Emotion DE" tvg-logo="http://nextgen-iptv.com/logo/SkyEmotion_DE.png" group-title="Germany",Sky Emotion DE
+http://cms.bossna-caffe.com:80/live?channelId=1019&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SkyAtlanticDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sky Atlantic DE" tvg-logo="http://nextgen-iptv.com/logo/SkyAtlantic_DE.png" group-title="Germany",Sky Atlantic DE
+http://cms.bossna-caffe.com:80/live?channelId=1020&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="DiscoveryDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Discovery Channel DE" tvg-logo="http://nextgen-iptv.com/logo/DiscoveryChannel_DE.png" group-title="Germany",Discovery Channel DE
+http://cms.bossna-caffe.com:80/live?channelId=195&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Syfy DE" tvg-logo="http://nextgen-iptv.com/logo/syfy.png" group-title="Germany",Syfy DE
+http://cms.bossna-caffe.com:80/live?channelId=1022&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="SRF 1 (Test)" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="SRF 1 (Test)" tvg-logo="" group-title="Germany",SRF 1 (Test)
+http://cms.bossna-caffe.com:80/live?channelId=1175&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="PRO7 MAXX DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="PRO7 MAXX DE" tvg-logo="http://www.dwdl.de/images/1379164105.jpg" group-title="Germany",PRO7 MAXX DE
+http://cms.bossna-caffe.com:80/live?channelId=1188&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="N24 DE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="N24 DE" tvg-logo="https://www.sevenonemedia.com/documents/32307/236177/N24_480x133.jpg/2a4e0e61-55e5-4385-8716-c6b94394b8a1?t=1449174237800" group-title="Germany",N24 DE
+http://cms.bossna-caffe.com:80/hls/1200.m3u8?channelId=1200&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="13THSTREETDE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="13th Street DE" tvg-logo="http://nextgen-iptv.com/logo/13th%20street.png" group-title="Germany",13th Street DE
+http://cms.bossna-caffe.com:80/live?channelId=338&uid=12486&deviceMac=00:1A:79:39:5F:5A
+#EXTINF:-1 tvg-id="Zee One DE (TEST)" tvg-link="" tvg-name="Zee One DE (TEST)" tvg-logo="" group-title="Germany",Zee One DE (TEST)
+http://cms.bossna-caffe.com:80/live?channelId=1244&uid=12486&deviceMac=00:1A:79:39:5F:5A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1,3sat
 http://91.55.64.175:9981/stream/channelid/2058528344
