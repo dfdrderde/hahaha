@@ -1,152 +1,167 @@
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+
+#EXTINF:-1,SKYSPORT 1
+http://11gb.gcdn.co/live/online/tv/1760.m3u8
+#EXTINF:-1,SKYSPORT 2
+http://11gb.gcdn.co/live/online/tv/1761.m3u8
+#EXTINF:-1,SKYSPORT 3
+http://11gb.gcdn.co/live/online/tv/1762.m3u8
+#EXTINF:-1,SKYSPORT 4
+http://11gb.gcdn.co/live/online/tv/1763.m3u8
+#EXTINF:-1,SKYSPORT 5
+http://11gb.gcdn.co/live/online/tv/1764.m3u8
+
+#EXTINF:-1,Sport 1 HD
+http://108.168.175.182:5000/live/103/103.m3u8
+#EXTINF:-1,Sport 2
+http://108.168.175.182:5000/live/279/279.m3u8
+#EXTINF:-1,Eurosport
+http://65.254.55.10:4000/live/197/197.m3u8
+
 #EXTM3U
-#EXTINF:-1,Bein Sports 9 HD
-http://35.194.159.185:8000/play/a00v
-#EXTINF:-1,SKYNET SPORTS-2
-http://35.194.159.185:8000/play/a009
-#EXTINF:-1,Bein Sports 3 HD
-http://35.194.159.185:8000/play/a00j
-#EXTINF:-1,Матч! Футбол 1 HD
-http://35.194.159.185:8000/play/a004
-#EXTINF:-1,Матч! Футбол 3 HD
-http://35.194.159.185:8000/play/a008
-#EXTINF:-1,Bein Sports 1 HD
-http://35.194.159.185:8000/play/a00h
-#EXTINF:-1,Матч! Футбол 2
-http://35.194.159.185:8000/play/a005
-#EXTINF:-1,SKYNET SPORTS-1
-http://35.194.159.185:8000/play/a002
-#EXTINF:-1,SKYNET SPORTS-5
-http://35.194.159.185:8000/play/a00n
-#EXTINF:-1,Arena Sport 3
-http://35.194.159.185:8000/play/a00e
-#EXTINF:-1,NHK World HD
-http://35.194.159.185:8000/play/a00p
-#EXTINF:-1,Bein Sports 10 HD
-http://35.194.159.185:8000/play/a00w
-#EXTINF:-1,FOX SPORTS 1 HD
-http://35.194.159.185:8000/play/a012
-#EXTINF:-1,Bein Sports 11 HD
-http://35.194.159.185:8000/play/a00x
-#EXTINF:-1,Bein Sports 8 HD
-http://35.194.159.185:8000/play/a00u
-#EXTINF:-1,SKYNET SPORTS-3
-http://35.194.159.185:8000/play/a00l
-#EXTINF:-1,Bein Sports 5 HD
-http://35.194.159.185:8000/play/a00r
-#EXTINF:-1,Bein Sports 3 France
-http://35.194.159.185:8000/play/a011
-#EXTINF:-1,Bein Sports 2 France
-http://35.194.159.185:8000/play/a010
-#EXTINF:-1,Bein Sports 12 HD
-http://35.194.159.185:8000/play/a00y
-#EXTINF:-1,FOX SPORTS 2 HD
-http://35.194.159.185:8000/play/a013
-#EXTINF:-1,Bein Sports 1 France
-http://35.194.159.185:8000/play/a00z
-#EXTINF:-1,SS Kosova 1 HD
-http://35.194.159.185:8000/play/a00a
-#EXTINF:-1,Bein Sports 7 HD
-http://35.194.159.185:8000/play/a00t
-#EXTINF:-1,Arena Sport 4
-http://35.194.159.185:8000/play/a00f
-#EXTINF:-1,SKYNET SPORTS-4
-http://35.194.159.185:8000/play/a00m
-#EXTINF:-1,Матч! Футбол 2 HD
-http://35.194.159.185:8000/play/a006
-#EXTINF:-1,Матч! Футбол 1
-http://35.194.159.185:8000/play/a003
-#EXTINF:-1,Bein Sports 6 HD
-http://35.194.159.185:8000/play/a00s
-#EXTINF:-1,SS Kosova 2 HD
-http://35.194.159.185:8000/play/a00b
-#EXTINF:-1,SKYNET SPORTS-6
-http://35.194.159.185:8000/play/a00o
-#EXTINF:-1,Arena Sport 2
-http://35.194.159.185:8000/play/a00d
-#EXTINF:-1,Bein Sports 4 HD
-http://35.194.159.185:8000/play/a00q
-#EXTINF:-1,SKYNET SPORTS HD
-http://35.194.159.185:8000/play/a001
-#EXTINF:-1,Bein Sports News
-http://35.194.159.185:8000/play/a00k
-#EXTINF:-1,Матч! Футбол 3
-http://35.194.159.185:8000/play/a007
-#EXTINF:-1,Arena Sport 5
-http://35.194.159.185:8000/play/a00g
-#EXTINF:-1,Arena Sport 1
-http://35.194.159.185:8000/play/a00c
-#EXTINF:-1,Bein Sports 2 HD
-http://35.194.159.185:8000/play/a00i
+#EXTINF:-1, UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1, UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
+#EXTINF:-1, UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+#EXTINF:-1, UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+#EXTINF:-1, BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+#EXTINF:-1, UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1, EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:-1, EURO SPORT 2 HD
+http://185.142.239.164:3135/Euro/2/index.m3u8
+#EXTINF:-1, USA:FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:-1, USA:FOX Sports 2(FS2)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+#EXTINF:-1, Setanta Sports
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+#EXTINF:-1, Premiere Sports
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+#EXTINF:-1, Boxing & Wrestling
+http://185.142.239.164:3135/BT/2/index.m3u
+#EXTINF:-1, Ten Sports 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:-1, Ten Sports 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+#EXTINF:-1, Ten Sports 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
+#EXTINF:-1, NFL Network
+http://185.142.239.164:3135/NFL/Network/index.m3u8
+#EXTINF:-1, ESPN 1
+http://185.142.239.164:3135/Espn/1/index.m3u8
+#EXTINF:-1, ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
+#EXTINF:-1, PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+#EXTINF:-1, Super 1
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:-1, Super 2
+http://185.142.239.164:3135/Super/2/index.m3u8
+#EXTINF:-1, Super 3
+http://185.142.239.164:3135/Super/3/index.m3u8
+#EXTINF:-1, Super 4
+http://185.142.239.164:3135/Super/4/index.m3u8
 
+#EXTINF:-1,ESP 1
+http://109.175.6.68:4936/udp/239.0.1:1234?
+#EXTINF:-1,ESP 2
+http://109.175.6.68:4936/udp/239.0.2:1234?
+#EXTINF:-1,ARENA SPORT 2
+http://109.175.6.67:4936/udp/239.0.1.2:1234?
+#EXTINF:-1,ARENA SPORT 3
+http://109.175.6.67:4936/udp/239.0.1.3:1234?
+#EXTINF:-1,ARENA SPORT 4
+http://109.175.6.67:4936/udp/239.0.1.4:1234?
+#EXTINF:-1,ESP 2
+http://109.175.6.67:4936/udp/239.0.2:1234?
 
+#EXTM3U
+#EXTINF:0,Eurosport 2
+http://195.228.11.88:4080/udp/225.255.255.25:10000
+#EXTINF:0,EURO SPORTS
+http://183.88.212.205:8010/play/a00d
+#EXTINF:0,FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m
+#EXTINF:0,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:0,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
+#EXTINF:0,SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r
+#EXTINF:0,SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k
+#EXTINF:0,SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l
+#EXTINF:0,SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a
+#EXTINF:0,SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b
+#EXTINF:0,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g
+#EXTINF:0,FOX SPORTS NEWS
+http://183.88.212.205:8010/play/a022
+#EXTINF:17700,Eurosport
+http://91.224.178.9:5000/11
 
+#EXTM3U
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
 
+#EXTM3U
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:1,ss1hd
-http://185.152.65.131:8080/ss1hd/mpegts
-#EXTINF:1,ss2hd
-http://185.152.65.131:8080/ss2hd/mpegts
-#EXTINF:1,ss3hd
-http://185.152.65.131:8080/ss3hd/mpegts
-#EXTINF:1,ss4hd
-http://185.152.65.131:8080/ss4hd/mpegts
-#EXTINF:1,ss5hd
-http://185.152.65.131:8080/ss5hd/mpegts
-#EXTINF:1,ss6hd
-http://185.152.65.131:8080/ss6hd/mpegts
-#EXTINF:1,ss1sd
-http://185.152.65.131:8080/ss1sd/mpegts
-#EXTINF:1,ss2sd
-http://185.152.65.131:8080/ss2sd/mpegts
-#EXTINF:1,ss3sd
-http://185.152.65.131:8080/ss3sd/mpegts
-#EXTINF:1,ss4sd1
-http://185.152.65.131:8080/ss4sd/mpegts
-#EXTINF:1,sk1
-http://185.152.65.131:8080/sk1/mpegts
-#EXTINF:1,sk2
-http://185.152.65.131:8080/sk2/mpegts
-#EXTINF:1,sk3
-http://185.152.65.131:8080/sk3/mpegts
-#EXTINF:1,sk4
-http://185.152.65.131:8080/sk4/mpegts
-#EXTINF:1,sk5
-http://185.152.65.131:8080/sk5/mpegts
-#EXTINF:1,/s6
-http://185.152.65.131:8080/sk6/mpegts
-#EXTINF:1,Arena1
-http://185.152.65.131:8080/arena1/mpegts
-#EXTINF:1,Arena2
-http://185.152.65.131:8080/arena2/mpegts
-#EXTINF:1,Arena3
-http://185.152.65.131:8080/arena3/mpegts
-#EXTINF:1,Arena4
-http://185.152.65.131:8080/arena4/mpegts
-#EXTINF:1,Arena5
-http://185.152.65.131:8080/arena5/mpegts
-#EXTINF:1,Eurosport1
-http://185.152.65.131:8080/eurosport1/mpegts
-#EXTINF:1,Eurosport2
-http://185.152.65.131:8080/eurosport2/mpegts
-#EXTINF:1,BeinSport1
-http://185.152.65.131:8080/sportspecial1/mpegts
-#EXTINF:1,BeinSport2
-http://185.152.65.131:8080/sportspecial2/mpegts
-#EXTINF:1,BeinSport3
-http://185.152.65.131:8080/sportspecial3/mpegts
-#EXTINF:1,BeinSport4
-http://185.152.65.131:8080/sportspecial4/mpegts
+#EXTM3U
+#EXTINF:-1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Superport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8
