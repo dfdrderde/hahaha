@@ -1494,15 +1494,6 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=13 live=1 conn=S:OK</link><re
 </item>
  
 
-
- 
-<item>
-<title>[COLOR cyan][B] VERSUS TV [/COLOR][/B]</title>
-<linkhttp://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/140px-Versus_logo.svg.png</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Versus_logo.svg/140px-Versus_logo.svg.png</thumbnail>
-</item> 
- 
  
 <item>
 <title>[COLOR cyan][B] NBC GOLF CHANNEL [/COLOR][/B]</title>
