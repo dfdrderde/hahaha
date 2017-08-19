@@ -1,592 +1,28 @@
 
 
 
-
-
-#EXTINF:-1,AR | Bein Sports News
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/200.ts
-#EXTINF:-1,AR | Bein Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/577.ts
-#EXTINF:-1,AR | Bein Sports 1 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/202.ts
-#EXTINF:-1,AR | Bein Sports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/578.ts
-#EXTINF:-1,AR | Bein Sports 2 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/203.ts
-#EXTINF:-1,AR | Bein Sports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/579.ts
-#EXTINF:-1,AR | Bein Sports 3 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/204.ts
-#EXTINF:-1,AR | Bein Sports 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/580.ts
-#EXTINF:-1,AR | Bein Sports 4 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/205.ts
-#EXTINF:-1,AR | Bein Sports 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/581.ts
-#EXTINF:-1,AR | Bein Sports 5 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/206.ts
-#EXTINF:-1,AR | Bein Sports 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/582.ts
-#EXTINF:-1,AR | Bein Sports 6 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/207.ts
-#EXTINF:-1,AR | Bein Sports 7 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/583.ts
-#EXTINF:-1,AR | Bein Sports 7 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/208.ts
-#EXTINF:-1,AR | Bein Sports 8 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/584.ts
-#EXTINF:-1,AR | Bein Sports 8 Low
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/209.ts
-#EXTINF:-1,AR | Bein Sports 9 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/585.ts
-#EXTINF:-1,AR | Bein Sports 9 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/210.ts
-#EXTINF:-1,AR | Bein Sports 10 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/586.ts
-#EXTINF:-1,AR | Bein Sports 10 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/211.ts
-#EXTINF:-1,EN | Bein Sports 11 SD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/212.ts
-#EXTINF:-1,EN | Bein Sports 11 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/587.ts
-#EXTINF:-1,EN | Bein Sports 12 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/588.ts
-#EXTINF:-1,FR | Bein Sport Max 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/592.ts
-#EXTINF:-1,FR | Bein Sport Max 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/593.ts
-#EXTINF:-1,FR | Bein Sport Max 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/594.ts
-#EXTINF:-1,FR | beIN Sport Max 7
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2201.ts
-#EXTINF:-1,FR | beIN Sport Max 8
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2202.ts
-#EXTINF:-1,FR | beIN Sport Max 9
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2203.ts
-#EXTINF:-1,FR | beIN Sport Max 10
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2204.ts
-#EXTINF:-1,beIN Sports HD ESPAGNA
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3288.ts
-#EXTINF:-1,AR | BeIN Movies 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1352.ts
-#EXTINF:-1,AR | BeIN Movies 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/762.ts
-#EXTINF:-1,AR | BeIN Movies 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/763.ts
-#EXTINF:-1,AR | beIN Movies 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1715.ts
-#EXTINF:-1,SP-FR: INFOSPORT
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4700.ts
-#EXTINF:-1,SP-FR: Canal+ Sport HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4113.ts
-#EXTINF:-1,SP-FR: SFR Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4012.ts
-#EXTINF:-1,SP-FR: SFR Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4011.ts
-#EXTINF:-1,SP-FR: SFR Sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4010.ts
-#EXTINF:-1,SP-FR: SFR Sports 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4009.ts
-#EXTINF:-1,SP-FR: beiN Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4112.ts
-#EXTINF:-1,SP-FR: beiN Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4111.ts
-#EXTINF:-1,SP-FR: beiN Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4110.ts
-#EXTINF:-1,SP-AR: beINSports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4071.ts
-#EXTINF:-1,SP-AR: beINSports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4070.ts
-#EXTINF:-1,SP-AR: beINSports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4069.ts
-#EXTINF:-1,SP-AR: beINSports 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4068.ts
-#EXTINF:-1,SP-AR: beINSports 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4067.ts
-#EXTINF:-1,SP-AR: beINSports 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4066.ts
-#EXTINF:-1,SP-AR: beINSports 7 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4065.ts
-#EXTINF:-1,SP-AR: beINSports 8 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4064.ts
-#EXTINF:-1,SP-AR: beINSports 9 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4063.ts
-#EXTINF:-1,SP-AR: beINSports 10 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4062.ts
-#EXTINF:-1,SP-AR: beINSports 11 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4061.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4008.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4007.ts
-#EXTINF:-1,SP-AR: OSN SPORTS 4HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4005.ts
-#EXTINF:-1,SP-AR:OSN SPORTS 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4006.ts
-#EXTINF:-1,SP-AR:OSN SPORTS CRICKET HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4004.ts
-#EXTINF:-1,SP-IT: Sky Sport 24 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4200.ts
-#EXTINF:-1,SP-IT: Sky Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4199.ts
-#EXTINF:-1,SP-IT: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4198.ts
-#EXTINF:-1,SP-IT: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4197.ts
-#EXTINF:-1,SP-IT: Sky Sport F1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4175.ts
-#EXTINF:-1,SP-IT: Premium Calcio 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4194.ts
-#EXTINF:-1,SP-IT: Premium Calcio 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4193.ts
-#EXTINF:-1,SP-IT: Premium Calcio 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4192.ts
-#EXTINF:-1,SP-IT: Premium Calcio 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4191.ts
-#EXTINF:-1,SP-IT: Premium Calcio 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4190.ts
-#EXTINF:-1,SP-IT: Premium Calcio 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4189.ts
-#EXTINF:-1,SP-IT: PREMIUM SPORT HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4196.ts
-#EXTINF:-1,SP-IT: Premium Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4195.ts
-#EXTINF:-1,SP-IT: ROMA CHANNEL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4185.ts
-#EXTINF:-1,SP-IT: INTER CHANNEL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4186.ts
-#EXTINF:-1,SP-IT: Juventus Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4188.ts
-#EXTINF:-1,SP-IT: Milan Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4187.ts
-#EXTINF:-1,SP-IT: Sky Calcio 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4209.ts
-#EXTINF:-1,SP-IT: Sky Calcio 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4208.ts
-#EXTINF:-1,SP-IT: Sky Calcio.3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4207.ts
-#EXTINF:-1,SP-IT: Sky Calcio.4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4206.ts
-#EXTINF:-1,SP-IT: Sky Calcio.5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4205.ts
-#EXTINF:-1,SP-IT: Sky Calcio.6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4204.ts
-#EXTINF:-1,SP-IT: Sky Calcio.7
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4203.ts
-#EXTINF:-1,SP-IT : Sky Calcio 8
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4202.ts
-#EXTINF:-1,SP-IT: Sky Sport MotoGP HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4174.ts
-#EXTINF:-1,SP-IT: Sport Italia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4177.ts
-#EXTINF:-1,SP-IT: Super Tennis HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4180.ts
-#EXTINF:-1,SP-IT: Rai Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4184.ts
-#EXTINF:-1,SP-IT: Rai Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4183.ts
-#EXTINF:-1,SP-IT: Eurosport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4179.ts
-#EXTINF:-1,SP-IT: Eurosport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4178.ts
-#EXTINF:-1,SP-IT: Fox Sport HD Italia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4181.ts
-#EXTINF:-1,SP-IT: San Marino Rtv Sport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4210.ts
-#EXTINF:-1,SP-IT: AutoMoto TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4176.ts
-#EXTINF:-1,SP-UK: BT Sports 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4087.ts
-#EXTINF:-1,SP-UK: Liverpool FC
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4085.ts
-#EXTINF:-1,SP-UK: Manchester United TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4086.ts
-#EXTINF:-1,SP-UK: Sky Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4084.ts
-#EXTINF:-1,SP-UK: SKY Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4082.ts
-#EXTINF:-1,SP-UK: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4083.ts
-#EXTINF:-1,SP-UK: Sky Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4080.ts
-#EXTINF:-1,SP-UK: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4081.ts
-#EXTINF:-1,SP-UK: Sky Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4079.ts
-#EXTINF:-1,SP-UK: Sky Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4078.ts
-#EXTINF:-1,SP-UK:BT Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4091.ts
-#EXTINF:-1,SP-UK:BT Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4089.ts
-#EXTINF:-1,SP-UK:BT Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4090.ts
-#EXTINF:-1,SP-UK:BT Sports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4088.ts
-#EXTINF:-1,SP-UK:Sky Sports 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4076.ts
-#EXTINF:-1,SP-UK:Sky Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4075.ts
-#EXTINF:-1,SP-UK:Sky Sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4074.ts
-#EXTINF:-1,SP-UK:Sky Sports 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4073.ts
-#EXTINF:-1,SP-UK:Sky Sports 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4072.ts
-#EXTINF:-1,SP-UK:Sky Sports F1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4077.ts
-#EXTINF:-1,SP-DE: Eurosport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4151.ts
-#EXTINF:-1,SP-DE: Eurosport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4171.ts
-#EXTINF:-1,SP-DE: ORF Sport   HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4150.ts
-#EXTINF:-1,SP-DE: Sky  Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4163.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4161.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4158.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4157.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4155.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4154.ts
-#EXTINF:-1,SP-DE: Sky Bundesliga 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4153.ts
-#EXTINF:-1,SP-DE: Sky Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4169.ts
-#EXTINF:-1,SP-DE: Sky Sport 1 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4168.ts
-#EXTINF:-1,SP-DE: Sky Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4170.ts
-#EXTINF:-1,SP-DE: Sky Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4166.ts
-#EXTINF:-1,SP-DE: Sky Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4167.ts
-#EXTINF:-1,SP-DE: Sky Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4164.ts
-#EXTINF:-1,SP-DE: Sky Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4162.ts
-#EXTINF:-1,SP-DE: Sky Sport Austria HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4172.ts
-#EXTINF:-1,SP-DE: SKY Sport News HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4173.ts
-#EXTINF:-1,SP-DE: SPORT1  HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4152.ts
-#EXTINF:-1,SP-DE:Sky Bundesliga 1 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4159.ts
-#EXTINF:-1,SP-DE:Sky Sport 2 BackUp
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4165.ts
-#EXTINF:-1,SP-ES: Canal  Futbol
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4125.ts
-#EXTINF:-1,SP-ES: Canal  Liga
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4127.ts
-#EXTINF:-1,SP-ES: Canal  Liga 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4126.ts
-#EXTINF:-1,SP-ES: REAL MADRID TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4124.ts
-#EXTINF:-1,SP-PT: Sport TV3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4131.ts
-#EXTINF:-1,SP-PT: Sporting TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4128.ts
-#EXTINF:-1,SP-PT: Sport TV 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4134.ts
-#EXTINF:-1,SP-PT: Sport TV 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4133.ts
-#EXTINF:-1,SP-PT: Sport TV 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4132.ts
-#EXTINF:-1,SP-PT: Sport TV 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4130.ts
-#EXTINF:-1,SP-PT: Sport TV 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4129.ts
-#EXTINF:-1,SP-PT: Sport TV1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4136.ts
-#EXTINF:-1,SP-PT: Sport TV2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4135.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4217.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4216.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4215.ts
-#EXTINF:-1,SP-AL: Kujtesa Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4214.ts
-#EXTINF:-1,SP-AL: RTSH Sport HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4212.ts
-#EXTINF:-1,SP-AL: Sport Kosova 1 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4224.ts
-#EXTINF:-1,SP-AL: Sport Kosova 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4223.ts
-#EXTINF:-1,SP-AL: SS Kosova 1 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4227.ts
-#EXTINF:-1,SP-AL: SS Kosova 2HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4226.ts
-#EXTINF:-1,SP-AL: Super Sport 1 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4237.ts
-#EXTINF:-1,SP-AL: Super Sport 1 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4242.ts
-#EXTINF:-1,SP-AL: Super Sport 2 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4236.ts
-#EXTINF:-1,SP-AL: Super Sport 2 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4241.ts
-#EXTINF:-1,SP-AL: Super Sport 3 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4235.ts
-#EXTINF:-1,SP-AL: Super Sport 3 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4239.ts
-#EXTINF:-1,SP-AL: Super Sport 4 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4234.ts
-#EXTINF:-1,SP-AL: Super Sport 4 HD -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4238.ts
-#EXTINF:-1,SP-AL: Super Sport 5 -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4233.ts
-#EXTINF:-1,SP-AL: Supersport 1 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4231.ts
-#EXTINF:-1,SP-AL: Supersport 2 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4230.ts
-#EXTINF:-1,SP-AL: Supersport 3 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4229.ts
-#EXTINF:-1,SP-AL: Supersport 4 (backup)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4228.ts
-#EXTINF:-1,SP-AL: SuperSport 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4232.ts
-#EXTINF:-1,SP-AL: SuperSport Kosova
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4225.ts
-#EXTINF:-1,SP-AL: Tele Sport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4213.ts
-#EXTINF:-1,SP-AL: Tibo Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4211.ts
-#EXTINF:-1,SP-AL: Tring Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4221.ts
-#EXTINF:-1,SP-AL: Tring Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4220.ts
-#EXTINF:-1,SP-AL: Tring Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4219.ts
-#EXTINF:-1,SP-AL: Tring Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4218.ts
-#EXTINF:-1,SP-AL: Tring Sport News HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4222.ts
-#EXTINF:-1,SP-AL:Super Sport 2 HD  -DIGITALB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4240.ts
-#EXTINF:-1,SP-AR: Mio STADIUM 101
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4149.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4031.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4030.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4029.ts
-#EXTINF:-1,SP-EX YU: SPORT KLUB 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4028.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4050.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4049.ts
-#EXTINF:-1,SP-EX-YU : SPORT KLUB 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4048.ts
-#EXTINF:-1,SP-EX-YU : Sportal TV HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4025.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 1 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4056.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 1 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4047.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 1 SRB (local)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4042.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 2 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4055.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 2 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4046.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 2 SRB (local)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4041.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 3 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4053.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 3 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4045.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 3 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4040.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 4 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4054.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 4 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4044.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 4 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4039.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 5 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4052.ts
-#EXTINF:-1,SP-EX-YU: Arena Sport 5 SRB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4043.ts
-#EXTINF:-1,SP-EX-YU: ARENA SPORT 5 SRB (reserve)
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4038.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 1 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4060.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 2 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4059.ts
-#EXTINF:-1,SP-EX-YU: Sport Klub 3 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4058.ts
-#EXTINF:-1,SP-EX-YU: SPORT KLUB 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4027.ts
-#EXTINF:-1,SP-EX-YU: SPORT KLUB 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4026.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 1 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4034.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 2 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4033.ts
-#EXTINF:-1,SP-EX-YU: SPORT TV 3 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4032.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 1 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4037.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 2 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4036.ts
-#EXTINF:-1,SP-EX-YU: SPORTKLUB 3 HD SLO
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4035.ts
-#EXTINF:-1,SP-Ex-Yu:Sport Klub 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4057.ts
-#EXTINF:-1,SP-EX:YU: ARENA SPORT 6 HR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4051.ts
-#EXTINF:-1,SP-NL: Fox Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4107.ts
-#EXTINF:-1,SP-NL: Fox Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4106.ts
-#EXTINF:-1,SP-NL: Ziggo Sport Extra 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4109.ts
-#EXTINF:-1,SP-NL: Ziggo Sport Extra 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4108.ts
-#EXTINF:-1,SP-RO: DIGI Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4024.ts
-#EXTINF:-1,SP-RO: DIGI Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4023.ts
-#EXTINF:-1,SP-RO: DIGI Sport 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4022.ts
-#EXTINF:-1,SP-SP: Astro Sports 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4018.ts
-#EXTINF:-1,SP-SP: Astro Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4017.ts
-#EXTINF:-1,SP-SP: Astro sports 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4016.ts
-#EXTINF:-1,SP-SP: Astro Sports 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4015.ts
-#EXTINF:-1,SP-SP: Bundesliga 3 (Only Live Matches) back up
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4156.ts
-#EXTINF:-1,SP-SP: Digi Sport 1 Hungary
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4020.ts
-#EXTINF:-1,SP-SP: Digi Sport 2 Hungary
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4019.ts
-#EXTINF:-1,SP-SP: Digi Sport 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4021.ts
-#EXTINF:-1,SP-SP: Dolce-Sport-2-HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4013.ts
-#EXTINF:-1,SP-SP: Fox Sports 1 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4105.ts
-#EXTINF:-1,SP-SP: Fox Sports 2 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4104.ts
-#EXTINF:-1,SP-SP: Fox Sports 3 Asia
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4103.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 102
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4148.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 103
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4147.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 104
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4146.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 105
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4145.ts
-#EXTINF:-1,SP-SP: Mio STADIUM 106
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4144.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4142.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4141.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4139.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4138.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4137.ts
-#EXTINF:-1,SP-SP: SKYNET SPORTS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4143.ts
-#EXTINF:-1,SP-SP:Dolce-Sport-1-HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4014.ts
-#EXTINF:-1,SP-SP:SKYNET SPORTS 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4140.ts
-#EXTINF:-1,SP-TR: A Spor HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4096.ts
-#EXTINF:-1,SP-TR: Lig TV 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4101.ts
-#EXTINF:-1,SP-TR: Lig TV 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4100.ts
-#EXTINF:-1,SP-TR: Lig TV 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4099.ts
-#EXTINF:-1,SP-TR: Lig TV 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4098.ts
-#EXTINF:-1,SP-TR: NTV Spor
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4097.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4095.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4094.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4093.ts
-#EXTINF:-1,SP-TR: TIVIBU SPORT 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4092.ts
-#EXTINF:-1,SP-US: ESPN 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4114.ts
-#EXTINF:-1,SP-USA: AFN Sports
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4117.ts
-#EXTINF:-1,SP-USA: AFN Sports 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4116.ts
-#EXTINF:-1,SP-USA: AFN Sports HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4118.ts
-#EXTINF:-1,SP-USA: FOX Sport 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4115.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4123.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4122.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4121.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4120.ts
-#EXTINF:-1,SP-USA: Tsn-Sport 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/4119.ts
-
-
-
-
-
-
-
-#EXTINF:-1,SKYSPORT 1
-http://11gb.gcdn.co/live/online/tv/1760.m3u8
-#EXTINF:-1,SKYSPORT 2
-http://11gb.gcdn.co/live/online/tv/1761.m3u8
-#EXTINF:-1,SKYSPORT 3
-http://11gb.gcdn.co/live/online/tv/1762.m3u8
-#EXTINF:-1,SKYSPORT 4
-http://11gb.gcdn.co/live/online/tv/1763.m3u8
-#EXTINF:-1,SKYSPORT 5
-http://11gb.gcdn.co/live/online/tv/1764.m3u8
-
-#EXTINF:-1,Sport 1 HD
-http://108.168.175.182:5000/live/103/103.m3u8
-#EXTINF:-1,Sport 2
-http://108.168.175.182:5000/live/279/279.m3u8
-#EXTINF:-1,Eurosport
-http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 
 #EXTM3U
-#EXTINF:-1, UK:Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports F1
-http://185.142.239.164:3135/F1/Sports/index.m3u8
-#EXTINF:-1, UK:Sky Sports news
-http://185.142.239.164:3135/News.Sports/index.m3u8
 #EXTINF:-1, UK:BT Sports 1
 http://185.142.239.164:3135/BT/1/index.m3u8
 #EXTINF:-1, UK:BT Sports 2
@@ -632,18 +68,86 @@ http://185.142.239.164:3135/Super/3/index.m3u8
 #EXTINF:-1, Super 4
 http://185.142.239.164:3135/Super/4/index.m3u8
 
-#EXTINF:-1,ESP 1
-http://109.175.6.68:4936/udp/239.0.1:1234?
-#EXTINF:-1,ESP 2
-http://109.175.6.68:4936/udp/239.0.2:1234?
-#EXTINF:-1,ARENA SPORT 2
-http://109.175.6.67:4936/udp/239.0.1.2:1234?
-#EXTINF:-1,ARENA SPORT 3
-http://109.175.6.67:4936/udp/239.0.1.3:1234?
-#EXTINF:-1,ARENA SPORT 4
-http://109.175.6.67:4936/udp/239.0.1.4:1234?
-#EXTINF:-1,ESP 2
-http://109.175.6.67:4936/udp/239.0.2:1234?
+#EXTM3U SPORTS
+#EXTINF:0,BoxNation
+http://185.22.78.72:9002/play/a032
+#EXTINF:0,BT Sport Extra 4
+http://185.22.78.72:9002/play/a02r
+#EXTINF:0,BT Sport//ESPN
+http://185.22.78.72:9002/play/a02x
+#EXTINF:0,BT Sport Extra 6
+http://185.22.78.72:9002/play/a02t
+#EXTINF:0,BT Sport Extra 3
+http://185.22.78.72:9002/play/a02q
+#EXTINF:0,BT Sport Extra 2
+http://185.22.78.72:9002/play/a02p
+#EXTINF:0,BT Sport Extra 5
+http://185.22.78.72:9002/play/a02s
+#EXTINF:0,Motorsport TV
+http://185.22.78.72:9002/play/a02v
+#EXTINF:0,BT Sport 2
+http://185.22.78.72:9002/play/a02y
+#EXTINF:0,STV
+http://185.22.78.72:9003/play/a02s
+#EXTINF:0,talkSPORT
+http://185.22.78.72:9003/play/a02q
+#EXTINF:-1,TELESPORT
+http://109.104.129.196:8001/play/s47
+#EXTINF:-1,03 МАТЧ!
+http://87.226.169.42:5000/play/a00s
+#EXTINF:0,Eurosport 2
+http://195.228.11.88:4080/udp/225.255.255.25:10000
+#EXTINF:0,EURO SPORTS
+http://183.88.212.205:8010/play/a00d
+#EXTINF:0,FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m
+#EXTINF:0,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:0,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
+#EXTINF:0,SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r
+#EXTINF:0,SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k
+#EXTINF:0,SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l
+#EXTINF:0,SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a
+#EXTINF:0,SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b
+#EXTINF:0,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g
+#EXTINF:0,FOX SPORTS NEWS
+http://183.88.212.205:8010/play/a022
+#EXTINF:17700,Eurosport
+http://91.224.178.9:5000/11
+#EXTM3U
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+#EXTM3U
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+
+#EXTM3U
+#EXTINF:-1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Superport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTM3U
 #EXTINF:0,Eurosport 2
