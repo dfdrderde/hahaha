@@ -34,6 +34,64 @@ http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
 #EXTINF:-1,bein 10
 http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 
+
+
+#EXTINF:-1,BEIN SPORTS News (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8300.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6959.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6960.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6961.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6962.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6963.ts
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6964.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6965.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6966.ts
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6967.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6968.ts
+#EXTINF:-1,BEIN SPORTS 11 (English)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8298.ts
+#EXTINF:-1,BEIN SPORTS 13 (English)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8297.ts
+#EXTINF:-1,BEIN SPORTS 14 (France)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8296.ts
+#EXTINF:-1,BEIN SPORTS 15 (France)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8295.ts
+#EXTINF:-1,BEIN SPORTS 16 (France)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8294.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8303.ts
+#EXTINF:-1,BEIN SPORTS Max 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15383.ts
+#EXTINF:-1,BEIN SPORTS Max 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15384.ts
+#EXTINF:-1,BEIN SPORTS Max 3
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15385.ts
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1, UK:BT Sports 1
 http://185.142.239.164:3135/BT/1/index.m3u8
