@@ -3,391 +3,144 @@ http://91.121.58.28:6060
 
 
 
-
-
-
-
-#EXTINF:-1,bein 1
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-#EXTINF:-1,bein 2
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
-#EXTINF:-1,bein 3
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
-#EXTINF:-1,bein 4
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
-#EXTINF:-1,bein 5
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
-#EXTINF:-1,bein 6
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
-#EXTINF:-1,bein 7
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
-#EXTINF:-1,bein 8
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
-#EXTINF:-1,bein 9
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
-#EXTINF:-1,bein 10
-http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
-
-
-#EXTM3U SPORTS
-#EXTINF:0,BoxNation
-http://185.22.78.72:9002/play/a032
-#EXTINF:0,BT Sport Extra 4
-http://185.22.78.72:9002/play/a02r
-#EXTINF:0,BT Sport//ESPN
-http://185.22.78.72:9002/play/a02x
-#EXTINF:0,BT Sport Extra 6
-http://185.22.78.72:9002/play/a02t
-#EXTINF:0,BT Sport Extra 3
-http://185.22.78.72:9002/play/a02q
-#EXTINF:0,BT Sport Extra 2
-http://185.22.78.72:9002/play/a02p
-#EXTINF:0,BT Sport Extra 5
-http://185.22.78.72:9002/play/a02s
-#EXTINF:0,Motorsport TV
-http://185.22.78.72:9002/play/a02v
-#EXTINF:0,BT Sport 2
-http://185.22.78.72:9002/play/a02y
-#EXTINF:0,STV
-http://185.22.78.72:9003/play/a02s
-#EXTINF:0,talkSPORT
-http://185.22.78.72:9003/play/a02q
-#EXTINF:-1,TELESPORT
-http://109.104.129.196:8001/play/s47
-#EXTINF:-1,03 МАТЧ!
-http://87.226.169.42:5000/play/a00s
-#EXTINF:0,Eurosport 2
-http://195.228.11.88:4080/udp/225.255.255.25:10000
-#EXTINF:0,EURO SPORTS
-http://183.88.212.205:8010/play/a00d
-#EXTINF:0,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:0,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:0,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-#EXTINF:0,SKYNET SPORTS HD
-http://183.88.212.205:8010/play/a00r
-#EXTINF:0,SKYNET SPORTS-2
-http://183.88.212.205:8010/play/a02k
-#EXTINF:0,SKYNET SPORTS-3
-http://183.88.212.205:8010/play/a02l
-#EXTINF:0,SKYNET SPORTS-4
-http://183.88.212.205:8010/play/a00a
-#EXTINF:0,SKYNET SPORTS-5
-http://183.88.212.205:8010/play/a00b
-#EXTINF:0,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g
-#EXTINF:0,FOX SPORTS NEWS
-http://183.88.212.205:8010/play/a022
-#EXTINF:17700,Eurosport
-http://91.224.178.9:5000/11
-
-
-
-
-
-
-
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4029.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/50.ts
-#EXTINF:-1,beIN SPORTS 1HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4039.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/49.ts
-#EXTINF:-1,beIN SPORTS 2HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4038.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/48.ts
-#EXTINF:-1,beIN SPORTS 3HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4037.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/47.ts
-#EXTINF:-1,beIN SPORTS 4HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4036.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/46.ts
-#EXTINF:-1,beIN SPORTS 5HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4035.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/45.ts
-#EXTINF:-1,beIN SPORTS 6HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4034.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/44.ts
-#EXTINF:-1,beIN SPORTS 7HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4033.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/43.ts
-#EXTINF:-1,beIN SPORTS 8HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4032.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/42.ts
-#EXTINF:-1,beIN SPORTS 9HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4031.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/41.ts
-#EXTINF:-1,beIN SPORTS 10HD 4.MB
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4030.ts
-#EXTINF:-1,beIN SPORTS 11HD EN
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/40.ts
-#EXTINF:-1,beIN SPORTS 12HD EN
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/39.ts
-#EXTINF:-1,beIN SPORTS 13HD EN
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/38.ts
-#EXTINF:-1,beIN SPORTS 14HD FR
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/37.ts
-#EXTINF:-1,beIN SPORTS NBA
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/28.ts
-#EXTINF:-1,beIN MAX 1HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2626.ts
-#EXTINF:-1,beIN MAX 2HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2627.ts
-
-#EXTINF:-1,AR | AD Sports 1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/948.ts
-#EXTINF:-1,AR | AD Sports 2 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/937.ts
-#EXTINF:-1,OSN AD Sport 3 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/116.ts
-#EXTINF:-1,OSN AD Sport 4 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/94.ts
-#EXTINF:-1,OSN AD Sport 5 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/84.ts
-#EXTINF:-1,OSN AD Sport 6 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/58.ts
-#EXTINF:-1,AR | MBC PRO SPORT 1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/421.ts
-#EXTINF:-1,AR | MBC PRO SPORT 2 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/420.ts
-#EXTINF:-1,AR | MBC PRO SPORT 3 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/419.ts
-#EXTINF:-1,||||||||  ( OSN Sport )  ||||||||
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/610.ts
-#EXTINF:-1,OSN Sport 1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/104.ts
-#EXTINF:-1,OSN Sport 2HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/103.ts
-#EXTINF:-1,OSN Sport 3HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/102.ts
-#EXTINF:-1,OSN Sport 4HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/101.ts
-#EXTINF:-1,OSN WWE Network HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/83.ts
-#EXTINF:-1,OSN Sports Cricket HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/105.ts
-#EXTINF:-1,OSN Ten Cricket International
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/106.ts
-
-
-#EXTINF:-1,UK | Sky Sports 1
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2298.ts
-#EXTINF:-1,UK | Sky Sports 1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/229.ts
-#EXTINF:-1,UK | Sky Sports 2
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2299.ts
-#EXTINF:-1,UK | Sky Sports 2 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/228.ts
-#EXTINF:-1,UK | Sky Sports 3
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2300.ts
-#EXTINF:-1,UK | Sky Sports 3 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/227.ts
-#EXTINF:-1,UK | Sky Sports 4
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2301.ts
-#EXTINF:-1,UK | Sky Sports 4 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/226.ts
-#EXTINF:-1,UK | Sky Sports 5
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2302.ts
-#EXTINF:-1,UK | Sky Sports 5 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/225.ts
-#EXTINF:-1,UK | Sky Sports F1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/224.ts
-#EXTINF:-1,UK | Sky Sports Mix
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2303.ts
-#EXTINF:-1,UK | Sky Sp News HQ
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/223.ts
-#EXTINF:-1,UK | Sky Sp News HQ Backup
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2297.ts
-#EXTINF:-1,UK | BT Sport 1HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/251.ts
-#EXTINF:-1,UK | BT Sport 2HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/250.ts
-#EXTINF:-1,UK | BT Sport 3HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/249.ts
-#EXTINF:-1,UK | BT Sport ESPN HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/247.ts
-#EXTINF:-1,UK | BT Sport EUROPE HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/248.ts
-#EXTINF:-1,UK | BT Sports Extra 1
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/243.ts
-#EXTINF:-1,UK | MUTV HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/242.ts
-#EXTINF:-1,UK | Chelsea TV HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/240.ts
-#EXTINF:-1,UK | LIVERPOOL TV
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/241.ts
-#EXTINF:-1,UK | PREMIER SPORTS HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2278.ts
-#EXTINF:-1,UK | Racing UK
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/236.ts
-#EXTINF:-1,UK | Fox Sports1 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/233.ts
-#EXTINF:-1,UK | SKY Fox Sports2 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/232.ts
-#EXTINF:-1,UK | SKY Fox Sports3 HD
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/231.ts
-#EXTINF:-1,UK | eir Sports 1
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2249.ts
-#EXTINF:-1,UK | eir Sports 2
-http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2250.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,BeinSport-Low_1
-http://xtream.hopto.me:9000/live/9/9/2315.ts
-#EXTINF:-1,BeinSport-Low_2
-http://xtream.hopto.me:9000/live/9/9/2316.ts
-#EXTINF:-1,BeinSport-Low_3
-http://xtream.hopto.me:9000/live/9/9/2317.ts
-#EXTINF:-1,BeinSport-Low_4
-http://xtream.hopto.me:9000/live/9/9/2318.ts
-#EXTINF:-1,BeinSport-Low_5
-http://xtream.hopto.me:9000/live/9/9/2319.ts
-#EXTINF:-1,BeinSport-Low_6
-http://xtream.hopto.me:9000/live/9/9/2320.ts
-#EXTINF:-1,BeinSport-Low_7
-http://xtream.hopto.me:9000/live/9/9/2321.ts
-#EXTINF:-1,BeinSport-Low_8
-http://xtream.hopto.me:9000/live/9/9/2322.ts
-#EXTINF:-1,BeinSport-Low_9
-http://xtream.hopto.me:9000/live/9/9/2323.ts
-#EXTINF:-1,BeinSport-Low_10
-http://xtream.hopto.me:9000/live/9/9/2324.ts
-#EXTINF:-1,BEIN-SPORT.HD.1
-http://xtream.hopto.me:9000/live/9/9/4420.ts
-#EXTINF:-1,BEIN-SPORT.HD.2
-http://xtream.hopto.me:9000/live/9/9/4421.ts
-#EXTINF:-1,BEIN-SPORT.HD.3
-http://xtream.hopto.me:9000/live/9/9/4422.ts
-#EXTINF:-1,BEIN-SPORT.HD.4
-http://xtream.hopto.me:9000/live/9/9/4423.ts
-#EXTINF:-1,BEIN-SPORT.HD.5
-http://xtream.hopto.me:9000/live/9/9/4424.ts
-#EXTINF:-1,BEIN-SPORT.HD.6
-http://xtream.hopto.me:9000/live/9/9/4425.ts
-#EXTINF:-1,BEIN-SPORT.HD.7
-http://xtream.hopto.me:9000/live/9/9/4426.ts
-#EXTINF:-1,BEIN-SPORT.HD.8
-http://xtream.hopto.me:9000/live/9/9/4427.ts
-#EXTINF:-1,BEIN-SPORT.HD.9
-http://xtream.hopto.me:9000/live/9/9/4428.ts
-#EXTINF:-1,BEIN-SPORT.HD.10
-http://xtream.hopto.me:9000/live/9/9/4429.ts
-#EXTINF:-1,BeinSports.1.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10251.ts
-#EXTINF:-1,BeinSports.2.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10250.ts
-#EXTINF:-1,BeinSports.3.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10249.ts
-#EXTINF:-1,BeinSports.4.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10248.ts
-#EXTINF:-1,BeinSports.5.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10247.ts
-#EXTINF:-1,BeinSports.6.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10246.ts
-#EXTINF:-1,BeinSports.7.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10245.ts
-#EXTINF:-1,BeinSports.8.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10244.ts
-#EXTINF:-1,BeinSports.9.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10243.ts
-#EXTINF:-1,BeinSports.10.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/10242.ts
-#EXTINF:-1,BeinSports.11.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/2297.ts
-#EXTINF:-1,BeinSports.12.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/2298.ts
-#EXTINF:-1,BeinSports.13.FULL.HD
-http://xtream.hopto.me:9000/live/9/9/11097.ts
-#EXTINF:-1,BeinSport-SD1
-http://xtream.hopto.me:9000/live/9/9/2287.ts
-#EXTINF:-1,BeinSport-SD2
-http://xtream.hopto.me:9000/live/9/9/2288.ts
-#EXTINF:-1,BeinSport-SD3
-http://xtream.hopto.me:9000/live/9/9/2289.ts
-#EXTINF:-1,BeinSport-SD4
-http://xtream.hopto.me:9000/live/9/9/2290.ts
-#EXTINF:-1,BeinSport-SD5
-http://xtream.hopto.me:9000/live/9/9/2291.ts
-#EXTINF:-1,BeinSport-SD6
-http://xtream.hopto.me:9000/live/9/9/2292.ts
-#EXTINF:-1,BeinSport-SD7
-http://xtream.hopto.me:9000/live/9/9/2293.ts
-#EXTINF:-1,BeinSport-SD8
-http://xtream.hopto.me:9000/live/9/9/2294.ts
-#EXTINF:-1,BeinSport-SD9
-http://xtream.hopto.me:9000/live/9/9/2295.ts
-#EXTINF:-1,BeinSport-SD10
-http://xtream.hopto.me:9000/live/9/9/2296.ts
-#EXTINF:-1,BeinSport-HD1 Local
-http://xtream.hopto.me:9000/live/9/9/2325.ts
-#EXTINF:-1,BeinSport-HD2 Local
-http://xtream.hopto.me:9000/live/9/9/2326.ts
-#EXTINF:-1,BeinSport-HD3 Local
-http://xtream.hopto.me:9000/live/9/9/2327.ts
-#EXTINF:-1,BeinSport-HD4 Local
-http://xtream.hopto.me:9000/live/9/9/2328.ts
-#EXTINF:-1,BeinSport-HD5 Local
-http://xtream.hopto.me:9000/live/9/9/2329.ts
-#EXTINF:-1,BeinSport-HD6 Local
-http://xtream.hopto.me:9000/live/9/9/2330.ts
-#EXTINF:-1,BeinSport-HD7 Local
-http://xtream.hopto.me:9000/live/9/9/2331.ts
-#EXTINF:-1,BeinSport-HD8 Local
-http://xtream.hopto.me:9000/live/9/9/2332.ts
-#EXTINF:-1,BeinSport-HD9 Local
-http://xtream.hopto.me:9000/live/9/9/2333.ts
-#EXTINF:-1,BeinSport-HD10 Local
-http://xtream.hopto.me:9000/live/9/9/2334.ts
-#EXTINF:-1,BeinSport-Free-HD Local
-http://xtream.hopto.me:9000/live/9/9/2299.ts
-#EXTINF:-1,BeinSport-News-HD Local
-http://xtream.hopto.me:9000/live/9/9/2335.ts
-#EXTINF:-1,BEIN_SPORTS_LIG_TV1
-http://xtream.hopto.me:9000/live/9/9/4351.ts
-#EXTINF:-1,BEIN_SPORTS_LIG_TV2
-http://xtream.hopto.me:9000/live/9/9/4352.ts
-#EXTINF:-1,BEIN_SPORTS_LIG_TV3
-http://xtream.hopto.me:9000/live/9/9/4353.ts
-
-
-
-
+#EXTINF:-1,BeinSport_1_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/36.ts
+#EXTINF:-1,BeinSport_2_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/37.ts
+#EXTINF:-1,BeinSport_3_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/38.ts
+#EXTINF:-1,BeinSport_4_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/39.ts
+#EXTINF:-1,BeinSport_5_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/40.ts
+#EXTINF:-1,BeinSport_6_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/41.ts
+#EXTINF:-1,BeinSport_7_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/42.ts
+#EXTINF:-1,BeinSport_8_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/43.ts
+#EXTINF:-1,BeinSport_9_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/44.ts
+#EXTINF:-1,BeinSport_10_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/45.ts
+#EXTINF:-1,BeinSport_11_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/587.ts
+#EXTINF:-1,BeinSport_12_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/588.ts
+#EXTINF:-1,BeinSport_News_HD
+http://tvdreams.org:50100/live/fadi/fadi/749.ts
+#EXTINF:-1,BeinSport_1_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2633.ts
+#EXTINF:-1,BeinSport_2_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2632.ts
+#EXTINF:-1,BeinSport_3_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2631.ts
+#EXTINF:-1,BeinSport_4_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2630.ts
+#EXTINF:-1,BeinSport_5_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2629.ts
+#EXTINF:-1,BeinSport_6_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2628.ts
+#EXTINF:-1,BeinSport_7_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2627.ts
+#EXTINF:-1,BeinSport_8_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2626.ts
+#EXTINF:-1,BeinSport_9_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2625.ts
+#EXTINF:-1,BeinSport_10_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2624.ts
+#EXTINF:-1,BeinSport_11_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2623.ts
+#EXTINF:-1,BeinSport_12_SD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/2622.ts
+#EXTINF:-1,BeinSport_1_FR_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/992.ts
+#EXTINF:-1,BeinSport_2_FR_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/993.ts
+#EXTINF:-1,BeinSport_3_FR_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/994.ts
+#EXTINF:-1,BeinSport_1_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/48.ts
+#EXTINF:-1,BeinSport_2_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/49.ts
+#EXTINF:-1,BeinSport_3_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/50.ts
+#EXTINF:-1,BeinSport_4_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/51.ts
+#EXTINF:-1,BeinSport_5_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/52.ts
+#EXTINF:-1,BeinSport_6_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/53.ts
+#EXTINF:-1,BeinSport_7_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/54.ts
+#EXTINF:-1,BeinSport_8_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/55.ts
+#EXTINF:-1,BeinSport_9_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/56.ts
+#EXTINF:-1,BeinSport_10_HD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/57.ts
+#EXTINF:-1,BeinSport_1_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/58.ts
+#EXTINF:-1,BeinSport_2_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/59.ts
+#EXTINF:-1,BeinSport_3_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/60.ts
+#EXTINF:-1,BeinSport_4_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/61.ts
+#EXTINF:-1,BeinSport_5_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/62.ts
+#EXTINF:-1,BeinSport_6_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/63.ts
+#EXTINF:-1,BeinSport_7_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/64.ts
+#EXTINF:-1,BeinSport_8_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/65.ts
+#EXTINF:-1,BeinSport_9_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/66.ts
+#EXTINF:-1,BeinSport_10_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/67.ts
+#EXTINF:-1,BeinSport_11_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/982.ts
+#EXTINF:-1,BeinSport_12_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/983.ts
+#EXTINF:-1,BeinSport_1_FR_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/771.ts
+#EXTINF:-1,BeinSport_3_FR_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/773.ts
+#EXTINF:-1,BeinSport_2_FR_HD_FULL_3
+http://tvdreams.org:50100/live/fadi/fadi/772.ts
+#EXTINF:-1,BeinSport_1_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/68.ts
+#EXTINF:-1,BeinSport_2_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/69.ts
+#EXTINF:-1,BeinSport_3_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/70.ts
+#EXTINF:-1,BeinSport_4_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/71.ts
+#EXTINF:-1,BeinSport_5_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/72.ts
+#EXTINF:-1,BeinSport_6_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/73.ts
+#EXTINF:-1,BeinSport_7_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/74.ts
+#EXTINF:-1,BeinSport_8_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/75.ts
+#EXTINF:-1,BeinSport_9_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/76.ts
+#EXTINF:-1,BeinSport_10_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/77.ts
+#EXTINF:-1,BeinSport_11_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/727.ts
+#EXTINF:-1,BeinSport_12_SD_FULL_2
+http://tvdreams.org:50100/live/fadi/fadi/726.ts
+#EXTINF:-1,Bein-Movies_1_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/46.ts
+#EXTINF:-1,Bein-Movies_2_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/47.ts
+#EXTINF:-1,Bein-Movies_3_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/878.ts
+#EXTINF:-1,Bein-Movies_4_HD_FULL_1
+http://tvdreams.org:50100/live/fadi/fadi/1088.ts
 
 
 
