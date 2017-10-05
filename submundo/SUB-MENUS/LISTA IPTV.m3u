@@ -262,371 +262,277 @@ http://381.ts
 
 
 
-
-
-#EXTM3U
-#EXTINF:-1,RTP 1
+#EXTINF:-1,PT RTP 1
 http://www.painelpro.net:8000/live/Vagner/Vagner/4399.ts
-#EXTINF:-1,RTP1 HQ  (NET FRACA)
+#EXTINF:-1,PT RTP1 HQ  (NET FRACA)
 http://www.painelpro.net:8000/live/Vagner/Vagner/4683.ts
-#EXTINF:-1,RTP 2
+#EXTINF:-1,PT RTP 2
 http://www.painelpro.net:8000/live/Vagner/Vagner/4398.ts
-#EXTINF:-1,RTP 2 HD
+#EXTINF:-1,PT RTP 2 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4684.ts
-#EXTINF:-1,SIC
+#EXTINF:-1,PT SIC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4396.ts
-#EXTINF:-1,SIC HQ  (NET FRACA)
+#EXTINF:-1,PT SIC HQ  (NET FRACA)
 http://www.painelpro.net:8000/live/Vagner/Vagner/4685.ts
-#EXTINF:-1,TVI
+#EXTINF:-1,PT TVI
 http://www.painelpro.net:8000/live/Vagner/Vagner/4395.ts
-#EXTINF:-1,TVI HQ  (NET FRACA)
+#EXTINF:-1,PT TVI HQ  (NET FRACA)
 http://www.painelpro.net:8000/live/Vagner/Vagner/4686.ts
-#EXTINF:-1,SIC NOTICIAS
+#EXTINF:-1,PT SIC NOTICIAS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4393.ts
-#EXTINF:-1,SIC NOTICIAS HD
+#EXTINF:-1,PT SIC NOTICIAS HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6237.ts
-#EXTINF:-1,TVI 24
+#EXTINF:-1,PT TVI 24
 http://www.painelpro.net:8000/live/Vagner/Vagner/4392.ts
-#EXTINF:-1,CMTV
+#EXTINF:-1,PT CMTV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4394.ts
-#EXTINF:-1,CMTV HQ  (NET FRACA)
+#EXTINF:-1,PT CMTV HQ  (NET FRACA)
 http://www.painelpro.net:8000/live/Vagner/Vagner/5096.ts
-#EXTINF:-1,RTP 3
+#EXTINF:-1,PT RTP 3
 http://www.painelpro.net:8000/live/Vagner/Vagner/4397.ts
-#EXTINF:-1,TVI FICCAO
+#EXTINF:-1,PT TVI FICCAO
 http://www.painelpro.net:8000/live/Vagner/Vagner/4391.ts
-#EXTINF:-1,TVI REALITY
+#EXTINF:-1,PT TVI REALITY
 http://www.painelpro.net:8000/live/Vagner/Vagner/4390.ts
-#EXTINF:-1,MOSAICO
+#EXTINF:-1,PT MOSAICO
 http://www.painelpro.net:8000/live/Vagner/Vagner/7252.ts
-#EXTINF:-1,Camera 1
+#EXTINF:-1,PT Camera 1
 http://www.painelpro.net:8000/live/Vagner/Vagner/7253.ts
-#EXTINF:-1,Camera 2
+#EXTINF:-1,PT Camera 2
 http://www.painelpro.net:8000/live/Vagner/Vagner/7256.ts
-#EXTINF:-1,Camera 3
+#EXTINF:-1,PT Camera 3
 http://www.painelpro.net:8000/live/Vagner/Vagner/7254.ts
-#EXTINF:-1,Camera 4
+#EXTINF:-1,PT Camera 4
 http://www.painelpro.net:8000/live/Vagner/Vagner/7255.ts
-#EXTINF:-1,RTL LUXEMBOURG
+#EXTINF:-1,PT RTL LUXEMBOURG
 http://www.painelpro.net:8000/live/Vagner/Vagner/4629.ts
-#EXTINF:-1,SVT NOTICIAS
+#EXTINF:-1,PT SVT NOTICIAS
 http://www.painelpro.net:8000/live/Vagner/Vagner/7374.ts
-#EXTINF:-1,CANAL 1 EUROPA
+#EXTINF:-1,PT CANAL 1 EUROPA
 http://www.painelpro.net:8000/live/Vagner/Vagner/7373.ts
-#EXTINF:-1,GLOBO
+#EXTINF:-1,PT GLOBO
 http://www.painelpro.net:8000/live/Vagner/Vagner/4389.ts
-#EXTINF:-1,GLOBO PREMIUM
+#EXTINF:-1,PT GLOBO PREMIUM
 http://www.painelpro.net:8000/live/Vagner/Vagner/4388.ts
-#EXTINF:-1,globo int europa
+#EXTINF:-1,PT globo int europa
 http://www.painelpro.net:8000/live/Vagner/Vagner/7356.ts
-#EXTINF:-1,TV RECORD
+#EXTINF:-1,PT TV RECORD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4387.ts
-#EXTINF:-1,SIC MULHER
+#EXTINF:-1,PT SIC MULHER
 http://www.painelpro.net:8000/live/Vagner/Vagner/4386.ts
-#EXTINF:-1,SIC CARAS
+#EXTINF:-1,PT SIC CARAS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4385.ts
-#EXTINF:-1,SIC CARAS HD
+#EXTINF:-1,PT SIC CARAS HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6236.ts
-#EXTINF:-1,SIC RADICAL
+#EXTINF:-1,PT SIC RADICAL
 http://www.painelpro.net:8000/live/Vagner/Vagner/4384.ts
-#EXTINF:-1,SIC RADICAL HD
+#EXTINF:-1,PT SIC RADICAL HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6238.ts
-#EXTINF:-1,PORTO CANAL
+#EXTINF:-1,PT PORTO CANAL
 http://www.painelpro.net:8000/live/Vagner/Vagner/4383.ts
-#EXTINF:-1,RTP MEMORIA
+#EXTINF:-1,PT RTP MEMORIA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4381.ts
-#EXTINF:-1,RTP AFRICA
+#EXTINF:-1,PT RTP AFRICA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4380.ts
-#EXTINF:-1,RTP MADEIRA
+#EXTINF:-1,PT RTP MADEIRA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4379.ts
-#EXTINF:-1,RTP ACORES
+#EXTINF:-1,PT RTP ACORES
 http://www.painelpro.net:8000/live/Vagner/Vagner/4378.ts
-#EXTINF:-1,SPORT TV +
+#EXTINF:-1,PT SPORT TV +
 http://www.painelpro.net:8000/live/Vagner/Vagner/4377.ts
-#EXTINF:-1,SPORT TV 1
+#EXTINF:-1,PT SPORT TV 1
 http://www.painelpro.net:8000/live/Vagner/Vagner/4376.ts
-#EXTINF:-1,SPORT TV 2
+#EXTINF:-1,PT SPORT TV 2
 http://www.painelpro.net:8000/live/Vagner/Vagner/4374.ts
-#EXTINF:-1,SPORT TV 3
+#EXTINF:-1,PT SPORT TV 3
 http://www.painelpro.net:8000/live/Vagner/Vagner/4372.ts
-#EXTINF:-1,SPORT TV 4
+#EXTINF:-1,PT SPORT TV 4
 http://www.painelpro.net:8000/live/Vagner/Vagner/4370.ts
-#EXTINF:-1,SPORT TV 5
+#EXTINF:-1,PT SPORT TV 5
 http://www.painelpro.net:8000/live/Vagner/Vagner/4369.ts
-#EXTINF:-1,SPORT TV 1 HQ
+#EXTINF:-1,PT SPORT TV 1 HQ
 http://www.painelpro.net:8000/live/Vagner/Vagner/5036.ts
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:-1,PT SPORT TV 1 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4375.ts
-#EXTINF:-1,SPORT TV 1 FULL HD
+#EXTINF:-1,PT SPORT TV 1 FULL HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6314.ts
-#EXTINF:-1,SPORT TV 2 HD
+#EXTINF:-1,PT SPORT TV 2 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4373.ts
-#EXTINF:-1,SPORT TV 3 HD
+#EXTINF:-1,PT SPORT TV 3 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4371.ts
-#EXTINF:-1,SPORT TV 4 HD
+#EXTINF:-1,PT SPORT TV 4 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4692.ts
-#EXTINF:-1,SPORT TV 5 HD
+#EXTINF:-1,PT SPORT TV 5 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6245.ts
-#EXTINF:-1,BTV 1
+#EXTINF:-1,PT BTV 1
 http://www.painelpro.net:8000/live/Vagner/Vagner/4368.ts
-#EXTINF:-1,BTV 1 HQ
+#EXTINF:-1,PT BTV 1 HQ
 http://www.painelpro.net:8000/live/Vagner/Vagner/5037.ts
-#EXTINF:-1,BTV 1 HD
+#EXTINF:-1,PT BTV 1 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4367.ts
-#EXTINF:-1,A BOLA TV
+#EXTINF:-1,PT A BOLA TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4366.ts
-#EXTINF:-1,NBA
+#EXTINF:-1,PT NBA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4365.ts
-#EXTINF:-1,KOMBAT SPORTS
+#EXTINF:-1,PT KOMBAT SPORTS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4687.ts
-#EXTINF:-1,FIGHT NETWORK HD
+#EXTINF:-1,PT FIGHT NETWORK HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4364.ts
-#EXTINF:-1,MOTORISION
+#EXTINF:-1,PT MOTORISION
 http://www.painelpro.net:8000/live/Vagner/Vagner/4363.ts
-#EXTINF:-1,MOTORS TV
+#EXTINF:-1,PT MOTORS TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4362.ts
-#EXTINF:-1,SPORTING TV
+#EXTINF:-1,PT SPORTING TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4361.ts
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1,PT REAL MADRID TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4360.ts
-#EXTINF:-1,EUROSPORT
+#EXTINF:-1,PT EUROSPORT
 http://www.painelpro.net:8000/live/Vagner/Vagner/4359.ts
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:-1,PT EUROSPORT 2
 http://www.painelpro.net:8000/live/Vagner/Vagner/4356.ts
-#EXTINF:-1,TOROS TV
+#EXTINF:-1,PT TOROS TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4352.ts
-#EXTINF:-1,TVCINE 1
+#EXTINF:-1,PT TVCINE 1
 http://www.painelpro.net:8000/live/Vagner/Vagner/4350.ts
-#EXTINF:-1,TVCINE 2
+#EXTINF:-1,PT TVCINE 2
 http://www.painelpro.net:8000/live/Vagner/Vagner/4349.ts
-#EXTINF:-1,TVCINE 3
+#EXTINF:-1,PT TVCINE 3
 http://www.painelpro.net:8000/live/Vagner/Vagner/4348.ts
-#EXTINF:-1,TVCINE 4
+#EXTINF:-1,PT TVCINE 4
 http://www.painelpro.net:8000/live/Vagner/Vagner/4347.ts
-#EXTINF:-1,TVCINE 1 HD
+#EXTINF:-1,PT TVCINE 1 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4346.ts
-#EXTINF:-1,TVCINE 2 HD
+#EXTINF:-1,PT TVCINE 2 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4345.ts
-#EXTINF:-1,TVCINE 3 HD
+#EXTINF:-1,PT TVCINE 3 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4344.ts
-#EXTINF:-1,TVCINE 4 HD
+#EXTINF:-1,PT TVCINE 4 HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4343.ts
-#EXTINF:-1,TV SERIES
+#EXTINF:-1,PT TV SERIES
 http://www.painelpro.net:8000/live/Vagner/Vagner/4342.ts
-#EXTINF:-1,TV SERIES HD
+#EXTINF:-1,PT TV SERIES HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4341.ts
-#EXTINF:-1,CINEMUNDO
+#EXTINF:-1,PT CINEMUNDO
 http://www.painelpro.net:8000/live/Vagner/Vagner/4340.ts
-#EXTINF:-1,FOX MOVIES
+#EXTINF:-1,PT FOX MOVIES
 http://www.painelpro.net:8000/live/Vagner/Vagner/4339.ts
-#EXTINF:-1,AMC HD
+#EXTINF:-1,PT AMC HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/6230.ts
-#EXTINF:-1,AMC
+#EXTINF:-1,PT AMC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4337.ts
-#EXTINF:-1,HOLLYWOOD
+#EXTINF:-1,PT HOLLYWOOD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4336.ts
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:-1,PT HOLLYWOOD HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4335.ts
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1,PT FOX LIFE HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4333.ts
-#EXTINF:-1,FOX HD
+#EXTINF:-1,PT FOX HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4332.ts
-#EXTINF:-1,FOX COMEDY
+#EXTINF:-1,PT FOX COMEDY
 http://www.painelpro.net:8000/live/Vagner/Vagner/4331.ts
-#EXTINF:-1,FOX CRIME HD
+#EXTINF:-1,PT FOX CRIME HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4330.ts
-#EXTINF:-1,CRIME & INVESTIGATION
+#EXTINF:-1,PT CRIME & INVESTIGATION
 http://www.painelpro.net:8000/live/Vagner/Vagner/6231.ts
-#EXTINF:-1,AXN HD
+#EXTINF:-1,PT AXN HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4329.ts
-#EXTINF:-1,AXN BLACK HD
+#EXTINF:-1,PT AXN BLACK HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4328.ts
-#EXTINF:-1,AXN WHITE HD
+#EXTINF:-1,PT AXN WHITE HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4327.ts
-#EXTINF:-1,SYFY
+#EXTINF:-1,PT SYFY
 http://www.painelpro.net:8000/live/Vagner/Vagner/4326.ts
-#EXTINF:-1,CANAL PANDA
+#EXTINF:-1,PT CANAL PANDA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4310.ts
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1,PT DISNEY JUNIOR
 http://www.painelpro.net:8000/live/Vagner/Vagner/4308.ts
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1,PT DISNEY CHANNEL
 http://www.painelpro.net:8000/live/Vagner/Vagner/4309.ts
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,PT CARTOON NETWORK
 http://www.painelpro.net:8000/live/Vagner/Vagner/4307.ts
-#EXTINF:-1,BABY TV
+#EXTINF:-1,PT BABY TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4306.ts
-#EXTINF:-1,BABY FIRST
+#EXTINF:-1,PT BABY FIRST
 http://www.painelpro.net:8000/live/Vagner/Vagner/4302.ts
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1,PT NICKELODEON
 http://www.painelpro.net:8000/live/Vagner/Vagner/4305.ts
-#EXTINF:-1,JIM JAM
+#EXTINF:-1,PT JIM JAM
 http://www.painelpro.net:8000/live/Vagner/Vagner/4303.ts
-#EXTINF:-1,BIGGS
+#EXTINF:-1,PT BIGGS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4304.ts
-#EXTINF:-1,SIC K
+#EXTINF:-1,PT SIC K
 http://www.painelpro.net:8000/live/Vagner/Vagner/4301.ts
-#EXTINF:-1,TLC
+#EXTINF:-1,PT TLC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4325.ts
-#EXTINF:-1,CBS REALITY
+#EXTINF:-1,PT CBS REALITY
 http://www.painelpro.net:8000/live/Vagner/Vagner/4324.ts
-#EXTINF:-1,E! ENTERTAINMENT
+#EXTINF:-1,PT E! ENTERTAINMENT
 http://www.painelpro.net:8000/live/Vagner/Vagner/4322.ts
-#EXTINF:-1,ODISSEIA
+#EXTINF:-1,PT ODISSEIA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4323.ts
-#EXTINF:-1,HISTORIA
+#EXTINF:-1,PT HISTORIA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4321.ts
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1,PT DISCOVERY CHANNEL
 http://www.painelpro.net:8000/live/Vagner/Vagner/4320.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
+#EXTINF:-1,PT DISCOVERY HD SHOWCASE
 http://www.painelpro.net:8000/live/Vagner/Vagner/4319.ts
-#EXTINF:-1,NACIONAL GEOGRAPHIC HD
+#EXTINF:-1,PT NACIONAL GEOGRAPHIC HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4318.ts
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1,PT NAT GEO WILD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4317.ts
-#EXTINF:-1,MCS EXTREME
+#EXTINF:-1,PT MCS EXTREME
 http://www.painelpro.net:8000/live/Vagner/Vagner/4315.ts
-#EXTINF:-1,MCS LIFESTYLE
+#EXTINF:-1,PT MCS LIFESTYLE
 http://www.painelpro.net:8000/live/Vagner/Vagner/4314.ts
-#EXTINF:-1,TRAVEL CHANNEL HD
+#EXTINF:-1,PT TRAVEL CHANNEL HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4313.ts
-#EXTINF:-1,FUEL TV
+#EXTINF:-1,PT FUEL TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4355.ts
-#EXTINF:-1,PFC
+#EXTINF:-1,PT PFC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4354.ts
-#EXTINF:-1,CACAVISION
+#EXTINF:-1,PT CACAVISION
 http://www.painelpro.net:8000/live/Vagner/Vagner/4353.ts
-#EXTINF:-1,CACA E PESCA
+#EXTINF:-1,PT CACA E PESCA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4351.ts
-#EXTINF:-1,A.E
+#EXTINF:-1,PT A.E
 http://www.painelpro.net:8000/live/Vagner/Vagner/4312.ts
-#EXTINF:-1,24 KITCHEN HD
+#EXTINF:-1,PT 24 KITCHEN HD
 http://www.painelpro.net:8000/live/Vagner/Vagner/4311.ts
-#EXTINF:-1,EURO NEWS
+#EXTINF:-1,PT EURO NEWS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4300.ts
-#EXTINF:-1,FRANCE 24
+#EXTINF:-1,PT FRANCE 24
 http://www.painelpro.net:8000/live/Vagner/Vagner/4299.ts
-#EXTINF:-1,SKY NEWS
+#EXTINF:-1,PT SKY NEWS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4298.ts
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1,PT FOX NEWS
 http://www.painelpro.net:8000/live/Vagner/Vagner/4296.ts
-#EXTINF:-1,TV GALICIA
+#EXTINF:-1,PT TV GALICIA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4295.ts
-#EXTINF:-1,FASHION TV
+#EXTINF:-1,PT FASHION TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4294.ts
-#EXTINF:-1,KURIAKOS TV
+#EXTINF:-1,PT KURIAKOS TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/6232.ts
-#EXTINF:-1,TPA
+#EXTINF:-1,PT TPA
 http://www.painelpro.net:8000/live/Vagner/Vagner/4286.ts
-#EXTINF:-1,CABO VERDE
+#EXTINF:-1,PT CABO VERDE
 http://www.painelpro.net:8000/live/Vagner/Vagner/4285.ts
-#EXTINF:-1,AFRO MUSIC
+#EXTINF:-1,PT AFRO MUSIC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4289.ts
-#EXTINF:-1,C-MUSIC
+#EXTINF:-1,PT C-MUSIC
 http://www.painelpro.net:8000/live/Vagner/Vagner/4287.ts
-#EXTINF:-1,MCM POP
+#EXTINF:-1,PT MCM POP
 http://www.painelpro.net:8000/live/Vagner/Vagner/4290.ts
-#EXTINF:-1,MCM TOP
+#EXTINF:-1,PT MCM TOP
 http://www.painelpro.net:8000/live/Vagner/Vagner/4284.ts
-#EXTINF:-1,MTV PORTUGAL
+#EXTINF:-1,PT MTV PORTUGAL
 http://www.painelpro.net:8000/live/Vagner/Vagner/4292.ts
-#EXTINF:-1,TRACE TV
+#EXTINF:-1,PT TRACE TV
 http://www.painelpro.net:8000/live/Vagner/Vagner/4293.ts
-#EXTINF:-1,VH1
+#EXTINF:-1,PT VH1
 http://www.painelpro.net:8000/live/Vagner/Vagner/4288.ts
-#EXTINF:-1,VH1 CLASSIC
+#EXTINF:-1,PT VH1 CLASSIC
 http://www.painelpro.net:8000/live/Vagner/Vagner/6246.ts
-#EXTINF:-1,MEZZO
-http://www.painelpro.net:8000/live/Vagner/Vagner/4291.ts
-#EXTINF:-1,HOT
-http://www.painelpro.net:8000/live/Vagner/Vagner/4281.ts
-#EXTINF:-1,PLAYBOY TV
-http://www.painelpro.net:8000/live/Vagner/Vagner/4283.ts
-#EXTINF:-1,SEXTREME
-http://www.painelpro.net:8000/live/Vagner/Vagner/6243.ts
-#EXTINF:-1,VENUS
-http://www.painelpro.net:8000/live/Vagner/Vagner/4282.ts
-#EXTINF:-1,PENTHOUSE HD1
-http://www.painelpro.net:8000/live/Vagner/Vagner/6242.ts
-#EXTINF:-1,XXX: 18 4K PORN 25
-http://www.painelpro.net:8000/live/Vagner/Vagner/9282.ts
-#EXTINF:-1,XXX: 18 4K PORN 26
-http://www.painelpro.net:8000/live/Vagner/Vagner/9281.ts
-#EXTINF:-1,XXX: 18 4K PORN 31
-http://www.painelpro.net:8000/live/Vagner/Vagner/9280.ts
-#EXTINF:-1,XXX: 18 4K PORN 47
-http://www.painelpro.net:8000/live/Vagner/Vagner/9279.ts
-#EXTINF:-1,XXX: AnySex
-http://www.painelpro.net:8000/live/Vagner/Vagner/9278.ts
-#EXTINF:-1,XXX: Brazzers Europe
-http://www.painelpro.net:8000/live/Vagner/Vagner/9277.ts
-#EXTINF:-1,XXX: Cento X Cento
-http://www.painelpro.net:8000/live/Vagner/Vagner/9276.ts
-#EXTINF:-1,XXX: CentoXCento
-http://www.painelpro.net:8000/live/Vagner/Vagner/9275.ts
-#EXTINF:-1,XXX: DUSK
-http://www.painelpro.net:8000/live/Vagner/Vagner/9274.ts
-#EXTINF:-1,XXX: Erotic 02
-http://www.painelpro.net:8000/live/Vagner/Vagner/9273.ts
-#EXTINF:-1,XXX: Exotica TV
-http://www.painelpro.net:8000/live/Vagner/Vagner/9272.ts
-#EXTINF:-1,XXX: Hot
-http://www.painelpro.net:8000/live/Vagner/Vagner/9271.ts
-#EXTINF:-1,XXX: Hustler HD
-http://www.painelpro.net:8000/live/Vagner/Vagner/9270.ts
-#EXTINF:-1,XXX: JASMIN TV
-http://www.painelpro.net:8000/live/Vagner/Vagner/9269.ts
-#EXTINF:-1,XXX: Nubiles-Casting.com
-http://www.painelpro.net:8000/live/Vagner/Vagner/9268.ts
-#EXTINF:-1,XXX: Penthouse
-http://www.painelpro.net:8000/live/Vagner/Vagner/9267.ts
-#EXTINF:-1,XXX: Pink Erotic 1
-http://www.painelpro.net:8000/live/Vagner/Vagner/9266.ts
-#EXTINF:-1,XXX: Pink Erotic 2
-http://www.painelpro.net:8000/live/Vagner/Vagner/9265.ts
-#EXTINF:-1,XXX: Pink Erotic 3
-http://www.painelpro.net:8000/live/Vagner/Vagner/9264.ts
-#EXTINF:-1,XXX: Pink Erotic 4
-http://www.painelpro.net:8000/live/Vagner/Vagner/9263.ts
-#EXTINF:-1,XXX: PINK EROTIC 6
-http://www.painelpro.net:8000/live/Vagner/Vagner/9262.ts
-#EXTINF:-1,XXX: Pinko TV
-http://www.painelpro.net:8000/live/Vagner/Vagner/9261.ts
-#EXTINF:-1,XXX: PlayBoy
-http://www.painelpro.net:8000/live/Vagner/Vagner/9260.ts
-#EXTINF:-1,XXX: Porn
-http://www.painelpro.net:8000/live/Vagner/Vagner/9259.ts
-#EXTINF:-1,XXX: Porn Mix 1
-http://www.painelpro.net:8000/live/Vagner/Vagner/9258.ts
-#EXTINF:-1,XXX: Porn Mix 2
-http://www.painelpro.net:8000/live/Vagner/Vagner/9257.ts
-#EXTINF:-1,XXX: Porn Mix 3
-http://www.painelpro.net:8000/live/Vagner/Vagner/9256.ts
-#EXTINF:-1,XXX: Primafila Hot Club 1
-http://www.painelpro.net:8000/live/Vagner/Vagner/9255.ts
-#EXTINF:-1,XXX: Primafila Hot Club 2
-http://www.painelpro.net:8000/live/Vagner/Vagner/9254.ts
-#EXTINF:-1,XXX: Primafila Hot Club 3
-http://www.painelpro.net:8000/live/Vagner/Vagner/9253.ts
-#EXTINF:-1,XXX: Primafila Hot Club 4
-http://www.painelpro.net:8000/live/Vagner/Vagner/9252.ts
-#EXTINF:-1,XXX: Primafila Hot Club 5
-http://www.painelpro.net:8000/live/Vagner/Vagner/9251.ts
-#EXTINF:-1,XXX: Primafila Hot Club 6
-http://www.painelpro.net:8000/live/Vagner/Vagner/9250.ts
-#EXTINF:-1,XXX: Primafila Hot Club 7
-http://www.painelpro.net:8000/live/Vagner/Vagner/9249.ts
-#EXTINF:-1,XXX: Primafila Hot Club 8
-http://www.painelpro.net:8000/live/Vagner/Vagner/9248.ts
-#EXTINF:-1,XXX: RedLight HD
-http://www.painelpro.net:8000/live/Vagner/Vagner/9247.ts
-#EXTINF:-1,XXX: Sirina
-http://www.painelpro.net:8000/live/Vagner/Vagner/9246.ts
-#EXTINF:-1,XXX: SIRINA 2
-http://www.painelpro.net:8000/live/Vagner/Vagner/9245.ts
-#EXTINF:-1,XXX: TeenModels.com
-http://www.painelpro.net:8000/live/Vagner/Vagner/9244.ts
-#EXTINF:-1,XXX: VISIT X TV
-http://www.painelpro.net:8000/live/Vagner/Vagner/9243.ts
+
 #EXTINF:-1,BR: A&E
 http://www.painelpro.net:8000/live/Vagner/Vagner/9177.ts
 #EXTINF:-1,BR: ANIMAL PLANET
