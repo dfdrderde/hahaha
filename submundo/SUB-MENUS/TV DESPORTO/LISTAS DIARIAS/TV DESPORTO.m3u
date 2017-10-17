@@ -1,6 +1,37 @@
 #EXTM3U
 
-
+#EXTINF:-1,Sky Sports Main Event
+http://iptv4u.club/site/freeiptv?channel=skysportsmainevent&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://iptv4u.club/site/freeiptv?channel=skysportsgolf&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Sky Sports F1
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,National Geographic Channel
+http://iptv4u.club/site/freeiptv?channel=ngc&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 
 #EXTINF:-1,beIN SPORTS 1
 http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1506819684&t=.m3u8
@@ -112,448 +143,32 @@ http://37.48.92.72:8458/otesport3/index.m3u8
 
 
 
-#EXTINF:-1,BEINSPORT-1HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/29.ts
-#EXTINF:-1,BEINSPORT-2HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/30.ts
-#EXTINF:-1,BEINSPORT-3HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/31.ts
-#EXTINF:-1,BEINSPORT-4HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/32.ts
-#EXTINF:-1,BEINSPORT-5HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/33.ts
-#EXTINF:-1,BEINSPORT-6HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/34.ts
-#EXTINF:-1,BEINSPORT-7HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/35.ts
-#EXTINF:-1,BEINSPORT-8HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/36.ts
-#EXTINF:-1,BEINSPORT-9HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/37.ts
-#EXTINF:-1,BEINSPORT-10HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/38.ts
-#EXTINF:-1,BEINSPORT-11HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1033.ts
-#EXTINF:-1,BEINSPORT-12HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1034.ts
-#EXTINF:-1,BEINSPORT-13HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1035.ts
-#EXTINF:-1,BEINSPORT-14HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1036.ts
-#EXTINF:-1,BEINSPORT-15HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1037.ts
-#EXTINF:-1,BEINSPORT-16HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1038.ts
-#EXTINF:-1,BeinSport-1SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/48.ts
-#EXTINF:-1,BeinSport-2SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/47.ts
-#EXTINF:-1,BeinSport-3SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/46.ts
-#EXTINF:-1,BeinSport-4SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/45.ts
-#EXTINF:-1,BeinSport-5SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/44.ts
-#EXTINF:-1,BeinSport-6SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/43.ts
-#EXTINF:-1,BeinSport-7SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/41.ts
-#EXTINF:-1,BeinSport-8SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/40.ts
-#EXTINF:-1,BeinSport-9SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/39.ts
-#EXTINF:-1,BeinSport-10SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/42.ts
-#EXTINF:-1,BeinSport-11SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1064.ts
-#EXTINF:-1,BeinSport-12SD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1065.ts
-#EXTINF:-1,BeinSport-1-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1070.ts
-#EXTINF:-1,BeinSport-2-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1071.ts
-#EXTINF:-1,BeinSport-3-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1072.ts
-#EXTINF:-1,BeinSport-4-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1073.ts
-#EXTINF:-1,BeinSport-5-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1074.ts
-#EXTINF:-1,BeinSport-6-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1075.ts
-#EXTINF:-1,BeinSport-7-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1076.ts
-#EXTINF:-1,BeinSport-8-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1077.ts
-#EXTINF:-1,BeinSport-9-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1078.ts
-#EXTINF:-1,BeinSport-10-low
-http://tv2iptv.com:8000/live/hussein/Hussein1/1079.ts
-#EXTINF:-1,BEINSPORT-1
-http://tv2iptv.com:8000/live/hussein/Hussein1/1050.ts
-#EXTINF:-1,BEINSPORT-2
-http://tv2iptv.com:8000/live/hussein/Hussein1/1051.ts
-#EXTINF:-1,BEINSPORT-3
-http://tv2iptv.com:8000/live/hussein/Hussein1/1052.ts
-#EXTINF:-1,BEINSPORT-5
-http://tv2iptv.com:8000/live/hussein/Hussein1/1054.ts
-#EXTINF:-1,BEINSPORT-6
-http://tv2iptv.com:8000/live/hussein/Hussein1/1055.ts
-#EXTINF:-1,BEINSPORT-7
-http://tv2iptv.com:8000/live/hussein/Hussein1/1056.ts
-#EXTINF:-1,BEINSPORT-8
-http://tv2iptv.com:8000/live/hussein/Hussein1/1057.ts
-#EXTINF:-1,BEINSPORT-9
-http://tv2iptv.com:8000/live/hussein/Hussein1/1058.ts
-#EXTINF:-1,BEINSPORT-10
-http://tv2iptv.com:8000/live/hussein/Hussein1/1059.ts
-#EXTINF:-1,BEINSPORT-11
-http://tv2iptv.com:8000/live/hussein/Hussein1/1060.ts
-#EXTINF:-1,BEINSPORT-12
-http://tv2iptv.com:8000/live/hussein/Hussein1/1061.ts
-#EXTINF:-1,beIN_SPORTS_1HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5051.ts
-#EXTINF:-1,beIN_SPORTS_2HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5050.ts
-#EXTINF:-1,beIN_SPORTS_3HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5049.ts
-#EXTINF:-1,beIN_SPORTS_4HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5048.ts
-#EXTINF:-1,beIN_SPORTS_5HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5047.ts
-#EXTINF:-1,beIN_SPORTS_6HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5046.ts
-#EXTINF:-1,beIN_SPORTS_7HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5045.ts
-#EXTINF:-1,beIN_SPORTS_8HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5044.ts
-#EXTINF:-1,beIN_SPORTS_9HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5043.ts
-#EXTINF:-1,beIN_SPORTS_10HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5042.ts
-#EXTINF:-1,BEIN-NEWS-HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/1283.ts
-#EXTINF:-1,beinsportsnews
-http://tv2iptv.com:8000/live/hussein/Hussein1/3524.ts
-#EXTINF:-1,beINSPORTSHD
-http://tv2iptv.com:8000/live/hussein/Hussein1/3528.ts
-#EXTINF:-1,Bein-MOVIES-1
-http://tv2iptv.com:8000/live/hussein/Hussein1/1062.ts
-#EXTINF:-1,Bein-MOVIES-2
-http://tv2iptv.com:8000/live/hussein/Hussein1/1063.ts
-#EXTINF:-1,Bein-MOVIES-3
-http://tv2iptv.com:8000/live/hussein/Hussein1/4315.ts
-#EXTINF:-1,Bein-MOVIES-4
-http://tv2iptv.com:8000/live/hussein/Hussein1/4732.ts
-#EXTINF:-1,AD_SPORT_1HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/4949.ts
-#EXTINF:-1,AD_SPORT_2HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/4950.ts
-#EXTINF:-1,AD_SPORT_3HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/4951.ts
-#EXTINF:-1,AD_SPORT_4HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/4952.ts
-#EXTINF:-1,AD_SPORT_5HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/4953.ts
-#EXTINF:-1,AlKASS_SPORT_1HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5098.ts
-#EXTINF:-1,AlKASS_SPORT_2HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5097.ts
-#EXTINF:-1,AlKASS_SPORT_3HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5096.ts
-#EXTINF:-1,AlKASS_SPORT_4HD
-http://tv2iptv.com:8000/live/hussein/Hussein1/5095.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,Sport Klub 1 HD
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8
-#EXTINF:0,Sport Klub 2 HD
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8
-#EXTINF:0,Sport Klub 3 HD
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8
-#EXTINF:0,Sport Klub HD
-http://smarttv.tvviet.tv/live52/SKHD.m3u8
-#EXTINF:0,Sky Bundesliga
-http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8
-#EXTINF:0,Sky Sport 1
-http://smarttv.tvviet.tv/live22/skysport1.m3u8
-#EXTINF:0,Sky Sport 2
-http://smarttv.tvviet.tv/live22/skysport2.m3u8
-#EXTINF:0,Eurosport
-http://smarttv.tvviet.tv/live22/Eurosport.m3u8
-#EXTINF:0,Eurosport 2
-http://smarttv.tvviet.tv/live52/Eurosport2.m3u8
-#EXTINF:0,Arena Sport
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8
-#EXTINF:0,Arena Sport 2
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8
-#EXTINF:0,Arena Sport 3
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8
-#EXTINF:0,Arena Sport 4
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8
-#EXTINF:0,Arena Sport 5
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
-#EXTINF:0,Arena Sport 6
-http://smarttv.tvviet.tv/live32/ArenaSport6.m3u8
-#EXTINF:0,Arena Sport 1 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8
-#EXTINF:0,Arena Sport 2 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8
-#EXTINF:0,Arena Sport 3 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8
-#EXTINF:0,Arena Sport 4 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8
-#EXTINF:0,Arena Sport 5 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8
-
-
-
-
-
-
-
-#EXTINF:0,Sport Klub 1 HD
-http://smarttv.tvviet.tv/live12/SK1HD.m3u8
-#EXTINF:0,Sport Klub 2 HD
-http://smarttv.tvviet.tv/live12/SK2HD.m3u8
-#EXTINF:0,Sport Klub 3 HD
-http://smarttv.tvviet.tv/live12/SK3HD.m3u8
-#EXTINF:0,Sport Klub HD
-http://smarttv.tvviet.tv/live52/SKHD.m3u8
-#EXTINF:0,Sky Bundesliga
-http://smarttv.tvviet.tv/live32/skybundesliga1.m3u8
-#EXTINF:0,Sky Sport 1
-http://smarttv.tvviet.tv/live22/skysport1.m3u8
-#EXTINF:0,Sky Sport 2
-http://smarttv.tvviet.tv/live22/skysport2.m3u8
-#EXTINF:0,Eurosport
-http://smarttv.tvviet.tv/live22/Eurosport.m3u8
-#EXTINF:0,Eurosport 2
-http://smarttv.tvviet.tv/live52/Eurosport2.m3u8
-#EXTINF:0,Arena Sport
-http://smarttv.tvviet.tv/live22/ArenaSport.m3u8
-#EXTINF:0,Arena Sport 2
-http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8
-#EXTINF:0,Arena Sport 3
-http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8
-#EXTINF:0,Arena Sport 4
-http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8
-#EXTINF:0,Arena Sport 5
-http://smarttv.tvviet.tv/live52/Arenasport5.m3u8
-#EXTINF:0,Arena Sport 6
-http://smarttv.tvviet.tv/live32/ArenaSport6.m3u8
-#EXTINF:0,Arena Sport 1 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD1.m3u8
-#EXTINF:0,Arena Sport 2 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD2.m3u8
-#EXTINF:0,Arena Sport 3 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD3.m3u8
-#EXTINF:0,Arena Sport 4 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD4.m3u8
-#EXTINF:0,Arena Sport 5 HD
-http://smarttv.tvviet.tv/live42/ArenaSportHD5.m3u8
-
-#EXTINF:-1,OTE Sport 1
-http://37.48.92.72:8458/otesport1/index.m3u8
-#EXTINF:-1,OTE Sport 2
-http://37.48.92.72:8458/otesport2/index.m3u8
-#EXTINF:-1,OTE Sport 3
-http://37.48.92.72:8458/otesport3/index.m3u8
-
-#EXTM3U
-#EXTINF:-1,Sport Klub 1
-http://95.107.132.218/out/u/302_2.m3u8
-#EXTINF:-1,sport klub 2
-http://95.107.132.218/out/u/193_1.m3u8
-#EXTINF:-1,sport klub 3
-http://95.107.132.218/out/u/120_1.m3u8
-#EXTINF:-1,arena sport 4
-http://95.107.132.218/out/u/197_7.m3u8
-
-#EXTINF:-1,Match football 1
-http://tv.beeb.vn/site/freeiptv?channel=matchfootball1&e=1505138184&t=.m3u8
-#EXTINF:-1,Match football 2
-http://tv.beeb.vn/site/freeiptv?channel=matchfootball2&e=1505138184&t=.m3u8
-#EXTINF:-1,Match football 3
-http://tv.beeb.vn/site/freeiptv?channel=matchfootball3&e=1505138184&t=.m3u8
-#EXTINF:-1,Golf channel
-http://tv.beeb.vn/site/freeiptv?channel=golfchannel&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 1
-http://tv.beeb.vn/site/freeiptv?channel=beinsports1&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 2
-http://tv.beeb.vn/site/freeiptv?channel=beinsports2&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 3
-http://tv.beeb.vn/site/freeiptv?channel=beinsports3&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 4
-http://tv.beeb.vn/site/freeiptv?channel=beinsports4&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 5
-http://tv.beeb.vn/site/freeiptv?channel=beinsports5&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 6
-http://tv.beeb.vn/site/freeiptv?channel=beinsports6&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 7
-http://tv.beeb.vn/site/freeiptv?channel=beinsports7&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 8
-http://tv.beeb.vn/site/freeiptv?channel=beinsports8&e=1505138184&t=.m3u8
-#EXTINF:-1,bein sports 9
-http://tv.beeb.vn/site/freeiptv?channel=beinsports9&e=1505138184&t=.m3u8
-
-#EXTINF:0,tring sport 1
-http://5.135.92.130:4462/out/u/399_2.m3u8
-#EXTINF:0,tring sport 2
-http://5.135.92.130:4462/out/u/404_2.m3u8
-#EXTINF:0,tring sport 3
-http://5.135.92.130:5749/out/u/27_6.m3u8
-#EXTINF:0,tring sport 4
-http://5.135.92.130:5749/out/u/31_6.m3u8
-
-#EXTINF:-1,МАТЧ! АРЕНА Sports Russia
-http://93.179.122.25:8080/udp/239.195.32.3:1234
-#EXTINF:-1,МАТЧ! АРЕНА Sports Russia
-http://31.41.63.88:8080/udp/239.195.32.3:1234
-
-#EXTM3U
-#EXTINF:0, BT Sport 1
-http://185.53.163.205:2700
-#EXTINF:0, BT Sport 2
-http://185.53.163.205:2506
-#EXTINF:0, BT Sport 3
-http://185.53.163.205:2701
-#EXTINF:0, BT Sport ESPN
-http://185.53.163.205:2507
-#EXTINF:0, BT Sport Extra 1
-http://185.53.163.205:2707
-#EXTINF:0, BT Sport Extra 2
-http://185.53.163.205:2500
-#EXTINF:0, BT Sport Extra 3
-http://185.53.163.205:2501
-#EXTINF:0, BT Sport Extra 4
-http://185.53.163.205:2502
-#EXTINF:0, BT Sport Extra 5
-http://185.53.163.205:2503
-#EXTINF:0, BT Sport Extra 6
-http://185.53.163.205:2504
-#EXTINF:0, Sky Sports 1 UK
-http://185.53.163.212:2312
-#EXTINF:0, Sky Sports 2 UK
-http://185.53.163.212:2313
-#EXTINF:0, Sky Sports 3 UK
-http://185.53.163.212:2314
-#EXTINF:0, Sky Sports 4 UK
-http://185.53.163.212:19702
-#EXTINF:0, Sky Sports 5 UK
-http://185.53.163.212:19700
-#EXTINF:0, Sky Sports F1 UK
-http://185.53.163.212:2310
-
-#EXTM3U SPORTS
-#EXTINF:0,BoxNation
-http://185.22.78.72:9002/play/a032
-#EXTINF:0,BT Sport Extra 4
-http://185.22.78.72:9002/play/a02r
-#EXTINF:0,BT Sport//ESPN
-http://185.22.78.72:9002/play/a02x
-#EXTINF:0,BT Sport Extra 6
-http://185.22.78.72:9002/play/a02t
-#EXTINF:0,BT Sport Extra 3
-http://185.22.78.72:9002/play/a02q
-#EXTINF:0,BT Sport Extra 2
-http://185.22.78.72:9002/play/a02p
-#EXTINF:0,BT Sport Extra 5
-http://185.22.78.72:9002/play/a02s
-#EXTINF:0,Motorsport TV
-http://185.22.78.72:9002/play/a02v
-#EXTINF:0,BT Sport 2
-http://185.22.78.72:9002/play/a02y
-#EXTINF:0,STV
-http://185.22.78.72:9003/play/a02s
-#EXTINF:0,talkSPORT
-http://185.22.78.72:9003/play/a02q
-#EXTINF:-1,TELESPORT
-http://109.104.129.196:8001/play/s47
-#EXTINF:-1,03 МАТЧ!
-http://87.226.169.42:5000/play/a00s
-#EXTINF:0,Eurosport 2
-http://195.228.11.88:4080/udp/225.255.255.25:10000
-#EXTINF:0,EURO SPORTS
-http://183.88.212.205:8010/play/a00d
-#EXTINF:0,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:0,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:0,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-#EXTINF:0,SKYNET SPORTS HD
-http://183.88.212.205:8010/play/a00r
-#EXTINF:0,SKYNET SPORTS-2
-http://183.88.212.205:8010/play/a02k
-#EXTINF:0,SKYNET SPORTS-3
-http://183.88.212.205:8010/play/a02l
-#EXTINF:0,SKYNET SPORTS-4
-http://183.88.212.205:8010/play/a00a
-#EXTINF:0,SKYNET SPORTS-5
-http://183.88.212.205:8010/play/a00b
-#EXTINF:0,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g
-#EXTINF:0,FOX SPORTS NEWS
-http://183.88.212.205:8010/play/a022
-#EXTINF:17700,Eurosport
-http://91.224.178.9:5000/11
-
-#EXTM3U
-#EXTINF:-1,ADSport 1HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,ADSport 2HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,ADSports 3HD
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1,ADSports 4HD
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:-1,ADSports 5HD
-http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
-
-#EXTM3U
-#EXTINF:-1,Tile Sports 1
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-#EXTINF:-1,Tile Sports 2
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-
-#EXTM3U
-#EXTINF:-1,Superport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,Superport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,Superport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,Superport 4
-http://81.7.13.162/hls/ss4/index.m3u8
-
+#EXTINF:-1,Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Sky Sports F1
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://iptv4u.club/site/freeiptv?channel=beinsports1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://iptv4u.club/site/freeiptv?channel=beinsports2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://iptv4u.club/site/freeiptv?channel=beinsports3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://iptv4u.club/site/freeiptv?channel=beinsports4&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://iptv4u.club/site/freeiptv?channel=beinsports5&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://iptv4u.club/site/freeiptv?channel=beinsports6&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://iptv4u.club/site/freeiptv?channel=beinsports7&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://iptv4u.club/site/freeiptv?channel=beinsports8&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 
 
 
@@ -640,169 +255,5 @@ http://163.172.18.54:8000/live/5245G0LCKqd94P/25TE014mD41788/26.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,BEINSPORT-1HD
-http://tv2iptv.com:8000/live/012345/012345/29.ts
-#EXTINF:-1,BEINSPORT-2HD
-http://tv2iptv.com:8000/live/012345/012345/30.ts
-#EXTINF:-1,BEINSPORT-3HD
-http://tv2iptv.com:8000/live/012345/012345/31.ts
-#EXTINF:-1,BEINSPORT-4HD
-http://tv2iptv.com:8000/live/012345/012345/32.ts
-#EXTINF:-1,BEINSPORT-5HD
-http://tv2iptv.com:8000/live/012345/012345/33.ts
-#EXTINF:-1,BEINSPORT-6HD
-http://tv2iptv.com:8000/live/012345/012345/34.ts
-#EXTINF:-1,BEINSPORT-7HD
-http://tv2iptv.com:8000/live/012345/012345/35.ts
-#EXTINF:-1,BEINSPORT-8HD
-http://tv2iptv.com:8000/live/012345/012345/36.ts
-#EXTINF:-1,BEINSPORT-9HD
-http://tv2iptv.com:8000/live/012345/012345/37.ts
-#EXTINF:-1,BEINSPORT-10HD
-http://tv2iptv.com:8000/live/012345/012345/38.ts
-#EXTINF:-1,BEINSPORT-11HD
-http://tv2iptv.com:8000/live/012345/012345/1033.ts
-#EXTINF:-1,BEINSPORT-12HD
-http://tv2iptv.com:8000/live/012345/012345/1034.ts
-#EXTINF:-1,BEINSPORT-13HD
-http://tv2iptv.com:8000/live/012345/012345/1035.ts
-#EXTINF:-1,BEINSPORT-14HD
-http://tv2iptv.com:8000/live/012345/012345/1036.ts
-#EXTINF:-1,BEINSPORT-15HD
-http://tv2iptv.com:8000/live/012345/012345/1037.ts
-#EXTINF:-1,BEINSPORT-16HD
-http://tv2iptv.com:8000/live/012345/012345/1038.ts
-#EXTINF:-1,BeinSport-1SD
-http://tv2iptv.com:8000/live/012345/012345/48.ts
-#EXTINF:-1,BeinSport-2SD
-http://tv2iptv.com:8000/live/012345/012345/47.ts
-#EXTINF:-1,BeinSport-3SD
-http://tv2iptv.com:8000/live/012345/012345/46.ts
-#EXTINF:-1,BeinSport-4SD
-http://tv2iptv.com:8000/live/012345/012345/45.ts
-#EXTINF:-1,BeinSport-5SD
-http://tv2iptv.com:8000/live/012345/012345/44.ts
-#EXTINF:-1,BeinSport-6SD
-http://tv2iptv.com:8000/live/012345/012345/43.ts
-#EXTINF:-1,BeinSport-7SD
-http://tv2iptv.com:8000/live/012345/012345/41.ts
-#EXTINF:-1,BeinSport-8SD
-http://tv2iptv.com:8000/live/012345/012345/40.ts
-#EXTINF:-1,BeinSport-9SD
-http://tv2iptv.com:8000/live/012345/012345/39.ts
-#EXTINF:-1,BeinSport-10SD
-http://tv2iptv.com:8000/live/012345/012345/42.ts
-#EXTINF:-1,BeinSport-11SD
-http://tv2iptv.com:8000/live/012345/012345/1064.ts
-#EXTINF:-1,BeinSport-12SD
-http://tv2iptv.com:8000/live/012345/012345/1065.ts
-#EXTINF:-1,BeinSport-1-low
-http://tv2iptv.com:8000/live/012345/012345/1070.ts
-#EXTINF:-1,BeinSport-2-low
-http://tv2iptv.com:8000/live/012345/012345/1071.ts
-#EXTINF:-1,BeinSport-3-low
-http://tv2iptv.com:8000/live/012345/012345/1072.ts
-#EXTINF:-1,BeinSport-4-low
-http://tv2iptv.com:8000/live/012345/012345/1073.ts
-#EXTINF:-1,BeinSport-5-low
-http://tv2iptv.com:8000/live/012345/012345/1074.ts
-#EXTINF:-1,BeinSport-6-low
-http://tv2iptv.com:8000/live/012345/012345/1075.ts
-#EXTINF:-1,BeinSport-7-low
-http://tv2iptv.com:8000/live/012345/012345/1076.ts
-#EXTINF:-1,BeinSport-8-low
-http://tv2iptv.com:8000/live/012345/012345/1077.ts
-#EXTINF:-1,BeinSport-9-low
-http://tv2iptv.com:8000/live/012345/012345/1078.ts
-#EXTINF:-1,BeinSport-10-low
-http://tv2iptv.com:8000/live/012345/012345/1079.ts
-#EXTINF:-1,BEINSPORT-1
-http://tv2iptv.com:8000/live/012345/012345/1050.ts
-#EXTINF:-1,BEINSPORT-2
-http://tv2iptv.com:8000/live/012345/012345/1051.ts
-#EXTINF:-1,BEINSPORT-3
-http://tv2iptv.com:8000/live/012345/012345/1052.ts
-#EXTINF:-1,BEINSPORT-5
-http://tv2iptv.com:8000/live/012345/012345/1054.ts
-#EXTINF:-1,BEINSPORT-6
-http://tv2iptv.com:8000/live/012345/012345/1055.ts
-#EXTINF:-1,BEINSPORT-7
-http://tv2iptv.com:8000/live/012345/012345/1056.ts
-#EXTINF:-1,BEINSPORT-8
-http://tv2iptv.com:8000/live/012345/012345/1057.ts
-#EXTINF:-1,BEINSPORT-9
-http://tv2iptv.com:8000/live/012345/012345/1058.ts
-#EXTINF:-1,BEINSPORT-10
-http://tv2iptv.com:8000/live/012345/012345/1059.ts
-#EXTINF:-1,BEINSPORT-11
-http://tv2iptv.com:8000/live/012345/012345/1060.ts
-#EXTINF:-1,BEINSPORT-12
-http://tv2iptv.com:8000/live/012345/012345/1061.ts
-#EXTINF:-1,beIN_SPORTS_1HD
-http://tv2iptv.com:8000/live/012345/012345/5051.ts
-#EXTINF:-1,beIN_SPORTS_2HD
-http://tv2iptv.com:8000/live/012345/012345/5050.ts
-#EXTINF:-1,beIN_SPORTS_3HD
-http://tv2iptv.com:8000/live/012345/012345/5049.ts
-#EXTINF:-1,beIN_SPORTS_4HD
-http://tv2iptv.com:8000/live/012345/012345/5048.ts
-#EXTINF:-1,beIN_SPORTS_5HD
-http://tv2iptv.com:8000/live/012345/012345/5047.ts
-#EXTINF:-1,beIN_SPORTS_6HD
-http://tv2iptv.com:8000/live/012345/012345/5046.ts
-#EXTINF:-1,beIN_SPORTS_7HD
-http://tv2iptv.com:8000/live/012345/012345/5045.ts
-#EXTINF:-1,beIN_SPORTS_8HD
-http://tv2iptv.com:8000/live/012345/012345/5044.ts
-#EXTINF:-1,beIN_SPORTS_9HD
-http://tv2iptv.com:8000/live/012345/012345/5043.ts
-#EXTINF:-1,beIN_SPORTS_10HD
-http://tv2iptv.com:8000/live/012345/012345/5042.ts
-#EXTINF:-1,BEIN-NEWS-HD
-http://tv2iptv.com:8000/live/012345/012345/1283.ts
-#EXTINF:-1,beinsportsnews
-http://tv2iptv.com:8000/live/012345/012345/3524.ts
-#EXTINF:-1,beINSPORTSHD
-http://tv2iptv.com:8000/live/012345/012345/3528.ts
-#EXTINF:-1,Bein-MOVIES-1
-http://tv2iptv.com:8000/live/012345/012345/1062.ts
-#EXTINF:-1,Bein-MOVIES-2
-http://tv2iptv.com:8000/live/012345/012345/1063.ts
-#EXTINF:-1,Bein-MOVIES-3
-http://tv2iptv.com:8000/live/012345/012345/4315.ts
-#EXTINF:-1,Bein-MOVIES-4
-http://tv2iptv.com:8000/live/012345/012345/4732.ts
-#EXTINF:-1,AD_SPORT_1HD
-http://tv2iptv.com:8000/live/012345/012345/4949.ts
-#EXTINF:-1,AD_SPORT_2HD
-http://tv2iptv.com:8000/live/012345/012345/4950.ts
-#EXTINF:-1,AD_SPORT_3HD
-http://tv2iptv.com:8000/live/012345/012345/4951.ts
-#EXTINF:-1,AD_SPORT_4HD
-http://tv2iptv.com:8000/live/012345/012345/4952.ts
-#EXTINF:-1,AD_SPORT_5HD
-http://tv2iptv.com:8000/live/012345/012345/4953.ts
-#EXTINF:-1,AlKASS_SPORT_1HD
-http://tv2iptv.com:8000/live/012345/012345/5098.ts
-#EXTINF:-1,AlKASS_SPORT_2HD
-http://tv2iptv.com:8000/live/012345/012345/5097.ts
-#EXTINF:-1,AlKASS_SPORT_3HD
-http://tv2iptv.com:8000/live/012345/012345/5096.ts
-#EXTINF:-1,AlKASS_SPORT_4HD
-http://tv2iptv.com:8000/live/012345/012345/5095.ts
 
 
