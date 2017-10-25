@@ -10,6 +10,10 @@ Server:"[COLOR=yellow] [B] LISTS EVER [/B]  " URL="http://bit.ly/2vGe6hQ"; regex
 
 
 
+Server:"[COLOR=yellow] [B] LISTS ZERO COM [/B]  " URL="http://teamproject.pe.hu/crashoverridelistasubmundo/LISTA%20IPTV%202.m3u"; regex"US"
+
+Server:"[COLOR=yellow] [B] LISTS ZERO COM [/B]  " URL="http://teamproject.pe.hu/crashoverridelistasubmundo/LISTA-IPTV-2.m3u"; regex"US"
+
 
 
 Server:"[COLOR=yellow] [B]DAILY LISTS US [/B]  " URL="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/UK%20AND%20USA%20TV/UK%20AND%20USA%20TV%20SERVIDOR%201.m3u"; regex""
