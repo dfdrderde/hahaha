@@ -42,174 +42,171 @@
 
 
 
-#EXTINF:-1,PT                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,PT                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://232.ts
-#EXTINF:-1,PT                    COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,PT                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://231.ts
-#EXTINF:-1,PTCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,PT[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,PTCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,PT[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
-#EXTINF:-1,TR                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,TR                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://232.ts
-#EXTINF:-1,TR                    COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,TR                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://231.ts
-#EXTINF:-1,TRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,TR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,TRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,TR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
 
-#EXTINF:-1,IR                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,IR                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://44.ts
-#EXTINF:-1,IR                    COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,IR                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://173.ts
-#EXTINF:-1,IRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,IR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,IRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,IR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
-#EXTINF:-1,AF                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,AF                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://312.ts
-#EXTINF:-1,AF                    COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,AF                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://48.ts
-#EXTINF:-1,AFCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,AF[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,AFCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,AF[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
 
 
-#EXTINF:-1,UK                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,UK                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://431.ts
-#EXTINF:-1,UK                    COLOR lime COLOR whiteB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,UK                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://432.ts
-#EXTINF:-1,UKCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,UK[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,UK-COLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,UK-[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
 
 
-#EXTINF:-1,DE                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,DE                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,DE                    COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,DE                    [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
-#EXTINF:-1,DECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,DE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,DECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-
-#EXTINF:-1,NL                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,NL            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,NLCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,NLCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,DE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
 
-#EXTINF:-1,US                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,NL                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,US            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,NL            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
-#EXTINF:-1,USCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,NL[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://364.ts
-#EXTINF:-1,USCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,BE                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,BE            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,BECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,BECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,BR                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,BR            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,BRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,BRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,SPORTS                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,SPORTS            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,SPORTSCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,SPORTSCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,ES                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,ES            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,ESCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,ESCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,FR                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,FR            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,FRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,FRCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,IT                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,IT            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,ITCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,ITCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,PL                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,PL            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,PLCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,PLCOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://381.ts
-
-
-#EXTINF:-1,SWE                       COLOR lime COLOR limeB COLOR lime/COLOR SUBMUNDO IPTV COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,SWE            COLOR lime COLOR whiteB COLOR lime/COLOR Update 30-10-2017 COLOR red/COLOR/B/COLOR 
-http://381.ts
-#EXTINF:-1,SWECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
-http://364.ts
-#EXTINF:-1,SWECOLOR lime COLOR limeB COLOR lime/COLOR.......................................................................COLOR red/COLOR/B/COLOR 
+#EXTINF:-1,NL[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
 http://381.ts
 
 
 
+#EXTINF:-1,US                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,US            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,US[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,US[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,BE                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,BE            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,BE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,BE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,BR                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,BR            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,BR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,BR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,SPORTS                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,SPORTS            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,SPORTS[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,SPORTS[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,ES                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,ES            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,ES[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,ES[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,FR                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,FR            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,FR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,FR[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,IT                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,IT            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,IT[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,IT[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,PL                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,PL            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,PL[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,PL[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+
+
+#EXTINF:-1,SWE                       [COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR] SUBMUNDO IPTV [COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,SWE            [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 30-10-2017 [COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
+#EXTINF:-1,SWE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://364.ts
+#EXTINF:-1,SWE[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR].......................................................................[COLOR red][/COLOR][/B][/COLOR] 
+http://381.ts
 
 
 
@@ -221,6 +218,9 @@ http://381.ts
 
 
 
+
+
+
 ..............................................................................................................................................................
 ..............................................................................................................................................................
 ..............................................................................................................................................................
@@ -258,7 +258,8 @@ http://381.ts
 ..............................................................................................................................................................
 
 
-#EXTM3U
+
+
 #EXTINF:-1,ARN Aljazeera NEWS
 http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/1.ts
 #EXTINF:-1,ARN Aljazeera mubasher
