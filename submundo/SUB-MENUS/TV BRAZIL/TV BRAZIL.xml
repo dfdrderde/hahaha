@@ -5,9 +5,380 @@
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Aberta
+http://158.58.172.5
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP SD
+http://158.58.172.5:8081/look/sptvs/playlist.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo
+http://107.182.231.88:1935/liverepeater/ch21-1/live.m3u8
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="TV Aberta",Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo RIO SD
+http://95.141.32.213:8081/look/globox/playlist.m3u8
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta",Band
+http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Pará
+http://video01.tvdigitalhd.org/rba24509/rba24509/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="TVfutura.br" group-title="TV Aberta",TV futura SD
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV futura HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
+#EXTINF:0 tvg-id="Nbr.br" group-title="TV Aberta",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT HD SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT RN (TV Ponta Negra)
+http://mediacenter.tvpontanegra.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT SC
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",Sbt PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT MA
+https://hls.live.metacdn.com/2450C7/beqgwjkrs/tvdifusorasul_596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT GO HD 720p
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Sbt Caruaru
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV Aberta",Rede TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV PR HD 720p
+http://108.168.158.146:1935/live/tvsudoeste/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV PB (TV Arapuan)
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV Natal (Tv Feliz)
+http://172.93.110.130:1935/retransmissao/retransmissao/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV Rondônia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record RJ
+http://158.58.172.5:8081/look/recordx/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record Amazonas
+http://iphone-streaming.ustream.tv/uhls/22972089/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record SC HD 720p
+https://ricmais.com.br/sc/streaming/show/ric_src.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record GO (TV Sucesso)
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record Cuiaba
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record ES (Tv Vitória)
+http://xcoder2.viacast.tv/livepl/tvvitoria_1_original.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RN Natal
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",RCTV PB HD 720p
+http://wse3.player.tv.br:1935/rctv/rctv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Maceió AL
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Brasil HD
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVU Pernambuco
+http://150.161.93.173/hls/720/index.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="TV Aberta",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV Local GO
+http://srv3.zoeweb.tv:1935/z94-live/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE Rs
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE BA HD 720p
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Meio Norte PI
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Escola HD 720p
+http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura HD 720p
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV É Paraná
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PE
+http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura ES
+http://stmv4.srvstm.com/tvsimcolatina/tvsimcolatina/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="TV Aberta",TV Cultura BA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede Família HD 720p
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Gazeta HD
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Gazeta RN
+http://172.93.110.130:1935/televisaorn/televisaorn/chunklist_w544351894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Nova Cidade HD 720p
+http://stream01.msolutionbrasil.com.br/hls/tvcidadenet/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Aberta SP
+http://inaclive.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Agro Canal
+http://189.86.89.116/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Agro Brasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV Aberta",Canal do Boi
+http://189.86.89.116/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Novo Canal
+http://189.86.89.116/hls-live/livenc/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Conexão BR
+http://189.86.89.116/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Sesc TV HD 720p
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+#EXTINF:0 tvg-id="Canalrural.br" group-title="TV Aberta",Canal Rural
+http://67149o.ha.azioncdn.net/hlslow/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Terraviva
+http://evcv.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Tvu Gaúcha
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Programas Band
+http://evpp.mm.uol.com.br/band/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Donos da Bola (seg a sex 13:00)
+http://evpp.mm.uol.com.br/band/donosdabola/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Jogo Aberto (seg a sex 11:00)
+http://evpp.mm.uol.com.br/band/jogoaberto/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Terceiro Tempo (Dom 17:50)
+http://evpp.mm.uol.com.br/band/terceirotempo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Panico na Band (Dom 21:45)
+http://evpp.mm.uol.com.br/band/panico/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Café com Jornal (seg a sex 7:30)
+http://evpp.mm.uol.com.br/band/cafecomjornal/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Dia Dia (seg a sex 9:10)
+http://evpp.mm.uol.com.br/band/diadia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Brasil Urgente (seg a sab 16:00)
+http://evpp.mm.uol.com.br/band/brasilurgente/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Jornal da Band (seg a sab 19:20)
+http://evpp.mm.uol.com.br/band/jornaldaband/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Jornal da Noite (seg a sex 00:15)
+http://evpp.mm.uol.com.br/band/jornaldanoite/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Programas Band",Masterchef
+http://evpp.mm.uol.com.br/geob_band/masterchefm/playlist.m3u8
+
+#EXTINF:0 tvg-id="Mixtv.br" group-title="Canais Variedades",Mix TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Canais Variedades",Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?fix
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",TV Imagem (Clipes)
+http://stmv3.caxiashost.com.br/imagem/imagem/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",Vevo Clipes Brasil
+http://stmv1.euroti.com.br:1935/tvjesus/tvjesus/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",MTV clipes 1
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",MTV clipes 2
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",Music Box Gold
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",Hit TV music
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",Internacional Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",Canais de Notícias
+https://goo.gl/x1GDi4
+#EXTINF:0 tvg-id="Globonews.br" group-title="Canais de Notícias",Globo News SD
+http://158.58.172.5:8081/look/globonew/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",Rede Minas BH
+rtmp://200.198.40.3:1935/live/livestream
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",GV News (Vitória)
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",Record News HD
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Canais de Notícias",Record News (tv guara)
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Canais de Notícias",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Canais de Notícias",TV Câmara 2
+http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
+#EXTINF:0 tvg-id="Tvjustica.br" group-title="Canais de Notícias",TV justiça
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8?
+################################apex iptv###########################################
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",Rede Gospel
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="Canais Religiosos Evangélico",TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0 tvg-id="Rit.br" group-title="Canais Religiosos Evangélico",Rit TV
+http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",Nossa TV
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",Rede Brasil De Comunicacão PE HD
+http://rbc.directradios.com:1935/rbc/rbc_720p/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",Rede Brasil De Comunicacão PE SD
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Evangélico",Gospel music TV
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Canais Religiosos Católico",Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Católico",Canção Nova HD 720p
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Religiosos Católico",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_500_av-b.m3u8
+#EXTINF:0 tvg-id="Redevida.br" group-title="Canais Religiosos Católico",Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Canais Religiosos Católico",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+################################apex iptv###########################################
+#EXTINF:0 tvg-id="ext" group-title="Canais Documentários",Animal Planet Inglês
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Canais Documentários",Discovery Channel
+http://srv.elitehdbr.com:25461/live/MaytonSantos/LtbIx61vgW/132.ts
 
 
-#EXTM3U
+#EXTINF:0 tvg-id="AmazonSat.br" group-title="Canais Variedades",Amazon Sat
+http://gbbrlive2.sambatech.com.br/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",TVE Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",TV Shoptime
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+#EXTINF:0 tvg-id="Polishop.br" group-title="Canais Variedades",Polishop TV
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",A Fazenda 24h
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/master.m3u8
+#EXTINF:0 tvg-id="Multishow.br" group-title="Canais Variedades",Multishow
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+#EXTINF:0 tvg-id="Multishow.br" group-title="Canais Variedades",Multishow SD
+http:/107.182.231.88:1935/liverepeater/ch68-1/live.m3u8
+#EXTINF:0 tvg-id="Viva.uk" group-title="Canais Variedades",Viva
+http://107.182.231.88:1935/liverepeater/ch45-1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Variedades",TV Pantanal
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+################################apex iptv###########################################
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine Filmes
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine Filmes 2
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine Filmes 3
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine Filmes 4
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine Filmes 5
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:0 tvg-id="Universal.uk" group-title="Canais Filmes",Universal Channel SD
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Canais Filmes",Fox SD
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Canais Filmes",Fox
+http://107.182.231.88:1935/liverepeater/ch40-1/live.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Canais Filmes",HBO
+http://107.182.231.88:1935/liverepeater/ch37-1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Filmes",Cine + Filmes
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais Infantil",Retro Cartoon
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Canais Infantil",Discovery Kids
+http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Canais Infantil",Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Canais Infantil",Nick
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais Infantil",Cartoon Network SD
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8
+################################apex iptv###########################################
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Futebol AO VIVO APEXIPTV
+http://load-01.aovivo.gratis/live/10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://107.182.231.88:1935/liverepeater/ch38-1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://loadnovo.aovivo.gratis:8081/live/19/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://107.182.231.88:1935/liverepeater//ch14-1//live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://canal.aovivo.gratis/live/7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Futebol ao vivo",Jogos AO VIVO APEXIPTV
+http://95.141.35.104:8081/look/pfcx/playlist.m3u8
+################################apex iptv###########################################
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Canais de Esportes
+https://goo.gl/ogWJ4h
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Allsports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Sport TV 1 Portugal (Live Stream Player)
+rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Canais De Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Canais De Esportes",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",TV Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Canais De Esportes",Premiere Clubes
+http://95.141.35.104:8081/look/pfcx/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Canais De Esportes",Sportv SD
+http://95.141.35.104:8081/look/sportv00/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Canais De Esportes",Sportv
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Canais De Esportes",Sportv
+http:/107.182.231.88:1935/liverepeater/ch01-1/live.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Canais De Esportes",Sportv 2
+http:/107.182.231.88:1935/liverepeater/ch02-1/live.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Canais De Esportes",Sportv 3
+http:/107.182.231.88:1935/liverepeater/ch03-1/live.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Canais De Esportes",ESPN SD
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Canais De Esportes",ESPN
+http:/107.182.231.88:1935/liverepeater/ch06-1/live.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Canais De Esportes",ESPN +
+http:/107.182.231.88:1935/liverepeater/ch07-1/live.m3u8
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Canais De Esportes",ESPN Brasil SD
+http:/107.182.231.88:1935/liverepeater/ch05-1/live.m3u8
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Canais De Esportes",ESPN Brasil
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Canais De Esportes",Fox Sports
+http:/107.182.231.88:1935/liverepeater/ch13-1/live.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Canais De Esportes",Fox Sports SD
+http://loadnovo.aovivo.gratis:8081/live/19/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Canais De Esportes",Fox Sports 2
+http://107.182.231.88:1935/liverepeater//ch14-1//live.m3u8
+#EXTINF:0 tvg-id="Combatehd.br" group-title="Canais De Esportes",Combate SD
+http://95.141.32.213:8081/look/combate3/playlist.m3u8
+#EXTINF:0 tvg-id="Combatehd.br" group-title="Canais De Esportes",Combate
+http://107.182.231.88:1935/liverepeater//ch15-1//live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo BR 360p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_03/playlist-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo BR 480p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_03/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo BR HD
+http:/enlsso9vfh.singularcdn.net.br/live/canal_03/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 240p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-240p.m3u8
+#EXTINF:0 tvg-id="EsporteInterativo.br" group-title="Canais De Esportes",Esporte Interativo 360p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 480p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo HD
+http:/enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 2 240p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-240p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 2 360p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 2 480p
+http:/enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais De Esportes",Esporte Interativo 2 HD
+http:/enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-720p.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/images/seuiptv.png" group-title="", Listaiptvbrasil.com 25/06/17
 http://sendvid.com/bn081x1f.mp4
 
