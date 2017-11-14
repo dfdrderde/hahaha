@@ -1,211 +1,846 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
 
 
 
 
 
-<item>
-<title>[COLOR=yellow] [B] Sportv 1   [/B] [/COLOR]</title>
-<sportsdevil>http://vertv0800.com/player-videojs.html#id=AO1NTbuQ3cpxWehxGcvEmd1JHZuFWbvEmd1JHZuFWbv02bj5Sb0NndyNnLyYXb0NHQtVXatVmcQRESzlWYuF2QvNGblJ0LvoDc0RHa&logo=cmbw5ibvlGdjFWZul2YlxWZ09iY08WNuBDMkZ3LnJ3bucWbpR3cvBnL5M3LvoDc0RHa</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEfeY-rNf0JSGpHGpGmNtd6PHsQ8BntZ8qWJkXGqlF9qoDimA</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=yellow] [B] Sportv 1   [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEfeY-rNf0JSGpHGpGmNtd6PHsQ8BntZ8qWJkXGqlF9qoDimA</thumbnail>
-</item>
 
 
-<item>
-<title>[COLOR=yellow] [B] Sportv 2   [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/Sportv-2-Brasil-105</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s26.postimg.org/mao8faent/globo-sp.jpg" group-title="TV ABERTA",Globo SP
+http://goo.gl/NPr99h
 
-<item>
-<title>[COLOR=yellow] [B] Sportv 2   [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://s26.postimg.org/mao8faent/globo-sp.jpg" group-title="TV ABERTA",Globo SP
+http://bit.ly/2jb9z2
 
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="http://s26.postimg.org/w3igvdxvd/globo-rj_1.jpg" group-title="TV ABERTA",Globo RJ
+http://bit.ly/2Awh48m
 
-<item>
-<title>[COLOR=yellow] [B] Sportv 3  [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/Sportv-3-Brasil-106</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Globo Nordeste " tvg-logo="http://s26.postimg.org/guvbukrvt/globo-nordeste.jpg" group-title="TV ABERTA",Globo Nordeste
+http://bit.ly/2Awn9lc
 
-<item>
-<title>[COLOR=yellow] [B] Sportv 3  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Band SP" tvg-logo="http://s27.postimg.org/3o31o59j7/band.jpg" group-title="TV ABERTA",Band SP
+http://geantiptv.ddns.net:61555/live/geantsat.com-5689/04-11GryssdddQfy2017/2036.m3u8
+
+EXTINF:-1 tvg-id="Record SP" tvg-logo="http://s27.postimg.org/etbcj5vvn/record.jpg" group-title="TV ABERTA",Record SP 
+http://bit.ly/2m5XP2o
+
+#EXTINF:-1 tvg-id="SBT SP" tvg-logo="http://s26.postimg.org/8cstgdzxl/sbtsp.png" group-title="TV ABERTA",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT PB" tvg-logo="http://s26.postimg.org/n2i8ymrl5/TV_Tamba.jpg" group-title="TV ABERTA",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+################################################################################# DOCUMENTÁRIOS
 
 
-<item>
-<title>[COLOR=yellow] [B] ESPN Brasil  [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/ESPN-Brasil-112</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="The History Channel" tvg-logo="http://s26.postimg.org/or6zpkskp/history_channel_logo-1375411.png" group-title="DOCUMENTÁRIOS",History              
+http://goo.gl/S8stPF
 
-<item>
-<title>[COLOR=yellow] [B] ESPN Brasil  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="The History Channel" tvg-logo="http://s26.postimg.org/or6zpkskp/history_channel_logo-1375411.png" group-title="DOCUMENTÁRIOS",History     
+http://bit.ly/2AlBgJc
 
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://s26.postimg.org/5dar3mqi1/H2_1.png" group-title="DOCUMENTÁRIOS",History 2
+http://bit.ly/2Av99YQ
 
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://s26.postimg.org/5dar3mqi1/H2_1.png" group-title="DOCUMENTÁRIOS",History 2
+http://goo.gl/MJxvDW?DantasIPTV
 
-<item>
-<title>[COLOR=yellow] [B] FOX Sports  [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/FOX-Sports-Brasil-142</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/820311012511346689/iLPhUJPn.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id"Discovery Channel" tvg-logo="http://s26.postimg.org/8o3ph95t5/Discovery-_Channel.jpg" group-title="DOCUMENTÁRIOS",Discovery Channel
+http://bit.ly/2iFYy5o
 
-<item>
-<title>[COLOR=yellow] [B] FOX Sports  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/820311012511346689/iLPhUJPn.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id"Discovery Channel" tvg-logo="http://s26.postimg.org/8o3ph95t5/Discovery-_Channel.jpg" group-title="DOCUMENTÁRIOS",Discovery Channel
+http://goo.gl/C8XWBi
 
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://s26.postimg.org/dzn7fph9l/sciencechannel-hor.png" group-title="DOCUMENTÁRIOS",Discovery Science
+http://bit.ly/2zHTzfw
 
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://s26.postimg.org/sy5ma4wbt/8e581db019d42be741564707a9acd240.jpg" group-title="DOCUMENTÁRIOS",Discovery Turbo
+http://bit.ly/2yjbC73
 
-<item>
-<title>[COLOR=yellow] [B] FOX Sports 2 [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/FOX-Sports2-Brasil-143</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://elitedecosat.net/wp-content/uploads/2014/01/foxsports2.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://s26.postimg.org/43qptt0vd/2b5fee6a72acd7741b267a990db13e2c.png" group-title="DOCUMENTÁRIOS",Animal Planet
+http://bit.ly/2ykRLVp
 
-<item>
-<title>[COLOR=yellow] [B] FOX Sports 2 [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://elitedecosat.net/wp-content/uploads/2014/01/foxsports2.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://s26.postimg.org/43qptt0vd/2b5fee6a72acd7741b267a990db13e2c.png" group-title="DOCUMENTÁRIOS",Animal Planet
+http://goo.gl/RgWpZ4
 
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="http://s26.postimg.org/64lusdmeh/hh_placeholder.jpg" group-title="DOCUMENTÁRIOS",Discovery Home & Health
+http://bit.ly/2hVf026
 
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="http://s26.postimg.org/64lusdmeh/hh_placeholder.jpg" group-title="DOCUMENTÁRIOS",Discovery Home & Health
+http://goo.gl/rEJGNa
 
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://s26.postimg.org/yp4zfcj3d/discoverycivilizationb.png" group-title="DOCUMENTÁRIOS",Discovery Civilization
+http://bit.ly/2m5kPON
 
-<item>
-<title>[COLOR=yellow] [B] PFC  [/B] [/COLOR]</title>
-<sportsdevil>http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo/</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://www.dicasvip.com/wp-content/uploads/2014/03/NARRACAO-PERSONALIZADA-NO-PFC.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://s26.postimg.org/t18bzbag9/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theater HD
+http://bit.ly/2zoobSn
 
-<item>
-<title>[COLOR=yellow] [B] PFC  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://www.dicasvip.com/wp-content/uploads/2014/03/NARRACAO-PERSONALIZADA-NO-PFC.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://s1.postimg.org/7kg5or35cv/690f11089db220e7d786005eeb69f000.png" group-title="DOCUMENTÁRIOS",Discovery World
+http://bit.ly/2zszYyG
 
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://s1.postimg.org/7kg5or35cv/690f11089db220e7d786005eeb69f000.png" group-title="DOCUMENTÁRIOS",Discovery World
+http://goo.gl/1Kxzrb
 
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://s26.postimg.org/dvb240uqx/NG_LOGO_gray.png" group-title="DOCUMENTÁRIOS",National Geographic
+http://goo.gl/grgPDo
 
-<item>
-<title>[COLOR=yellow] [B] TV Record  [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/TV-Record-99</sportsdevil>
-<sportsdevil>http://tvgente.in/watch/TV-Record-99-2</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://cdn5.thr.com/sites/default/files/2012/08/record_logo_a_l.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="http://s26.postimg.org/dvb240uqx/NG_LOGO_gray.png" group-title="DOCUMENTÁRIOS",National Geographic
+http://bit.ly/2zGBlLg
 
-<item>
-<title>[COLOR=yellow] [B] TV Record  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://cdn5.thr.com/sites/default/files/2012/08/record_logo_a_l.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://s26.postimg.org/g15cyiy7d/natgeowild.png" group-title="DOCUMENTÁRIOS",Nat Geo Wild
+http://goo.gl/RZbakY
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://s26.postimg.org/g15cyiy7d/natgeowild.png" group-title="DOCUMENTÁRIOS",Nat Geo Wild
+http://bit.ly/2zskfzO
+
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ke3wgy6y1/TLC-estreia-temporada-in_dita-de-_Uma-_Mulher-de-_P.png" group-title="DOCUMENTÁRIOS",TLC
+http://goo.gl/eJMe2F
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://s26.postimg.org/ke3wgy6y1/TLC-estreia-temporada-in_dita-de-_Uma-_Mulher-de-_P.png" group-title="DOCUMENTÁRIOS",TLC
+http://bit.ly/2yKD3ei
+
+#EXTINF:-1 tvg-id="ID - Discovery Investigação" tvg-logo="http://i0.wp.com/s26.postimg.org/6nhra5z1l/maxresdefault.jpg" group-title="DOCUMENTÁRIOS",ID - Discovery Investigação
+http://bit.ly/2zoDXNl
+
+#EXTINF:-1 tvg-id="ID - Discovery Investigação" tvg-logo="http://i0.wp.com/s26.postimg.org/6nhra5z1l/maxresdefault.jpg" group-title="DOCUMENTÁRIOS",ID - Discovery Investigação
+http://goo.gl/ghexXk
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://s26.postimg.org/xaltx4o15/logo-fishtv-blog1-770x439_c.jpg" group-title="DOCUMENTÁRIOS",Fish TV
+http://bit.ly/2yJgp6i
 
 
+################################################################################# FILMES & SÉRIES
 
-<item>
-<title>[COLOR=yellow] [B] Record News   [/B] [/COLOR]</title>
-<sportsdevil>http://www.cxtvlive.com/live-tv/record-news</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://3.bp.blogspot.com/_5G6w8QP4C9s/Sxr8951z2NI/AAAAAAAAG9Y/O1yV3BTu8ZI/s400/20070927020331_record_news1%5B1%5D.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-logo="http://s26.postimg.org/sh1zu28xl/ACTION_assinatura.jpg" group-title="FILMES & SÉRIES",Telecine Action HD
+http://bit.ly/2hgtGYO
 
-<item>
-<title>[COLOR=yellow] [B] Record News   [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>http://3.bp.blogspot.com/_5G6w8QP4C9s/Sxr8951z2NI/AAAAAAAAG9Y/O1yV3BTu8ZI/s400/20070927020331_record_news1%5B1%5D.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-logo="http://s26.postimg.org/gggjtc1ix/assistir-telecine-liberado.jpg" group-title="FILMES & SÉRIES",Telecine Premium
+http://bit.ly/2hmD7cT
+
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s26.postimg.org/i0lvrq9x5/117762540_1280x720.jpg" group-title="FILMES & SÉRIES",Telecine Touch
+http://bit.ly/2m6bLJE
+
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s26.postimg.org/5fq021ynt/telecine-fun.jpg" group-title="FILMES & SÉRIES",Telecine Fun
+http://bit.ly/2yJPDuo
+
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s26.postimg.org/5fq021ynt/telecine-fun.jpg" group-title="FILMES & SÉRIES",Telecine Fun
+http://goo.gl/wc3H66
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-logo="http://s26.postimg.org/vql0e9mex/images.jpg" group-title="FILMES & SÉRIES",Telecine Pipoca
+http://bit.ly/2yIXmZU
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s26.postimg.org/b9022mabd/793b7ea395ed2001b187776a8d259888.jpg" group-title="FILMES & SÉRIES",Telecine Cult
+http://bit.ly/2zomB30
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s26.postimg.org/b9022mabd/793b7ea395ed2001b187776a8d259888.jpg" group-title="FILMES & SÉRIES",Telecine Cult
+http://goo.gl/6XqhEH
+
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s26.postimg.org/sil4eypix/1000x420_moviehbo-logo.jpg" group-title="FILMES & SÉRIES",HBO
+http://bit.ly/2zHCuC6
+
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s26.postimg.org/sil4eypix/1000x420_moviehbo-logo.jpg" group-title="FILMES & SÉRIES",HBO
+http://goo.gl/sqhPr1
+
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s26.postimg.org/ry63c9wah/hbo-2.jpg" group-title="FILMES & SÉRIES",HBO 2
+http://bit.ly/2AvbUt2
+
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s26.postimg.org/ry63c9wah/hbo-2.jpg" group-title="FILMES & SÉRIES",HBO 2
+http://goo.gl/kgGkn9
+
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-logo="http://s26.postimg.org/bxi3d1nsp/HBO_Plus.png" group-title="FILMES & SÉRIES",HBO Plus
+http://bit.ly/2yJNVJK
+
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s26.postimg.org/6nmbd8ibd/fb-signature-480x320.jpg" group-title="FILMES & SÉRIES",HBO Signature
+http://bit.ly/2zt8pDm
+
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-logo="http://s26.postimg.org/xzcz0txo9/HBO_Family_logo.png" group-title="FILMES & SÉRIES",HBO Family
+http://bit.ly/2m449r3
+
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-logo="http://s26.postimg.org/xzcz0txo9/HBO_Family_logo.png" group-title="FILMES & SÉRIES",HBO Family
+http://goo.gl/rCjh6n
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s26.postimg.org/ogcgyuoxl/maxresdefault.jpg" group-title="FILMES & SÉRIES",Max
+http://bit.ly/2ztxQHg
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s26.postimg.org/ogcgyuoxl/maxresdefault.jpg" group-title="FILMES & SÉRIES",Max
+http://goo.gl/Thv2TG
+
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://s26.postimg.org/ctwybgr09/maxresdefault_1.jpg" group-title="FILMES & SÉRIES",Max Prime
+http://bit.ly/2AsHasV
+
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://s26.postimg.org/ctwybgr09/maxresdefault_1.jpg" group-title="FILMES & SÉRIES",Max Prime
+http://goo.gl/ngxdnB
+
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://s26.postimg.org/ckzdlje7t/maxprime2b.png" group-title="FILMES & SÉRIES",Max Prime*e
+http://is.gd/0rR68M
+
+#EXTINF:-1 tvg-id="Max Up" tvg-logo="http://s26.postimg.org/5f7mj354p/maxresdefault_2.jpg" group-title="FILMES & SÉRIES",Max Up
+http://bit.ly/2zIGAKs
+
+#EXTINF:-1 tvg-id="Max Up" tvg-logo="http://s26.postimg.org/5f7mj354p/maxresdefault_2.jpg" group-title="FILMES & SÉRIES",Max Up 
+http://goo.gl/Prp7Lx
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://s26.postimg.org/4h0wrnni1/pmdb_Nm4.jpg" group-title="FILMES & SÉRIES",Cinemax
+http://bit.ly/2zsviqL
+
+#EXTINF:-1 tvg-id="I.Sat" tvg-logo="http://s26.postimg.org/593kqurp5/I_sat.jpg" group-title="FILMES & SÉRIES",I sat
+http://is.gd/wavUfb
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s26.postimg.org/dha3pl8zd/novologoaxn_01.jpg" group-title="FILMES & SÉRIES",AXN
+http://bit.ly/2m6fOWm
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s26.postimg.org/dha3pl8zd/novologoaxn_01.jpg" group-title="FILMES & SÉRIES",AXN
+http://is.gd/qzh3u2
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s26.postimg.org/dha3pl8zd/novologoaxn_01.jpg" group-title="FILMES & SÉRIES",AXN
+http://is.gd/6A5oUL
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s26.postimg.org/dha3pl8zd/novologoaxn_01.jpg" group-title="FILMES & SÉRIES",AXN
+http://goo.gl/wQHMDu
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES & SÉRIES",Fox HD
+http://bit.ly/2hhhUxv
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES & SÉRIES",Fox
+http://is.gd/Zl9Wz8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://s26.postimg.org/trwfgohbt/FOX_Crime_changing_to_FOX_Life_DStv_Star_Sat.png" group-title="FILMES & SÉRIES",Fox Life
+http://bit.ly/2zuebH1
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://s26.postimg.org/trwfgohbt/FOX_Crime_changing_to_FOX_Life_DStv_Star_Sat.png" group-title="FILMES & SÉRIES",Fox Life
+http://goo.gl/RJL6Da
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://s26.postimg.org/q5vo15ha1/foxpremium1.png" group-title="FILMES & SÉRIES",Fox Premium 1
+http://bit.ly/2zKdf2k
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://s26.postimg.org/xoslf0cs9/fox-action.png" group-title="FILMES & SÉRIES",Fox Premium 2
+http://bit.ly/2ylC8N7
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://s26.postimg.org/xoslf0cs9/fox-action.png" group-title="FILMES & SÉRIES",Fox Premium 2
+http://goo.gl/dAzGeF
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://s26.postimg.org/r1o29rv09/maxresdefault.jpg" group-title="FILMES & SÉRIES",FX
+http://bit.ly/2hnztj4
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://s26.postimg.org/r1o29rv09/maxresdefault.jpg" group-title="FILMES & SÉRIES",FX
+http://is.gd/jCe0Th
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s26.postimg.org/cjqv1s3p5/Megapix.jpg" group-title="FILMES & SÉRIES",Megapix
+http://bit.ly/2hnbHU8
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s26.postimg.org/cjqv1s3p5/Megapix.jpg" group-title="FILMES & SÉRIES",Megapix
+http://goo.gl/N1s6mT
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s26.postimg.org/cjqv1s3p5/Megapix.jpg" group-title="FILMES & SÉRIES",Megapix
+http://is.gd/UVdXQo
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://s26.postimg.org/qep5k8y49/nota_space-estrena-la-serie-zoo-.jpg" group-title="FILMES & SÉRIES",Space
+http://bit.ly/2zpniJt
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://s26.postimg.org/qep5k8y49/nota_space-estrena-la-serie-zoo-.jpg" group-title="FILMES & SÉRIES",Space
+http://is.gd/DKxzJ8
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://s26.postimg.org/4gsoqgj3t/5718e491a4ded.png" group-title="FILMES & SÉRIES",TBS
+http://bit.ly/2iIDdrY
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://s26.postimg.org/4gsoqgj3t/5718e491a4ded.png" group-title="FILMES & SÉRIES",TBS
+http://goo.gl/LPX45g
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://s26.postimg.org/8shafgq0p/redesign-novo-logo-canal-tcm-turner-classic-movi.png" group-title="FILMES & SÉRIES",TCM
+http://bit.ly/2hnSCkU
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://s26.postimg.org/8shafgq0p/redesign-novo-logo-canal-tcm-turner-classic-movi.png" group-title="FILMES & SÉRIES",TCM
+http://goo.gl/tZv1ub
+
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://s26.postimg.org/o2h5mnlix/default.jpg" group-title="FILMES & SÉRIES",Syfy 
+http://bit.ly/2hXX1rz
+
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://s26.postimg.org/o2h5mnlix/default.jpg" group-title="FILMES & SÉRIES",Syfy
+http://goo.gl/FiVnqr
+
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s26.postimg.org/uhkrx2hmh/Studio-_Universal.jpg" group-title="FILMES & SÉRIES",Studio Universal
+http://bit.ly/2hgKD5d
+
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s26.postimg.org/uhkrx2hmh/Studio-_Universal.jpg" group-title="FILMES & SÉRIES",Studio Universal
+http://goo.gl/w7SN2g
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://s26.postimg.org/kyb33lu49/Sony_Channel-_Logo.jpg" group-title="FILMES & SÉRIES",Sony
+http://bit.ly/2jfnrc5
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="http://s26.postimg.org/kyb33lu49/Sony_Channel-_Logo.jpg" group-title="FILMES & SÉRIES",Sony
+http://goo.gl/Nz7Kmv
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://s26.postimg.org/yhrx9b83d/tnt_serie.jpg" group-title="FILMES & SÉRIES",TNT Séries
+http://bit.ly/2AocDLK
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://s26.postimg.org/yhrx9b83d/tnt_serie.jpg" group-title="FILMES & SÉRIES",TNT Séries
+http://is.gd/MjhBKE
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://s26.postimg.org/51cb6w1q1/dc58f76e15a157a4e7e807824d5f6d8d.png" group-title="FILMES & SÉRIES",TNT
+http://bit.ly/2jd58UU
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://s26.postimg.org/51cb6w1q1/dc58f76e15a157a4e7e807824d5f6d8d.png" group-title="FILMES & SÉRIES",TNT
+http://goo.gl/KYBxaP
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://s26.postimg.org/8aqqdcptl/28846.jpg" group-title="FILMES & SÉRIES",Universal Channel 
+http://bit.ly/2zx9VV9
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://s26.postimg.org/8aqqdcptl/28846.jpg" group-title="FILMES & SÉRIES",Universal Channel 
+http://is.gd/TMsxa8
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s26.postimg.org/p1242oo8p/paramount-pictures-logo.jpg" group-title="FILMES & SÉRIES",Paramount
+http://bit.ly/2zvPUjO
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s26.postimg.org/p1242oo8p/paramount-pictures-logo.jpg" group-title="FILMES & SÉRIES",Paramount
+http://goo.gl/NsK4fw
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://s26.postimg.org/xxcw6meux/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="FILMES & SÉRIES",Warner Channel
+http://bit.ly/2ylGNP7
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://s26.postimg.org/xxcw6meux/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="FILMES & SÉRIES",Warner Channel
+http://goo.gl/vfrExr
+
+#EXTINF:-1 tvg-id="TruTV" tvg-logo="http://s26.postimg.org/3tydeobll/largelogo_100.jpg" group-title="FILMES & SÉRIES",TruTV
+http://is.gd/DiXvdB
+
+#EXTINF:-1 tvg-id="TruTV" tvg-logo="http://s26.postimg.org/3tydeobll/largelogo_100.jpg" group-title="FILMES & SÉRIES",TruTV
+http://goo.gl/2hDnpg
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://s26.postimg.org/4yx0xsng9/b9e019e167dbe9b3dca370e8051faf1f.jpg" group-title="FILMES & SÉRIES",A&E
+http://goo.gl/1qFJFW
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://s26.postimg.org/4yx0xsng9/b9e019e167dbe9b3dca370e8051faf1f.jpg" group-title="FILMES & SÉRIES",A&E
+http://bit.ly/2yl6DCX
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://s26.postimg.org/4yx0xsng9/b9e019e167dbe9b3dca370e8051faf1f.jpg" group-title="FILMES & SÉRIES",A&E
+http://is.gd/h73hFO
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://s26.postimg.org/te0nl3wzd/Arte-1-logo-600x600.jpg" group-title="FILMES & SÉRIES",Arte 1
+http://is.gd/ZaLFpM
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://s26.postimg.org/698mi2ldl/canal-brasil-_NOVO.jpg" group-title="FILMES & SÉRIES",Canal Brasil
+http://bit.ly/2iILmNc
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://s26.postimg.org/698mi2ldl/canal-brasil-_NOVO.jpg" group-title="FILMES & SÉRIES",Canal Brasil
+http://goo.gl/udhua5
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg" group-title="FILMES & SÉRIES",AMC
+http://goo.gl/T17swc
 
 
-<item>
-<title>[COLOR=yellow] [B] Globo    [/B] [/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/Globo-132-3</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao3</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao4</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao8</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao7</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=yellow] [B]Globo [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=yellow] [B]  Globo News   [/B] [/COLOR]</title>
-<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao0</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao2</sportsdevil>
-<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao8</sportsdevil>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112011/globonews.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=yellow] [B]  Globo News  [/B] [/COLOR]</title>
-<link></link>
-<referer>http://tvgente.in</referer>
-<fanart></fanart>
-<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112011/globonews.jpg</thumbnail>
-</item>
 
 
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ujEoO6o.png" group-title="Reality Show", A Fazenda Opç. 1
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ujEoO6o.png" group-title="Reality Show", A Fazenda Opç. 2
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_360_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/ujEoO6o.png" group-title="Reality Show", A Fazenda Opç. 3
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZPrNLgq.gif" group-title="Filmes e Séries", A&E
+http://w04.duoplay.xyz/099/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/RESBnFV.png" group-title="Cultura", Animal Planet
+http://w04.duoplay.xyz/100/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e80ayQS.jpg" group-title="Abertos", Agrocanal
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/v9Qp0Ux.png" group-title="Filmes e Séries", AMC
+http://w03.duoplay.xyz/071/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KOLomf3.png" group-title="Esportes", ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nTzOXZi.png" group-title="Abertos", Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mnPxqJT.png" group-title="Filmes e Séries", AXN
+http://w01.duoplay.xyz/016/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9Mi8AZC.jpg" group-title="Infantis", Baby TV
+http://w01.duoplay.xyz/002/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/U5MCuDu.png" group-title="Abertos", Band
+http://w01.duoplay.xyz/012/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/U5MCuDu.png" group-title="Abertos", Band PA
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bqDHEOO.png" group-title="Esportes", Band Sports
+http://w01.duoplay.xyz/010/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yaEM7z4.jpg" group-title="Variedades", Bis
+http://w02.duoplay.xyz/059/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QeWkeCw.jpg" group-title="Infantis", Boomerang
+http://w03.duoplay.xyz/091/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EjLhByp.png" group-title="Sem sinal", Canal 1
+http://w01.duoplay.xyz/013/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EjLhByp.png" group-title="Sem sinal", Canal 2
+http://w04.duoplay.xyz/101/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EjLhByp.png" group-title="Sem sinal", Canal 3
+http://w04.duoplay.xyz/102/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EjLhByp.png" group-title="Sem sinal", Canal 4
+http://w04.duoplay.xyz/103/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EjLhByp.png" group-title="Sem sinal", Canal 5
+http://w04.duoplay.xyz/103/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2hpqTMG.png" group-title="Filmes e Séries", Canal Brasil
+http://w01.duoplay.xyz/017/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2ltCarV.png" group-title="Religiosos", Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Bip3z3H.jpg" group-title="Infantis", Cartoon Network
+http://w01.duoplay.xyz/027/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Bip3z3H.jpg" group-title="Infantis", Cartoon Network Opç. 2
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/o2jEu3t.jpg" group-title="Variedades", Chef TV
+http://w03.duoplay.xyz/085/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9Q0lkF0.jpg" group-title="Filmes e Séries", Cine +
+http://live.sba1.com:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6qgmszX.png" group-title="Filmes e Séries", Cinemax
+http://w01.duoplay.xyz/018/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hl84tEO.png" group-title="Filmes e Séries", Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/AnEebGf.png" group-title="Esportes", Combate
+http://w03.duoplay.xyz/074/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/S9FUwhG.jpg" group-title="Cultura", Curta!
+http://w01.duoplay.xyz/014/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jkPOTDb.png" group-title="Cultura", Discovery Channel
+http://w03.duoplay.xyz/066/myStream/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/unCUpH8.png" group-title="Infantis", Discovery Kids
+http://w02.duoplay.xyz/061/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/0S7KdH1.jpg" group-title="Variedades", Discovery Home & Health
+http://w03.duoplay.xyz/078/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/HRqYCBb.jpg" group-title="Cultura", Discovery World
+http://w02.duoplay.xyz/063/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KT12XKq.png" group-title="Infantis", Disney Channel
+http://w03.duoplay.xyz/076/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xE6hA2Y.png" group-title="Infantis", Disney Junior
+http://w03.duoplay.xyz/087/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NjwsA1j.png" group-title="Infantis", Disney XD
+http://w03.duoplay.xyz/086/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NjwsA1j.png" group-title="Infantis", Disney XD Opç. 2
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XxbpboH.png" group-title="Esportes", ESPN
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XxbpboH.png" group-title="Esportes", ESPN Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3Qftv26.png" group-title="Esportes", ESPN+
+http://w01.duoplay.xyz/006/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3Qftv26.png" group-title="Esportes", ESPN+ Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/1/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EofFVhi.png" group-title="Esportes", ESPN Brasil
+http://w02.duoplay.xyz/035/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EofFVhi.png" group-title="Esportes", ESPN Brasil Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/17/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FF4odOi.png" group-title="Esportes", Esporte Interativo BR
+http://w02.duoplay.xyz/048/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fWeSuGC.png" group-title="Esportes", Esporte Interativo 1
+http://w02.duoplay.xyz/046/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NT8UBTc.png" group-title="Esportes", Esporte Interativo 2
+http://w01.duoplay.xyz/025/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5shPqU6.jpg" group-title="Filmes e Séries", Filmes
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/N8Yoff6.jpg" group-title="Filmes e Séries", Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Okfs8yE.png" group-title="Variedades", Fox Life
+http://w03.duoplay.xyz/083/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6xlkK3T.png" group-title="Filmes e Séries", Fox Premium 1
+http://w04.duoplay.xyz/097/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ILewqnx.png" group-title="Filmes e Séries", Fox Premium 2
+http://w04.duoplay.xyz/098/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ykhizkC.png" group-title="Esportes", Fox Sports
+http://w02.duoplay.xyz/036/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ykhizkC.png" group-title="Esportes", Fox Sports Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/19/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UIvc4UV.png" group-title="Esportes", Fox Sports 2
+http://w01.duoplay.xyz/028/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6jE0jYr.jpg" group-title="Filmes e Séries", FX
+http://w01.duoplay.xyz/026/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/luyRF5v.png" group-title="Notícias", Globo News
+http://w03.duoplay.xyz/075/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/r8W65gQ.png" group-title="Abertos", Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/r8W65gQ.png" group-title="Abertos", Globo PR
+http://w02.duoplay.xyz/062/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/r8W65gQ.png" group-title="Abertos", Globo RJ
+http://w01.duoplay.xyz/021/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/r8W65gQ.png" group-title="Abertos", Globo SP
+http://w02.duoplay.xyz/060/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/F8QnqJp.png" group-title="Infantis", Gloob
+http://w03.duoplay.xyz/089/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SDyNAqg.gif" group-title="Variedades", GNT
+http://w03.duoplay.xyz/084/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DPdD2fF.png" group-title="Filmes e Séries", Gospel Movies Television
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ewrQ62i.png" group-title="Variedades", Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XHzuF5p.jpg" group-title="Filmes e Séries", HBO
+http://w02.duoplay.xyz/053/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/u2K73bp.jpg" group-title="Filmes e Séries", HBO 2
+http://w02.duoplay.xyz/047/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/uiLdpy7.gif" group-title="Filmes e Séries", HBO Family
+http://w03.duoplay.xyz/088/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IIIXx6m.png" group-title="Filmes e Séries", HBO Plus
+http://w02.duoplay.xyz/037/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/y7AOzoh.png" group-title="Filmes e Séries", HBO Signature
+http://w03.duoplay.xyz/065/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X0M2pe1.png" group-title="Cultura", History
+http://w03.duoplay.xyz/069/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lhBTTUP.png" group-title="Cultura", History 2
+http://w02.duoplay.xyz/054/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/8ylqcH1.png" group-title="Variedades", ID - Investigação Discovery
+http://w02.duoplay.media/056/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/516t907.png" group-title="Variedades", Lifetime
+http://w03.duoplay.xyz/090/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aIHadZl.jpg" group-title="Variedades", Mais Globosat
+http://w03.duoplay.xyz/081/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H6npthQ.png" group-title="Filmes e Séries", Max
+http://w03.duoplay.xyz/095/myStream/playlist.m3u8?FCSPlay
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gfLChmv.png" group-title="Filmes e Séries", Max Prime
+http://w03.duoplay.xyz/092/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pPqexqS.png" group-title="Filmes e Séries", Max Up
+http://w02.duoplay.xyz/045/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X3r7KQC.png" group-title="Filmes e Séries", Megapix
+http://w02.duoplay.xyz/033/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sjCUTuO.png" group-title="Variedades", MTV
+http://w01.duoplay.xyz/008/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DETvadB.jpg" group-title="Variedades", Multishow
+http://w01.duoplay.xyz/009/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DETvadB.jpg" group-title="Variedades", Multishow Opç. 2
+http://95.141.32.213:8081/look/eimax/chunks.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/npEA4nW.png" group-title="Cultura", National Geographic Channel
+http://w04.duoplay.xyz/110/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oEaYxVH.png" group-title="Cultura", Nat Geo Wild
+http://w03.duoplay.xyz/082/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IXyq4Yl.png" group-title="Infantis", Nickelodeon
+http://w03.duoplay.xyz/077/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IXyq4Yl.png" group-title="Infantis", Nickelodeon Opç. 2
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ob0BYzk.jpg" group-title="Infantis", Nick Jr
+http://w03.duoplay.xyz/096/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DeOVSnL.png" group-title="Religiosos", Novo Tempo
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/f7XJ4cK.png" group-title="Filmes e Séries", Paramount Channel
+http://w03.duoplay.xyz/068/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eHDpr9m.png" group-title="Variedades", Play TV
+http://w03.duoplay.xyz/067/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 1 Clubes
+http://w04.duoplay.xyz/105/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 1 Clubes Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/2/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 2
+http://w04.duoplay.xyz/106/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 3
+http://w04.duoplay.xyz/108/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 4
+http://w04.duoplay.xyz/107/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 5
+http://w02.duoplay.xyz/044/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 6 
+http://w02.duoplay.xyz/042/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 7
+http://w02.duoplay.xyz/043/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwH0Jly.png" group-title="Esportes", Premiere FC 8
+http://w02.duoplay.xyz/041/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oqz1twJ.jpg" group-title="Abertos", Polishop
+http://mm4td7.cloud.influxis.com:80/mm4td7_live/_definst_/polishoptv/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IOEPruC.png" group-title="Abertos", Record MT
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/yqabs4w.png" group-title="Notícias", Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Co5kejC.png" group-title="Abertos", Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tNFfOe9.png" group-title="Abertos", Rede Família
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wSZjaXb.jpg" group-title="Religiosos", Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2RGt4RR.png" group-title="Religiosos", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/OLsbUxQ.jpg" group-title="Abertos", Rede TV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/OLsbUxQ.jpg" group-title="Abertos", Rede TV! Opç. 2
+http://w02.duoplay.xyz/058/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bUbBWEM.png" group-title="Religiosos", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/w9uEpNM.jpg" group-title="Infantis", Retrô Cartoon
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4jNXKSt.png" group-title="Abertos", SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4jNXKSt.png" group-title="Abertos", SBT Opç. 2
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4jNXKSt.png" group-title="Abertos", SBT Opç. 3
+http://w04.duoplay.xyz/112/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4jNXKSt.png" group-title="Abertos", SBT Interior SP
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MBafrz1.png" group-title="Abertos", Sesc TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nYBgRwo.gif" group-title="Abertos", Shoptime
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/6000/t/D760P7rmVglQM-cRHQM6VQ/index-s32.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IYSVfbR.png" group-title="Filmes e Séries", Sony
+http://w01.duoplay.xyz/031/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qw1cIg9.jpg" group-title="Esportes", SporTV
+http://w02.duoplay.xyz/057/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qw1cIg9.jpg" group-title="Esportes", SporTV Opç. 2
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qw1cIg9.jpg" group-title="Esportes", SporTV Opç. 3
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qw1cIg9.jpg" group-title="Esportes", SporTV Opç. 4
+http://loadnovo.aovivo.gratis:8081/live/8/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tKntWZv.png" group-title="Esportes", SporTV 2
+http://w01.duoplay.xyz/007/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GkujVgc.png" group-title="Filmes e Séries", Studio Universal 
+http://w02.duoplay.xyz/064/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/P9mwzl9.png" group-title="Variedades", Sundance TV
+http://w03.duoplay.xyz/073/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aHbYDSj.jpg" group-title="Filmes e Séries", Syfy
+http://w03.duoplay.xyz/093/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/HNnKm9O.png" group-title="Filmes e Séries", TBS
+http://w02.duoplay.xyz/038/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Rng3GBY.gif" group-title="Filmes e Séries", TCM
+http://w02.duoplay.xyz/039/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9tve4Sf.png" group-title="Filmes e Séries", Telecine Action
+http://w01.duoplay.xyz/004/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lQ5toU0.png" group-title="Filmes e Séries", Telecine Cult
+http://w02.duoplay.xyz/055/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WsJLNyB.png" group-title="Filmes e Séries", Telecine Fun
+http://w02.duoplay.xyz/051/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Z03cUUg.png" group-title="Filmes e Séries", Telecine Pipoca
+http://w01.duoplay.xyz/001/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aYSInrn.png" group-title="Filmes e Séries", Telecine Premium
+http://w01.duoplay.xyz/005/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/FuUrgxo.png" group-title="Filmes e Séries", Telecine Touch
+http://w04.duoplay.xyz/109/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SnD8T99.jpg" group-title="Abertos", Terra Viva
+http://evcv.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CBLF2Ph.gif" group-title="Variedades", TLC
+http://w02.duoplay.xyz/034/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/z6qMsqw.png" group-title="Filmes e Séries", TNT
+http://w01.duoplay.xyz/023/myStream/playlist.m3u8?FCSPlay 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4odMjv.jpg" group-title="Filmes e Séries", TNT Séries
+http://w01.duoplay.xyz/019/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ldp40lE.png" group-title="Infantis", Tooncast
+http://w01.duoplay.xyz/011/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/o2fi0ui.png" group-title="Variedades", TruTV
+http://w04.duoplay.xyz/111/myStream/chunklist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NPlY7DL.png" group-title="Religiosos", TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/iHpL6L9.jpg" group-title="Abertos", TV Brasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/iHpL6L9.jpg" group-title="Abertos", TV Brasil BA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9qrzLGI.png" group-title="Abertos", TV Cultura BA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9qrzLGI.png" group-title="Abertos", TV Cultura SP
+http://177.73.84.49/hls/live/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ypfG2Oq.jpg" group-title="Abertos", TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lXoJRU1.png" group-title="Abertos", TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lXoJRU1.png" group-title="Abertos", TV Escola Opç. 2
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lzJHkc0.png" group-title="Abertos", TV Futura
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/7IdZiXm.png" group-title="Abertos", TV Gazeta
+http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/7IdZiXm.png" group-title="Abertos", TV Gazeta Opç. 2
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1qreLF3.png" group-title="Abertos", TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hNEGc7i.jpg" group-title="Filmes e Séries", Universal Channel
+http://w01.duoplay.xyz/003/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hNEGc7i.jpg" group-title="Filmes e Séries", Universal Channel Opç. 2
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/572nsS3.png" group-title="Variedades", VH1 Mega Hits
+http://w02.duoplay.xyz/040/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fxlGxn5.png" group-title="Web TV", Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/78meoqR.png" group-title="Variedades", Viva
+http://w03.duoplay.xyz/079/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jAvnBRg.png" group-title="Filmes e Séries", Warner Channel
+http://w03.duoplay.xyz/080/myStream/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GJm5N7W.png" group-title="Infantis", Zoomoo
+http://w03.duoplay.media/070/myStream/chunklist.m3u8?FCSPlay
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3240HBh.jpg" group-title="Programas Band", Brasil Urgente
+http://evpp.mm.uol.com.br/geob_band/brasilurgente/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kaDFlX7.jpg" group-title="Programas Band", Café com Jornal
+http://evpp.mm.uol.com.br/geob_band/cafecomjornal/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R22WeQF.png" group-title="Programas Band", Dia Dia
+http://evpp.mm.uol.com.br/geob_band/bandapp/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xASiXTm.jpg" group-title="Programas Band", Jogo Aberto
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/U5MCuDu.png" group-title="Programas Band", Jornal da Noite
+http://evpp.mm.uol.com.br/geob_band/jornaldanoite/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nG4vL4I.jpg" group-title="Programas Band", Master Chef
+http://evpp.mm.uol.com.br/geob_band/masterchefm/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/3ojpc0n.jpg" group-title="Programas Band", Os Donos da Bola
+http://evpp.mm.uol.com.br/geob_band/donosdabola/playlist.m3u8?FCSPlay
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qIdtP4e.jpg" group-title="Programas Band", Pânico na Band
+http://evpp.mm.uol.com.br/geob_band/bandapp/playlist.m3u8?FCSPlay
